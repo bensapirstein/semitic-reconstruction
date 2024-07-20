@@ -1,0 +1,8 @@
+ID	Name	NameInSource	Glottocode	ISO639P3code	Latitude	Longitude	Family
+ps	Semitic	PS	semi1276				Afro-Asiatic
+akkadian	Akkadian	Akkadian	akka1240	akk	33.1	44.1	Afro-Asiatic
+ugaritic	Ugaritic	Ugaritic	ugar1238	uga	35.6	35.78	Afro-Asiatic
+hebrew	Modern Hebrew	Hebrew	hebr1245	heb	31.1056	35.0179	Afro-Asiatic
+syriac	Classical Syriac	Syriac	clas1252	syc	37.1129	42.1432	Afro-Asiatic
+arabic	Arabic	Arabic	arab1395				Afro-Asiatic
+geez	Geez	Geez	geez1241	gez	10.1342	40.6821	Afro-Asiatic

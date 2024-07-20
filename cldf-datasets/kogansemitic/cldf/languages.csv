@@ -1,0 +1,8 @@
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,NameInSource
+ps,Semitic,semi1276,Semitic,,,,,Afro-Asiatic,PS
+akkadian,Akkadian,akka1240,Akkadian,akk,Eurasia,33.1,44.1,Afro-Asiatic,Akkadian
+ugaritic,Ugaritic,ugar1238,Ugaritic,uga,Eurasia,35.6,35.78,Afro-Asiatic,Ugaritic
+hebrew,Modern Hebrew,hebr1245,Modern Hebrew,heb,Eurasia,31.1056,35.0179,Afro-Asiatic,Hebrew
+syriac,Classical Syriac,clas1252,Classical Syriac,syc,Eurasia,37.1129,42.1432,Afro-Asiatic,Syriac
+arabic,Arabic,arab1395,Arabic,,,,,Afro-Asiatic,Arabic
+geez,Geez,geez1241,Geez,gez,Africa,10.1342,40.6821,Afro-Asiatic,Geez
