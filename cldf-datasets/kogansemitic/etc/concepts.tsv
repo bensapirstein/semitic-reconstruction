@@ -276,7 +276,7 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	CONCEPTICON_POS
 275	to take a wife, to marry	203	MARRY	verb
 276	to walk	1443	WALK	verb
 277	to go; to move; to proceed	695	GO	verb
-278	to go, walk	1443	WALK	verb
+278	to go, walk	695	GO	verb
 279	to go back, return; (pa.) to walk	581	COME BACK	verb
 280	to perish, to become in a bad state; to die	1494	DIE	verb
 281	day	1225	DAY (NOT NIGHT)	noun
@@ -314,7 +314,7 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	CONCEPTICON_POS
 313	husband or man	1554	MAN	noun
 314	husband	1200	HUSBAND	noun
 315	man, human being, husband	1554	MAN	noun
-316	men, persons	2106	MALE PERSON	noun
+316	men, persons	1554	MAN	noun
 317	to be low	721	LOW	adjective
 318	to bend down, stoop, plunge oneself			
 319	to become low, go deep			
@@ -581,7 +581,7 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	CONCEPTICON_POS
 580	bone of leg/arm; limb	1673	ARM	noun
 581	radius and ulna (the two bones of the human forearm)			
 582	limb, part	779	PART	noun
-583	forest, wood	1803	WOOD	noun
+583	forest, wood	420	FOREST	noun
 584	wood, timber	1803	WOOD	noun
 585	grass, herb	606	GRASS	noun
 586	grass; herb; spring	606	GRASS	noun
@@ -597,7 +597,7 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	CONCEPTICON_POS
 596	mare; sheass, donkey mare	938	MARE	noun
 597	donkey, sheass	1862	DONKEY	noun
 598	sheass			
-599	sheass; ass	834	BUTTOCKS	noun
+599	sheass; ass	1862	DONKEY	noun
 600	sheass, domestic or wild	2230	UNTAMED OR WILD	adjective
 601	elbow, forearm	981	ELBOW	noun
 602	forearm; cubit	446	LOWER ARM	noun
@@ -747,7 +747,7 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	CONCEPTICON_POS
 746	foster father			
 747	paternal aunt	2175	PATERNAL AUNT	noun
 748	wetnurse			
-749	maternal aunt	2176	MATERNAL AUNT	noun
+749	maternal aunt	2693	MATERNAL AUNT (MOTHER'S SISTER)	noun
 750	grandfather, ancestor, forefather	1383	GRANDFATHER	noun
 751	ancestor, forefather	1669	ANCESTORS	noun
 752	earth as a solid surface (ground)			
@@ -964,7 +964,7 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	CONCEPTICON_POS
 963	sinew; fiber of a root	1137	TENDON	noun
 964	sinew, tendon; nerve	1137	TENDON	noun
 965	sinew, tendon	1137	TENDON	noun
-966	spine; tendon, sinew	805	SPINE	noun
+966	spine; tendon, sinew	1137	TENDON	noun
 967	sinew, nerve, muscle	1004	MUSCLE	noun
 968	joint of limb bones; flexion, bend of limbs			
 969	crooked arms			
@@ -1024,7 +1024,7 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	CONCEPTICON_POS
 1023	area between the thighs, groin			
 1024	hinder part, posteriors, buttocks, rump	834	BUTTOCKS	noun
 1025	lap, crotch	3263	LAP	noun
-1026	lower part of the belly, the pubes			
+1026	lower part of the belly, the pubes	36	PUBIC HAIR	noun
 1027	buttocks	834	BUTTOCKS	noun
 1028	base, foot	1301	FOOT	noun
 1029	buttocks; base, foundation	834	BUTTOCKS	noun
@@ -1158,7 +1158,7 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	CONCEPTICON_POS
 1157	to carry	700	CARRY	verb
 1158	invalid, sick person			
 1159	to raise	501	LIFT	verb
-1160	elevation, height, lofty abode	2985	HEIGHT	noun
+1160	elevation, height, lofty abode	2936	ELEVATION	noun
 1161	to bear, to carry, to take up and carry	700	CARRY	verb
 1162	occiput, back of the neck			
 1163	part of neck			
@@ -1282,7 +1282,7 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	CONCEPTICON_POS
 1281	period of day after sunrise			
 1282	to take	1749	TAKE	verb
 1283	to take, to accept, to take over	1749	TAKE	verb
-1284	to get hold of, take, grasp; to receive, collect, obtain	7	GATHER	verb
+1284	to get hold of, take, grasp; to receive, collect, obtain	694	GET	verb
 1285	to take, grasp; accept, receive	1749	TAKE	verb
 1286	to join, to put together	1743	JOIN	verb
 1287	friend, companion	1325	FRIEND	noun
@@ -1433,8 +1433,8 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	CONCEPTICON_POS
 1432	plumage, feathers	1201	FEATHER	noun
 1433	feathers	1201	FEATHER	noun
 1434	forelock			
-1435	tear(-drop)	1735	TEAR (SHRED)	verb
-1436	tear	1735	TEAR (SHRED)	verb
+1435	tear(-drop)	1651	TEAR (OF EYE)	noun
+1436	tear	1651	TEAR (OF EYE)	noun
 1437	to gush forth			
 1438	sweat	125	SWEAT (SUBSTANCE)	noun
 1439	venom, bile	1780	BILE	noun
@@ -1490,7 +1490,7 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	CONCEPTICON_POS
 1489	flute	777	FLUTE	noun
 1490	swellings			
 1491	ulcers resulting from elephantiasis, pustules			
-1492	sores, scabies, leprosy	3624	LEPROSY	noun
+1492	sores, scabies, leprosy	3172	SCABIES	noun
 1493	leprosy	3624	LEPROSY	noun
 1494	a skin disease			
 1495	scar caused by a wound in the ball, or most elevated part, of the cheek			
@@ -1552,8 +1552,8 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	CONCEPTICON_POS
 1551	to bury	1719	BURY	verb
 1552	to be strong	785	STRONG	adjective
 1553	male	1553	MALE	adjective
-1554	man, male	2106	MALE PERSON	noun
-1555	male animal	3924	MALE ANIMAL	noun
+1554	man, male	1554	MAN	noun
+1555	male animal	2263	MALE (OF ANIMAL)	adjective
 1556	male, masculine animal; ram; penis; arsenic	1222	PENIS	noun
 1557	male; penis	1222	PENIS	noun
 1558	daughter-in-law; bride	1266	BRIDE	noun
@@ -1607,7 +1607,7 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	CONCEPTICON_POS
 1606	butter; cream	1245	BUTTER	noun
 1607	cream			
 1608	butter	1245	BUTTER	noun
-1609	alcoholic drink			
+1609	alcoholic drink	404	ALCOHOL (FERMENTED DRINK)	noun
 1610	an alcoholic drink, beer	1639	BEER	noun
 1611	intoxicating drink not made from grapes			
 1612	to become inebriated			
@@ -1743,7 +1743,7 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	CONCEPTICON_POS
 1742	woman having her vagina and rectum united by the rending of the separation between them			
 1743	kind of disease (fever, cold in the head; plague)			
 1744	to be nauseated			
-1745	a disease (affecting the head, vision, etc.)	1986	DISEASE	noun
+1745	a disease (affecting the head, vision, etc.)	2519	SEEING (VISUAL SENSE)	noun
 1746	certaine maladie des chameaux (a kind of camel disease)			
 1747	pestilence, plague			
 1748	a calamity			
@@ -2024,7 +2024,7 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	CONCEPTICON_POS
 2023	prisoner	1072	PRISONER	noun
 2024	to bind, tie	1917	TIE	verb
 2025	to tie, to tie up, to bind, to fetter	1917	TIE	verb
-2026	backside, lower leg, base, foundation	831	BASE	noun
+2026	backside, lower leg, base, foundation	447	LOWER LEG	noun
 2027	damp course, base, foundation (of a building, reign), bottom, root, lower extremities	670	ROOT	noun
 2028	to support; to stand	1442	STAND	verb
 2029	to lean against sth, to stand by; to place	723	PLACE (POSITION)	noun
@@ -2558,7 +2558,7 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	CONCEPTICON_POS
 2557	the entire part of the belly that surrounds the navel			
 2558	corpse, carcass	767	CORPSE	noun
 2559	cadaver			
-2560	cadaver, carrion			
+2560	cadaver, carrion	1770	CARCASS	noun
 2561	to be confident, at rest	168	REST	verb
 2562	to be confident			
 2563	to spread, to expand, to extend; to throw somebody down upon his face; VII. to lie, to stretch oneself	38	SPREAD OUT	verb
@@ -2632,7 +2632,7 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	CONCEPTICON_POS
 2631	to become little, tiny			
 2632	legs (as lower parts of body)	1297	LEG	noun
 2633	upper or inner thigh			
-2634	legs of a camel; lower body parts, ass	834	BUTTOCKS	noun
+2634	legs of a camel; lower body parts, ass	1862	DONKEY	noun
 2635	to crush, to pound; to be ground finely, to be fine, minute	354	POUND	verb
 2636	D. to pulverize, to crash			
 2637	tiny; fine; weak	1601	WEAK	adjective
@@ -2680,7 +2680,7 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	CONCEPTICON_POS
 2679	dwellingplace			
 2680	house, residence; court, atrium	1252	HOUSE	noun
 2681	period, cycle	508	PERIOD	noun
-2682	long time, eternity			
+2682	long time, eternity	418	FOR A LONG TIME	other
 2683	generation			
 2684	cycle, generation			
 2685	period, age; generation	1789	AGE	noun
@@ -2817,7 +2817,7 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	CONCEPTICON_POS
 2816	to protect, guard	2900	PROTECT	verb
 2817	brave	3	BRAVE	adjective
 2818	order, decision (divine)	1128	ORDER	verb
-2819	rite, ritual; divine authority; authoritative decision, command, decree	1747	CUSTOM	noun
+2819	rite, ritual; divine authority; authoritative decision, command, decree	1998	COMMAND	verb
 2820	a thing made obligatory or binding by God			
 2821	to write	1672	WRITE	verb
 2822	civil servant, office holder, administrator			

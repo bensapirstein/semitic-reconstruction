@@ -644,7 +644,7 @@ ps-390_togodown-1,,ps,390_togodown,*wrd,wrd,w r d,,,257,,^ w r d $,default
 akkadian-390_togodown-1,,akkadian,390_togodown,warādu,waraːdu,w a r aː d u,,,257,,^ w a r aː d u $,default
 hebrew-390_togodown-1,,hebrew,390_togodown,yrd,jrd,j r d,,,257,,^ j r d $,default
 geez-390_togodown-1,,geez,390_togodown,warada,warada,w a r a d a,,,257,,^ w a r a d a $,default
-ps-391_togoout-1,,ps,391_togoout,*wṣ̂ˀ,wɬˤʔ,w ɬˤ ʔ,,,261,,^ w ɬˤ ʔ $,default
+ps-391_togoout-1,,ps,391_togoout,*wŝˀ̣,wɬʔ̣,w ɬ ʔ <<̣>>,,,261,,^ w ɬ ʔ <̣> $,default
 akkadian-391_togoout-1,,akkadian,391_togoout,waṣû,wasˤû,w a sˤ û,,,261,,^ w a sˤ û $,default
 hebrew-392_offspringdescendant-1,,hebrew,392_offspringdescendant,ṣäˀäˇṣāˀīm,sˤæʔæ-sˤaːʔiːm,sˤ æ ʔ æ sˤ aː ʔ iː m,,,261,,^ sˤ æ ʔ æ - sˤ aː ʔ iː m $,default
 syriac-393_tosproutgrowtoexist-1,,syriac,393_tosproutgrowtoexist,yˁy,jʕj,j ʕ j,,,261,,^ j ʕ j $,default
@@ -1049,6 +1049,7 @@ hebrew-677_almondtreealmond-1,,hebrew,677_almondtreealmond,šāḳēd,ʃaːqˤe�
 syriac-677_almondtreealmond-1,,syriac,677_almondtreealmond,šegdtā,ʃegdtaː,ʃ e g d t aː,,,479,,^ ʃ e g d t aː $,default
 ps-678_figfigtree-1,,ps,678_figfigtree,*tiˀin(-at)-,tiʔin-,t i ʔ i n,,,480,,^ t i ʔ i n - $,default
 akkadian-679_figtreefig-1,,akkadian,679_figtreefig,tittu,tittu,t i t t u,,,480,,^ t i t t u $,default
+ugaritic-678_figfigtree-1,,ugaritic,678_figfigtree,ti-[n]a?-[t]u₄,ti-[n]a?-[t]u₄,t i <<[>> n <<]>> a <<?>> <<[>> t <<]>> u <<₄>>,,,480,,^ t i - <[> n <]> a <?> - <[> t <]> u <₄> $,default
 hebrew-678_figfigtree-1,,hebrew,678_figfigtree,təˀēnā,təʔeːnaː,t ə ʔ eː n aː,,,480,,^ t ə ʔ eː n aː $,default
 syriac-678_figfigtree-1,,syriac,678_figfigtree,tettā,tettaː,t e t t aː,,,480,,^ t e t t aː $,default
 arabic-678_figfigtree-1,,arabic,678_figfigtree,tīn-,tiːn-,t iː n,,,480,,^ t iː n - $,default

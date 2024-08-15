@@ -33,7 +33,7 @@ def filter_by_proto(sed, proto_lang="PS", num_langs=7):
     return data
 
 if __name__ == "__main__":
-    sed = pd.read_csv('../Scrapers/sed.tsv', sep='\t', dtype={'ID': str})
+    sed = pd.read_csv('Scrapers/sed.tsv', sep='\t', dtype={'ID': str})
     # sed = split_values(sed)
     # sed = split_concepts(sed)
     sed = filter_by_proto(sed)

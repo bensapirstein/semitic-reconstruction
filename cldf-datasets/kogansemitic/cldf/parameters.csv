@@ -276,7 +276,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 275_totakeawifetomarry,"to take a wife, to marry",203,MARRY
 276_towalk,to walk,1443,WALK
 277_togotomovetoproceed,to go; to move; to proceed,695,GO
-278_togowalk,"to go, walk",1443,WALK
+278_togowalk,"to go, walk",695,GO
 279_togobackreturnpatowalk,"to go back, return; (pa.) to walk",581,COME BACK
 280_toperishtobecomeinabadstatetodie,"to perish, to become in a bad state; to die",1494,DIE
 281_day,day,1225,DAY (NOT NIGHT)
@@ -314,7 +314,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 313_husbandorman,husband or man,1554,MAN
 314_husband,husband,1200,HUSBAND
 315_manhumanbeinghusband,"man, human being, husband",1554,MAN
-316_menpersons,"men, persons",2106,MALE PERSON
+316_menpersons,"men, persons",1554,MAN
 317_tobelow,to be low,721,LOW
 318_tobenddownstoopplungeoneself,"to bend down, stoop, plunge oneself",,
 319_tobecomelowgodeep,"to become low, go deep",,
@@ -581,7 +581,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 580_boneoflegarmlimb,bone of leg/arm; limb,1673,ARM
 581_radiusandulnathetwobonesofthehumanforearm,radius and ulna (the two bones of the human forearm),,
 582_limbpart,"limb, part",779,PART
-583_forestwood,"forest, wood",1803,WOOD
+583_forestwood,"forest, wood",420,FOREST
 584_woodtimber,"wood, timber",1803,WOOD
 585_grassherb,"grass, herb",606,GRASS
 586_grassherbspring,grass; herb; spring,606,GRASS
@@ -597,7 +597,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 596_maresheassdonkeymare,"mare; sheass, donkey mare",938,MARE
 597_donkeysheass,"donkey, sheass",1862,DONKEY
 598_sheass,sheass,,
-599_sheassass,sheass; ass,834,BUTTOCKS
+599_sheassass,sheass; ass,1862,DONKEY
 600_sheassdomesticorwild,"sheass, domestic or wild",2230,UNTAMED OR WILD
 601_elbowforearm,"elbow, forearm",981,ELBOW
 602_forearmcubit,forearm; cubit,446,LOWER ARM
@@ -747,7 +747,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 746_fosterfather,foster father,,
 747_paternalaunt,paternal aunt,2175,PATERNAL AUNT
 748_wetnurse,wetnurse,,
-749_maternalaunt,maternal aunt,2176,MATERNAL AUNT
+749_maternalaunt,maternal aunt,2693,MATERNAL AUNT (MOTHER'S SISTER)
 750_grandfatherancestorforefather,"grandfather, ancestor, forefather",1383,GRANDFATHER
 751_ancestorforefather,"ancestor, forefather",1669,ANCESTORS
 752_earthasasolidsurfaceground,earth as a solid surface (ground),,
@@ -964,7 +964,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 963_sinewfiberofaroot,sinew; fiber of a root,1137,TENDON
 964_sinewtendonnerve,"sinew, tendon; nerve",1137,TENDON
 965_sinewtendon,"sinew, tendon",1137,TENDON
-966_spinetendonsinew,"spine; tendon, sinew",805,SPINE
+966_spinetendonsinew,"spine; tendon, sinew",1137,TENDON
 967_sinewnervemuscle,"sinew, nerve, muscle",1004,MUSCLE
 968_jointoflimbbonesflexionbendoflimbs,"joint of limb bones; flexion, bend of limbs",,
 969_crookedarms,crooked arms,,
@@ -1024,7 +1024,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1023_areabetweenthethighsgroin,"area between the thighs, groin",,
 1024_hinderpartposteriorsbuttocksrump,"hinder part, posteriors, buttocks, rump",834,BUTTOCKS
 1025_lapcrotch,"lap, crotch",3263,LAP
-1026_lowerpartofthebellythepubes,"lower part of the belly, the pubes",,
+1026_lowerpartofthebellythepubes,"lower part of the belly, the pubes",36,PUBIC HAIR
 1027_buttocks,buttocks,834,BUTTOCKS
 1028_basefoot,"base, foot",1301,FOOT
 1029_buttocksbasefoundation,"buttocks; base, foundation",834,BUTTOCKS
@@ -1158,7 +1158,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1157_tocarry,to carry,700,CARRY
 1158_invalidsickperson,"invalid, sick person",,
 1159_toraise,to raise,501,LIFT
-1160_elevationheightloftyabode,"elevation, height, lofty abode",2985,HEIGHT
+1160_elevationheightloftyabode,"elevation, height, lofty abode",2936,ELEVATION
 1161_tobeartocarrytotakeupandcarry,"to bear, to carry, to take up and carry",700,CARRY
 1162_occiputbackoftheneck,"occiput, back of the neck",,
 1163_partofneck,part of neck,,
@@ -1282,7 +1282,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1281_periodofdayaftersunrise,period of day after sunrise,,
 1282_totake,to take,1749,TAKE
 1283_totaketoaccepttotakeover,"to take, to accept, to take over",1749,TAKE
-1284_togetholdoftakegrasptoreceivecollectobtain,"to get hold of, take, grasp; to receive, collect, obtain",7,GATHER
+1284_togetholdoftakegrasptoreceivecollectobtain,"to get hold of, take, grasp; to receive, collect, obtain",694,GET
 1285_totakegraspacceptreceive,"to take, grasp; accept, receive",1749,TAKE
 1286_tojointoputtogether,"to join, to put together",1743,JOIN
 1287_friendcompanion,"friend, companion",1325,FRIEND
@@ -1433,8 +1433,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1432_plumagefeathers,"plumage, feathers",1201,FEATHER
 1433_feathers,feathers,1201,FEATHER
 1434_forelock,forelock,,
-1435_teardrop,tear(-drop),1735,TEAR (SHRED)
-1436_tear,tear,1735,TEAR (SHRED)
+1435_teardrop,tear(-drop),1651,TEAR (OF EYE)
+1436_tear,tear,1651,TEAR (OF EYE)
 1437_togushforth,to gush forth,,
 1438_sweat,sweat,125,SWEAT (SUBSTANCE)
 1439_venombile,"venom, bile",1780,BILE
@@ -1490,7 +1490,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1489_flute,flute,777,FLUTE
 1490_swellings,swellings,,
 1491_ulcersresultingfromelephantiasispustules,"ulcers resulting from elephantiasis, pustules",,
-1492_soresscabiesleprosy,"sores, scabies, leprosy",3624,LEPROSY
+1492_soresscabiesleprosy,"sores, scabies, leprosy",3172,SCABIES
 1493_leprosy,leprosy,3624,LEPROSY
 1494_askindisease,a skin disease,,
 1495_scarcausedbyawoundintheballormostelevatedpartofthecheek,"scar caused by a wound in the ball, or most elevated part, of the cheek",,
@@ -1552,8 +1552,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1551_tobury,to bury,1719,BURY
 1552_tobestrong,to be strong,785,STRONG
 1553_male,male,1553,MALE
-1554_manmale,"man, male",2106,MALE PERSON
-1555_maleanimal,male animal,3924,MALE ANIMAL
+1554_manmale,"man, male",1554,MAN
+1555_maleanimal,male animal,2263,MALE (OF ANIMAL)
 1556_malemasculineanimalrampenisarsenic,"male, masculine animal; ram; penis; arsenic",1222,PENIS
 1557_malepenis,male; penis,1222,PENIS
 1558_daughterinlawbride,daughter-in-law; bride,1266,BRIDE
@@ -1607,7 +1607,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1606_buttercream,butter; cream,1245,BUTTER
 1607_cream,cream,,
 1608_butter,butter,1245,BUTTER
-1609_alcoholicdrink,alcoholic drink,,
+1609_alcoholicdrink,alcoholic drink,404,ALCOHOL (FERMENTED DRINK)
 1610_analcoholicdrinkbeer,"an alcoholic drink, beer",1639,BEER
 1611_intoxicatingdrinknotmadefromgrapes,intoxicating drink not made from grapes,,
 1612_tobecomeinebriated,to become inebriated,,
@@ -1743,7 +1743,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1742_womanhavinghervaginaandrectumunitedbytherendingoftheseparationbetweenthem,woman having her vagina and rectum united by the rending of the separation between them,,
 1743_kindofdiseasefevercoldintheheadplague,"kind of disease (fever, cold in the head; plague)",,
 1744_tobenauseated,to be nauseated,,
-1745_adiseaseaffectingtheheadvisionetc,"a disease (affecting the head, vision, etc.)",1986,DISEASE
+1745_adiseaseaffectingtheheadvisionetc,"a disease (affecting the head, vision, etc.)",2519,SEEING (VISUAL SENSE)
 1746_certainemaladiedeschameauxakindofcameldisease,certaine maladie des chameaux (a kind of camel disease),,
 1747_pestilenceplague,"pestilence, plague",,
 1748_acalamity,a calamity,,
@@ -2024,7 +2024,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2023_prisoner,prisoner,1072,PRISONER
 2024_tobindtie,"to bind, tie",1917,TIE
 2025_totietotieuptobindtofetter,"to tie, to tie up, to bind, to fetter",1917,TIE
-2026_backsidelowerlegbasefoundation,"backside, lower leg, base, foundation",831,BASE
+2026_backsidelowerlegbasefoundation,"backside, lower leg, base, foundation",447,LOWER LEG
 2027_dampcoursebasefoundationofabuildingreignbottomrootlowerextremities,"damp course, base, foundation (of a building, reign), bottom, root, lower extremities",670,ROOT
 2028_tosupporttostand,to support; to stand,1442,STAND
 2029_toleanagainststhtostandbytoplace,"to lean against sth, to stand by; to place",723,PLACE (POSITION)
@@ -2558,7 +2558,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2557_theentirepartofthebellythatsurroundsthenavel,the entire part of the belly that surrounds the navel,,
 2558_corpsecarcass,"corpse, carcass",767,CORPSE
 2559_cadaver,cadaver,,
-2560_cadavercarrion,"cadaver, carrion",,
+2560_cadavercarrion,"cadaver, carrion",1770,CARCASS
 2561_tobeconfidentatrest,"to be confident, at rest",168,REST
 2562_tobeconfident,to be confident,,
 2563_tospreadtoexpandtoextendtothrowsomebodydownuponhisfaceviitolietostretchoneself,"to spread, to expand, to extend; to throw somebody down upon his face; VII. to lie, to stretch oneself",38,SPREAD OUT
@@ -2632,7 +2632,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2631_tobecomelittletiny,"to become little, tiny",,
 2632_legsaslowerpartsofbody,legs (as lower parts of body),1297,LEG
 2633_upperorinnerthigh,upper or inner thigh,,
-2634_legsofacamellowerbodypartsass,"legs of a camel; lower body parts, ass",834,BUTTOCKS
+2634_legsofacamellowerbodypartsass,"legs of a camel; lower body parts, ass",1862,DONKEY
 2635_tocrushtopoundtobegroundfinelytobefineminute,"to crush, to pound; to be ground finely, to be fine, minute",354,POUND
 2636_dtopulverizetocrash,"D. to pulverize, to crash",,
 2637_tinyfineweak,tiny; fine; weak,1601,WEAK
@@ -2680,7 +2680,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2679_dwellingplace,dwellingplace,,
 2680_houseresidencecourtatrium,"house, residence; court, atrium",1252,HOUSE
 2681_periodcycle,"period, cycle",508,PERIOD
-2682_longtimeeternity,"long time, eternity",,
+2682_longtimeeternity,"long time, eternity",418,FOR A LONG TIME
 2683_generation,generation,,
 2684_cyclegeneration,"cycle, generation",,
 2685_periodagegeneration,"period, age; generation",1789,AGE
@@ -2817,7 +2817,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2816_toprotectguard,"to protect, guard",2900,PROTECT
 2817_brave,brave,3,BRAVE
 2818_orderdecisiondivine,"order, decision (divine)",1128,ORDER
-2819_riteritualdivineauthorityauthoritativedecisioncommanddecree,"rite, ritual; divine authority; authoritative decision, command, decree",1747,CUSTOM
+2819_riteritualdivineauthorityauthoritativedecisioncommanddecree,"rite, ritual; divine authority; authoritative decision, command, decree",1998,COMMAND
 2820_athingmadeobligatoryorbindingbygod,a thing made obligatory or binding by God,,
 2821_towrite,to write,1672,WRITE
 2822_civilservantofficeholderadministrator,"civil servant, office holder, administrator",,
