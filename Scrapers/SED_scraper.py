@@ -11,6 +11,7 @@ ignore_words = {
 }
 fix_words = [
     ("PS", 261, "*wŝˀ̣", "wṣ̂ˀ"),
+    ("PWS", 1281, "*ḳayṯ̣-̣", "*ḳayṯ̣-")
 ]
 def fetch_page(cog_id):
     url = "http://sed-online.ru/reconstructions/%s" % cog_id
@@ -103,7 +104,7 @@ def main():
     parser.add_argument('--debug', type=int, help='Number of cognates to fetch in debug mode')
     args = parser.parse_args()
 
-    reconstruction_max_id = 2153
+    reconstruction_max_id = 2170
     cog_ids = range(1, reconstruction_max_id)
     cog_ids = [x for x in cog_ids if x not in ignore_cogs]
     if args.debug:
@@ -111,7 +112,7 @@ def main():
     else:
         entries = get_cognates(cog_ids)
     df = pd.DataFrame(entries)
-    df.to_csv("sed.tsv", sep='\t', encoding="utf-8", index=False)
+    df.to_csv(m"sed.tsv", sep='\t', encoding="utf-8", index=False)
 
 
 if __name__ == '__main__':

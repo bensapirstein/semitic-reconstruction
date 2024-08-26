@@ -2,7 +2,72 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 ps,Semitic,semi1276,Semitic,,,,,Afro-Asiatic,PS
 akkadian,Akkadian,akka1240,Akkadian,akk,Eurasia,33.1,44.1,Afro-Asiatic,Akkadian
 ugaritic,Ugaritic,ugar1238,Ugaritic,uga,Eurasia,35.6,35.78,Afro-Asiatic,Ugaritic
+phoenician,Phoenician,phoe1239,Phoenician,phn,Eurasia,34.12,35.65,Afro-Asiatic,Phoenician
 hebrew,Modern Hebrew,hebr1245,Modern Hebrew,heb,Eurasia,31.1056,35.0179,Afro-Asiatic,Hebrew
+officialaramaic,Middle-Modern Aramaic,midd1367,Middle-Modern Aramaic,,,,,Afro-Asiatic,Official Aramaic
+hatran,Hatran,hatr1234,Hatran,,Eurasia,,,Afro-Asiatic,Hatran
+jewishpalestinianaramaic,Jewish Palestinian Aramaic,pale1261,Jewish Palestinian Aramaic,jpa,Eurasia,,,Afro-Asiatic,Jewish Palestinian Aramaic
+christianpalestinianaramaic,Christian Palestinian Aramaic,chri1239,Christian Palestinian Aramaic,,Eurasia,,,Afro-Asiatic,Christian Palestinian Aramaic
+samaritan,Samaritan,sama1313,Samaritan,smp,Eurasia,32.0817,35.4487,Afro-Asiatic,Samaritan
+jewishbabylonianaramaic,Jewish Babylonian Aramaic (ca. 200-1200 CE),jewi1240,Jewish Babylonian Aramaic (ca. 200-1200 CE),tmr,Eurasia,32.273,44.245,Afro-Asiatic,Jewish Babylonian Aramaic
 syriac,Classical Syriac,clas1252,Classical Syriac,syc,Eurasia,37.1129,42.1432,Afro-Asiatic,Syriac
+mandaic,Classical Mandaic,clas1253,Classical Mandaic,myz,Eurasia,36.1203,49.5659,Afro-Asiatic,Mandaic
+maalula,Maaloula,malu1250,Maaloula,,Eurasia,,,Afro-Asiatic,Maalula
+mlahso,Mlahsô,mlah1239,Mlahsô,lhs,Eurasia,37.0311,41.2209,Afro-Asiatic,Mlaḥso
+turoyo,Turoyo,turo1239,Turoyo,tru,Eurasia,37.2275,42.1451,Afro-Asiatic,Turoyo
 arabic,Arabic,arab1395,Arabic,,,,,Afro-Asiatic,Arabic
+sabaic,Sabaic,saba1279,Sabaic,xsa,Eurasia,15.42,45.35,Afro-Asiatic,Sabaic
+hadramitic,Hadrami,hadr1235,Hadrami,xhd,Eurasia,15.528,47.603,Afro-Asiatic,Hadramitic
 geez,Geez,geez1241,Geez,gez,Africa,10.1342,40.6821,Afro-Asiatic,Geez
+tigre,Tigre,tigr1270,Tigre,tig,Africa,17.3494,38.2233,Afro-Asiatic,Tigre
+tigrinya,Tigrinya,tigr1271,Tigrinya,tir,Africa,15.3359,38.9266,Afro-Asiatic,Tigrinya
+amharic,Amharic,amha1245,Amharic,amh,Africa,11.708182,39.543456,Afro-Asiatic,Amharic
+mehri,Mehri,mehr1241,Mehri,gdq,Eurasia,16.793,52.473,Afro-Asiatic,Mehri
+jibbali,Jibbali,sheh1240,Jibbali,shv,Eurasia,17.29154,53.99526,Afro-Asiatic,Jibbali
+harsusi,Harsusi,hars1241,Harsusi,hss,Eurasia,19.6511,56.1562,Afro-Asiatic,Harsusi
+soqotri,Soqotri,soqo1240,Soqotri,sqt,Africa,12.4892,53.9168,Afro-Asiatic,Soqotri
+harari,Harari,hara1271,Harari,har,Africa,9.30485,42.1332,Afro-Asiatic,Harari
+soddo,Soddo,sodd1242,Soddo,,Africa,,,Afro-Asiatic,Soddo
+palmyrean,Palmyrene,palm1242,Palmyrene,,Eurasia,,,Afro-Asiatic,Palmyrean
+qatabanian,Qatabanian,qata1238,Qatabanian,xqt,Eurasia,14.8,45.733333,Afro-Asiatic,Qatabanian
+ebla,Eblaite,ebla1238,Eblaite,xeb,Eurasia,35.798,36.798,Afro-Asiatic,Ebla
+minaean,Minaean,mina1279,Minaean,inm,Eurasia,16.166667,44.672778,Afro-Asiatic,Minaean
+gurage,Sebat Bet Gurage,seba1251,Sebat Bet Gurage,sgw,Africa,8.11879,37.9891,Afro-Asiatic,Gurage
+samalian,Old Aramaic-Sam'alian,olda1245,Old Aramaic-Sam'alian,oar,Eurasia,32.84,37.0,Afro-Asiatic,Samalian
+oldaramaic,Old Aramaic (up to 700 BCE),olda1246,Old Aramaic (up to 700 BCE),,Eurasia,,,Afro-Asiatic,Old Aramaic
+nabataean,Nabatean,naba1259,Nabatean,,Eurasia,,,Afro-Asiatic,Nabataean
+selti,Silt'e,silt1240,Silt'e,stv,Africa,7.77004,38.1449,Afro-Asiatic,Selti
+wolane,Wolane,wola1253,Wolane,wle,Africa,8.23,38.14,Afro-Asiatic,Wolane
+zway,Zay,zayy1238,Zay,zwa,Africa,8.01148,38.8258,Afro-Asiatic,Zway
+ezha,Ezha,ezha1238,Ezha,,Africa,,,Afro-Asiatic,Ezha
+endegen,Endegegny,eneg1238,Endegegny,,Africa,,,Afro-Asiatic,Endegen
+ennemor,Inoric,inor1238,Inoric,ior,Africa,7.94883,37.7968,Afro-Asiatic,Ennemor
+gyeto,Gyeta,gyet1241,Gyeta,,Africa,,,Afro-Asiatic,Gyeto
+muher,Muher,muhe1234,Muher,,Africa,,,Afro-Asiatic,Muher
+masqan,Mesqan,mesq1240,Mesqan,mvz,Africa,8.10617,38.3386,Afro-Asiatic,Masqan
+gogot,Kistane,kist1241,Kistane,gru,Africa,8.33561,38.4763,Afro-Asiatic,Gogot
+argobba,Argobba,argo1244,Argobba,agj,Africa,10.6596,39.756,Afro-Asiatic,Argobba
+biblicalaramaic,Imperial Aramaic (700-300 BCE),impe1235,Imperial Aramaic (700-300 BCE),arc,Eurasia,33.905,42.185,Afro-Asiatic,Biblical Aramaic
+hertevin,Hertevin,hert1241,Hertevin,hrt,Eurasia,37.373,42.5192,Afro-Asiatic,Hertevin
+gafat,Gafat,gafa1240,Gafat,gft,Africa,11.5764,39.5605,Afro-Asiatic,Gafat
+chaha,Chaha,chah1248,Chaha,,Africa,,,Afro-Asiatic,Chaha
+pws,West Semitic,west2786,West Semitic,,,,,Afro-Asiatic,PWS
+protomsa,Modern South Arabian,mode1252,Modern South Arabian,,,,,Afro-Asiatic,Proto-MSA
+amarnacanaanite,Canaanite,cana1267,Canaanite,,,,,Afro-Asiatic,Amarna Canaanite
+deiralla,Canaanite,cana1267,Canaanite,,,,,Afro-Asiatic,Deir Alla
+demoticaramaic,Demotic Egyptian,demo1234,Demotic Egyptian,,Africa,,,Afro-Asiatic,Demotic Aramaic
+urmi,Urmi,urmi1250,Urmi,,Eurasia,,,Afro-Asiatic,Urmi
+moabite,Moabite,moab1234,Moabite,obm,Eurasia,,,Afro-Asiatic,Moabite
+barwar,Lower Barwari,lowe1435,Lower Barwari,,Eurasia,,,Afro-Asiatic,Barwar
+pc,Canaanite,cana1267,Canaanite,,,,,Afro-Asiatic,PC
+pes,East Semitic,east2678,East Semitic,,,,,Afro-Asiatic,PES
+pcs,Central Semitic,cent2236,Central Semitic,,,,,Afro-Asiatic,PCS
+pnws,Northwest Semitic,nort3165,Northwest Semitic,,,,,Afro-Asiatic,PNWS
+parm,Aramaic,aram1259,Aramaic,,,,,Afro-Asiatic,PArm
+betanure,Bétanure Jewish Neo-Aramaic,beta1257,Bétanure Jewish Neo-Aramaic,,Eurasia,,,Afro-Asiatic,Betanure
+ammonite,Ammonite,ammo1234,Ammonite,qgg,Eurasia,,,Afro-Asiatic,Ammonite
+jilu,Jilu,jilu1238,Jilu,,Eurasia,,,Afro-Asiatic,Jilu
+qaraqosh,Christian Qaraqosh,chri1238,Christian Qaraqosh,,Eurasia,,,Afro-Asiatic,Qaraqosh
+arbel,Arbel,arbe1239,Arbel,,Eurasia,,,Afro-Asiatic,Arbel
+geezepigraphic,Geez,geez1241,Geez,gez,Africa,10.1342,40.6821,Afro-Asiatic,Geez (epigraphic)
+arealreconstruction,Semitic,semi1276,Semitic,,,,,Afro-Asiatic,Areal reconstruction

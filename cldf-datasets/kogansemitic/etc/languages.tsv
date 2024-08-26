@@ -2,7 +2,72 @@ ID	Name	NameInSource	Glottocode	ISO639P3code	Latitude	Longitude	Family
 ps	Semitic	PS	semi1276				Afro-Asiatic
 akkadian	Akkadian	Akkadian	akka1240	akk	33.1	44.1	Afro-Asiatic
 ugaritic	Ugaritic	Ugaritic	ugar1238	uga	35.6	35.78	Afro-Asiatic
+phoenician	Phoenician	Phoenician	phoe1239	phn	34.12	35.65	Afro-Asiatic
 hebrew	Modern Hebrew	Hebrew	hebr1245	heb	31.1056	35.0179	Afro-Asiatic
+officialaramaic	Middle-Modern Aramaic	Official Aramaic	midd1367				Afro-Asiatic
+hatran	Hatran	Hatran	hatr1234				Afro-Asiatic
+jewishpalestinianaramaic	Jewish Palestinian Aramaic	Jewish Palestinian Aramaic	pale1261	jpa			Afro-Asiatic
+christianpalestinianaramaic	Christian Palestinian Aramaic	Christian Palestinian Aramaic	chri1239				Afro-Asiatic
+samaritan	Samaritan	Samaritan	sama1313	smp	32.0817	35.4487	Afro-Asiatic
+jewishbabylonianaramaic	Jewish Babylonian Aramaic (ca. 200-1200 CE)	Jewish Babylonian Aramaic	jewi1240	tmr	32.273	44.245	Afro-Asiatic
 syriac	Classical Syriac	Syriac	clas1252	syc	37.1129	42.1432	Afro-Asiatic
+mandaic	Classical Mandaic	Mandaic	clas1253	myz	36.1203	49.5659	Afro-Asiatic
+maalula	Maaloula	Maalula	malu1250				Afro-Asiatic
+mlahso	Mlahsô	Mlaḥso	mlah1239	lhs	37.0311	41.2209	Afro-Asiatic
+turoyo	Turoyo	Turoyo	turo1239	tru	37.2275	42.1451	Afro-Asiatic
 arabic	Arabic	Arabic	arab1395				Afro-Asiatic
+sabaic	Sabaic	Sabaic	saba1279	xsa	15.42	45.35	Afro-Asiatic
+hadramitic	Hadrami	Hadramitic	hadr1235	xhd	15.528	47.603	Afro-Asiatic
 geez	Geez	Geez	geez1241	gez	10.1342	40.6821	Afro-Asiatic
+tigre	Tigre	Tigre	tigr1270	tig	17.3494	38.2233	Afro-Asiatic
+tigrinya	Tigrinya	Tigrinya	tigr1271	tir	15.3359	38.9266	Afro-Asiatic
+amharic	Amharic	Amharic	amha1245	amh	11.708182	39.543456	Afro-Asiatic
+mehri	Mehri	Mehri	mehr1241	gdq	16.793	52.473	Afro-Asiatic
+jibbali	Jibbali	Jibbali	sheh1240	shv	17.29154	53.99526	Afro-Asiatic
+harsusi	Harsusi	Harsusi	hars1241	hss	19.6511	56.1562	Afro-Asiatic
+soqotri	Soqotri	Soqotri	soqo1240	sqt	12.4892	53.9168	Afro-Asiatic
+harari	Harari	Harari	hara1271	har	9.30485	42.1332	Afro-Asiatic
+soddo	Soddo	Soddo	sodd1242				Afro-Asiatic
+palmyrean	Palmyrene	Palmyrean	palm1242				Afro-Asiatic
+qatabanian	Qatabanian	Qatabanian	qata1238	xqt	14.8	45.733333	Afro-Asiatic
+ebla	Eblaite	Ebla	ebla1238	xeb	35.798	36.798	Afro-Asiatic
+minaean	Minaean	Minaean	mina1279	inm	16.166667	44.672778	Afro-Asiatic
+gurage	Sebat Bet Gurage	Gurage	seba1251	sgw	8.11879	37.9891	Afro-Asiatic
+samalian	Old Aramaic-Sam'alian	Samalian	olda1245	oar	32.84	37.0	Afro-Asiatic
+oldaramaic	Old Aramaic (up to 700 BCE)	Old Aramaic	olda1246				Afro-Asiatic
+nabataean	Nabatean	Nabataean	naba1259				Afro-Asiatic
+selti	Silt'e	Selti	silt1240	stv	7.77004	38.1449	Afro-Asiatic
+wolane	Wolane	Wolane	wola1253	wle	8.23	38.14	Afro-Asiatic
+zway	Zay	Zway	zayy1238	zwa	8.01148	38.8258	Afro-Asiatic
+ezha	Ezha	Ezha	ezha1238				Afro-Asiatic
+endegen	Endegegny	Endegen	eneg1238				Afro-Asiatic
+ennemor	Inoric	Ennemor	inor1238	ior	7.94883	37.7968	Afro-Asiatic
+gyeto	Gyeta	Gyeto	gyet1241				Afro-Asiatic
+muher	Muher	Muher	muhe1234				Afro-Asiatic
+masqan	Mesqan	Masqan	mesq1240	mvz	8.10617	38.3386	Afro-Asiatic
+gogot	Kistane	Gogot	kist1241	gru	8.33561	38.4763	Afro-Asiatic
+argobba	Argobba	Argobba	argo1244	agj	10.6596	39.756	Afro-Asiatic
+biblicalaramaic	Imperial Aramaic (700-300 BCE)	Biblical Aramaic	impe1235	arc	33.905	42.185	Afro-Asiatic
+hertevin	Hertevin	Hertevin	hert1241	hrt	37.373	42.5192	Afro-Asiatic
+gafat	Gafat	Gafat	gafa1240	gft	11.5764	39.5605	Afro-Asiatic
+chaha	Chaha	Chaha	chah1248				Afro-Asiatic
+pws	West Semitic	PWS	west2786				Afro-Asiatic
+protomsa	Modern South Arabian	Proto-MSA	mode1252				Afro-Asiatic
+amarnacanaanite	Canaanite	Amarna Canaanite	cana1267				Afro-Asiatic
+deiralla	Canaanite	Deir Alla	cana1267				Afro-Asiatic
+demoticaramaic	Demotic Egyptian	Demotic Aramaic	demo1234				Afro-Asiatic
+urmi	Urmi	Urmi	urmi1250				Afro-Asiatic
+moabite	Moabite	Moabite	moab1234	obm			Afro-Asiatic
+barwar	Lower Barwari	Barwar	lowe1435				Afro-Asiatic
+pc	Canaanite	PC	cana1267				Afro-Asiatic
+pes	East Semitic	PES	east2678				Afro-Asiatic
+pcs	Central Semitic	PCS	cent2236				Afro-Asiatic
+pnws	Northwest Semitic	PNWS	nort3165				Afro-Asiatic
+parm	Aramaic	PArm	aram1259				Afro-Asiatic
+betanure	Bétanure Jewish Neo-Aramaic	Betanure	beta1257				Afro-Asiatic
+ammonite	Ammonite	Ammonite	ammo1234	qgg			Afro-Asiatic
+jilu	Jilu	Jilu	jilu1238				Afro-Asiatic
+qaraqosh	Christian Qaraqosh	Qaraqosh	chri1238				Afro-Asiatic
+arbel	Arbel	Arbel	arbe1239				Afro-Asiatic
+geezepigraphic	Geez	Geez (epigraphic)	geez1241	gez	10.1342	40.6821	Afro-Asiatic
+arealreconstruction	Semitic	Areal reconstruction	semi1276				Afro-Asiatic

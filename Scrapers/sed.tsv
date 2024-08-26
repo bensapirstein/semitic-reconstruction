@@ -137,9 +137,9 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 5313	Soddo	to die	motä		(EDG 435)	6
 967	Mehri	to die; to be eclipsed	mōt		(ML 275)	6
 10019	Jibbali	to put to death	emyét		(JL 176)	6
-10020	Jibbali	death	mít		(JL 176)	6
+10020	Jibbali	death	mít		(JL 176)	6
 10021	Harsusi	to die, to be numb	mōt		(HL 92)	6
-10022	Soqotri	death	mī		(LS 237)	6
+10022	Soqotri	death	mī		(LS 237; Kogan 2020:448; Belozerova et al. 2023:569)	6
 	PS	to drink	*šty		(CDG 518)	7
 5734	Akkadian	to drink	šatû		(CAD Š₂ 207, AHw. 1202)	7
 495	Ugaritic	to drink	šty		(DUL 853)	7
@@ -174,8 +174,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 156	Mehri	to drink	təḳ		(ML 155)	9
 11382	Jibbali	to provide enough water	šéḳé		(JL 262)	9
 2239	Jibbali	to drink	šúṣ̃i		(JL 262)	9
-11383	Soqotri	to provide enough water	héṣ̌e		(LS 142)	9
-24452	Soqotri	to smoke	téḳi		(LS 444, CSOL I 675, not in CSOL II)	9
+11383	Soqotri	to provide enough water	héṣ̌e		(LS 142)	9
 7250	Soqotri	to irrigate	ʸháṣ̌e		(LS 142; CSOL I 695; CSOL II 629; Naumkin et al. 2016a:47; Naumkin–Kogan 2021 :529)	9
 	PS	nail, claw	*ṯ̣ipr-		(SED I No. 285)	10
 6479	Akkadian	claw	ṣupru		(CAD Ṣ 250, AHw. 1113)	10
@@ -210,6 +209,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 954	Mehri	nail of a finger or toe, claw	ḏ̣fēr		(ML 83)	10
 2233	Jibbali	finger or toenail	ḏ̣ífέr		(JL 48)	10
 25722	Harsusi	nail of a finger or toe, claw	ḏ̣efīr		(HL 29)	10
+42	Soqotri	fingernail	ṭífɛr		(LS 207; CSOL I 683)	10
 	PWS	to be abundant (water); to drink abundantly	*rwy		(CDG 478; Kogan 2011: 239; Kogan 2015: 97)	11
 6494	Hebrew	to drink one's fill, be refreshed	rwy		(HALOT 1194)	11
 6496	Syriac	to drink satiety; to get drunk	rwy		(LSyr. 719, SL 1448)	11
@@ -220,8 +220,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 6498	Geez	to drink one's fill	rawaya		(CDG 478)	11
 11374	Mehri	to have had one's thirst slaked, drink to repletion	ráywi		(ML 334)	11
 11375	Jibbali	to have had enough to drink	rē		(JL 218)	11
-7610	Soqotri	to drink	ri		(LS 395–396, CSOL I 638, CSOL II 569)	11
-213	Soqotri	water	rího		(LS 396, CSOL I 638, CSOL II 569)	11
+29390	Harsusi	to have had enough water	rewō or rewī		(HL 106)	11
 	PS	ear	*ˀuḏn-		(SED I No. 4)	14
 2930	Akkadian	ear	uznu		(CAD U–W 362, AHw. 1447)	14
 496	Ugaritic	ear	ˀudn		(DUL 20)	14
@@ -255,7 +254,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 2951	Gogot	ear	ənzən		(EDG 121)	14
 2952	Soddo	ear	ənzən		(EDG 121)	14
 2958	Mehri	ear	ḥə-yḏēn		(ML 3)	14
-2960	Jibbali	ear	ˀiḏɛ́n		(JL 1)	14
+2960	Jibbali	ear	ˀiḏέn		(JL 1)	14
 2959	Harsusi	ear	ḥe-yḏēn		(HL 1)	14
 3038	Soqotri	ear	ídhɛn		(LS 53; CSOL I 466; CSOL II 379 )	14
 	PS	to eat	*ˀkl		(Fronzaroli 1971: 609, 631; HALOT 46; Kogan 2011: 238)	15
@@ -307,6 +306,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 75	Mehri	to eat	təwū		(ML 404)	18
 1100	Mehri	meat	táywi		(ML 404)	18
 76	Jibbali	to eat	té		(JL 273)	18
+7402	Soqotri	1. to eat; 2. to enjoy, to consume (wealth)	te		(LS 440; CSOL I 679; CSOL II 613; Naumkin et al. 2015a:89)	18
 	PS	eye	*ˁayn-		(SED I No. 28)	19
 5537	Akkadian	eye	īnu		(CAD I 153, AHw. 353)	19
 5538	Ebla	eye	a-na-a		(Krebernik 1983, 27)	19
@@ -386,7 +386,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 22943	Soddo	be full	molla		(EDG 401)	20
 989	Mehri	to be full	mīləˀ		(ML 265)	20
 2460	Jibbali	full	míẑi		(JL 171)	20
-7757	Soqotri	to be filled	míľi		(LS 243, CSOL I 609, CSOL II)	20
+7757	Soqotri	to be filled	míľi		(LS 243; CSOL I 609; CSOL II 535)	20
 	PS	hair	*ŝaˁr-		(SED I No. 260)	21
 5738	Akkadian	hair	šārtu		(CAD Š₂ 125, AHw. 1191)	21
 17715	Ebla	pelo; capelli	sa-ra-du-um, sa-ra-tum		(Fronzaroli, Materiali per il lessico eblaita 180; Krebernik 1983: 35, VE 28)	21
@@ -405,6 +405,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 4296	Arabic	hair	šaˁr-		(Lane 1560)	21
 77	Geez	hair of body or head	ŝəˁərt		(CDG 525)	21
 80	Harsusi	hair, wool	ŝōr		(HL 117)	21
+81	Soqotri	hair, wool	ŝáˁyhor		(LS 432; Naumkin et al. 2015a:87)	21
 	Proto-MSA	hair	*ŝip-at-		(Kogan 2015: 539)	22
 993	Mehri	hair	ŝəft		(ML 373)	22
 2464	Jibbali	hair	ŝfét		(JL 246)	22
@@ -530,7 +531,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 6265	Soddo	to hear	sämma		(EDG 545)	26
 996	Mehri	to hear	hīma		(ML 157)	26
 2468	Jibbali	to hear	šĩˁ		(JL 262)	26
-7295	Soqotri	to hear	hímaˁ		(LS 144; CSOL I 694; CSOL II 628; Naumkin et al. 2015a:69)	26
 	PS	heart	*libb-		(SED I No. 174)	27
 5741	Akkadian	heart	libbu		(CAD L 164, AHw. 549)	27
 509	Ugaritic	heart	lb		(DUL 489)	27
@@ -561,7 +561,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 2467	Jibbali	heart	ub		(JL 159)	27
 6471	Jibbali	heart	ubbə́tə		(JL 159)	27
 24323	Harsusi	heart	ḥe-lbēb		(HL 82 )	27
-7799	Soqotri	heart	ə́ľbəb		(LS 61, CSOL I 600, CSOL II 524)	27
+7799	Soqotri	heart	éľbeb		(LS 61, CSOL I 600, CSOL II 524)	27
 	PS	heart, middle of the body	*ḳalb-/*ḳabl-		(SED I No. 161)	28
 86	Akkadian	middle, center, middle part	ḳablu		(CAD Q 6, AHw. 887)	28
 87	Arabic	heart	qalb-		(Lane 2553)	28
@@ -605,7 +605,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 6337	Soddo	horn	ḳär		(EDG 494)	29
 998	Mehri	horn	ḳōn		(ML 236)	29
 2607	Jibbali	horn	ḳun		(JL 149)	29
-703	Soqotri	horn	ḳɔn		(LS 377; CSOL I 592; CSOL II 516)	29
 	PS	I	*ˀanāku/ˀanV		(CDG 26, Kogan 2015: 32)	30
 7892	Akkadian	I	anāku		(CAD A₂ 106, AHw. 49)	30
 18018	Ebla	I	an-na		(Catagnoti 2012:69)	30
@@ -651,7 +650,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 1001	Mehri	knee	bark		(ML 52)	31
 2610	Jibbali	knee	bɛrk		(JL 28)	31
 21674	Harsusi	knee	bark		(HL 19)	31
-3547	Soqotri	knee	bɛrk		(LS 96; CSOL I 519)	31
 	PWS	knee	*rVk(u)b(-­at)­-		(SED I No. 232)	32
 6610	Biblical Aramaic	(du. suff. 3 ms) knee	ˀarkubbāṯēh		(HALOT 1825)	32
 8999	Jewish Palestinian Aramaic	knee	ˀrkwbth		(DJPA 7)	32
@@ -666,7 +664,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	PS	liver	*kabid-		(SED I No. 141)	33
 93	Akkadian	emotions, thought, mind, spirit	kabattu		(CAD K 11, AHw. 416)	33
 515	Ugaritic	liver	kbd		(DUL 424)	33
-632	Hebrew	liver	kābēd		(HALOT 456)	33
+632	Hebrew	liver	kābēd		(BDB 458; HALOT  456)	33
 23090	Jewish Palestinian Aramaic	liver	kabdā		(Jastrow 607)	33
 633	Syriac	liver; anger	kabdā		(LSyr. 315, SL 595)	33
 23091	Mandaic	liver; digestive organ	kabda, kabada		(MD 195, 194)	33
@@ -708,7 +706,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 24374	Tigrinya	intestine	ˀamˁut		(Bass. 491)	34
 6668	Mehri	intestine	məˀəwəyēn		(ML 260)	34
 24375	Harsusi	intestine	mˁeyīn		(HL 87)	34
-6669	Soqotri	small intestine; intestine (in general)	miˁḥo		(LS 248; Simeone-Senelle - Lonnet 1991:1466; CSOL II 531)	34
 	PS	mouth	*pay-		(SED I No. 223)	35
 7932	Akkadian	mouth	pû		(CAD P 453, AHw. 872)	35
 521	Ugaritic	mouth	p		(DUL 657)	35
@@ -778,7 +775,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 6353	Soddo	name	səm		(EDG 545)	37
 1104	Mehri	name	ham		(ML 158)	37
 2622	Jibbali	name	šum		(JL 262)	37
-741	Soqotri	name	šɛm		(LS 418, CSOL I 660, CSOL II 593)	37
 	PS	new	*ḥdṯ		(CDG 225, Kogan 2015: 33)	38
 7920	Akkadian	new	eššu		(CAD E 374, AHw. 258)	38
 523	Ugaritic	new	ḥdṯ		(DUL 355)	38
@@ -851,7 +847,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 5149	Tigrinya	night	läyti		(Kogan 2011: 196)	42
 5150	Amharic	night	let		(Kogan 2011: 196)	42
 5151	Mehri	night	līlət		(ML 259)	42
-7783	Soqotri	night	ľéľhe		(LS 233, CSOL I 603, CSOL II)	42
+7783	Soqotri	night	ľéľhe		(LS 233; CSOL I 603; CSOL II 528)	42
 	PS	evening	*mušy(-at)-		(CDG 368; Fronzaroli 1965a: 141, 147, 150; Kogan 2011: 196; Kogan 2015: 33)	43
 5152	Akkadian	night	mušītu		(CAD M₂ 271, AHw. 683)	43
 138	Akkadian	night	mūšu		(CAD M₂ 291, AHw. 687)	43
@@ -1067,7 +1063,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 6388	Soddo	star	kokäb		(EDG 340)	56
 2052	Mehri	star	kəbkīb		(ML 201)	56
 2645	Jibbali	star	kəbkéb		(JL 125)	56
-783	Soqotri	star	kə́bšəb		(LS 214)	56
+783	Soqotri	star	kébšeb		(LS 214)	56
 	PS	sun	*ŝamš-		(HALOT 1589; Fronzaroli 1965a: 137, 144, 149; Kogan 2011: 192–193; Kogan 2015: 35)	57
 5007	Akkadian	sun	šamšu		(CAD Š₁ 335, AHw. 1158)	57
 536	Ugaritic	sun	špš		(DUL 836)	57
@@ -1152,8 +1148,8 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 18862	Harsusi	this	ḏā		(HL 27)	59
 821	Soqotri	this	deʰ		(LS 62, 120, 127, 131, 229; CSOL I 522-523; CSOL II 439-440; Naumkin et al. 2015a:66)	59
 3567	Soqotri	nota genitivi; relative pronoun	di-		(LS 119; CSOL I 523; CSOL II 440-441)	59
-3606	Soqotri	another one, the other	dɛg, dɛ́gen		(LS 122, 124, 127; CSOL I 526; CSOL II 444)	59
-3566	Soqotri	that	dɛ́nˁaʰ		(LS 62, 120, 127, 131, 229; CSOL I 523; CSOL II 440)	59
+3606	Soqotri	another one, the other	dɛg, dέgen		(LS 122, 124, 127; CSOL I 526; CSOL II 444)	59
+3566	Soqotri	that	dέnˁaʰ		(LS 62, 120, 127, 131, 229; CSOL I 523; CSOL II 440)	59
 	PS	(deictic element)	*hanni-		(Tropper 2001a:17, Kogan 2015: 35)	60
 195	Akkadian	this	annû		(CAD A₂ 136, AHw. 53)	60
 537	Ugaritic	this	hnd		(DUL 344)	60
@@ -1178,7 +1174,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 21506	Gafat	you (masc. sg.)	ant/antä		(Bulakh–Kogan 2013b:95)	61
 2059	Mehri	thou	hēt		(ML 161)	61
 2652	Jibbali	thou	hɛt		(JL 99)	61
-3007	Soqotri	you (2ms)	ɛ / ɛ́hɛn		(LS 48, CSOL I 460, CSOL II 374)	61
+3007	Soqotri	you (2ms)	ɛ / έhɛn		(LS 48, CSOL I 460, CSOL II 374)	61
 	PS	tongue	*liš(š)ān-		(SED I No. 181)	62
 6634	Akkadian	tongue, language	lišānu		(CAD L 209, AHw. 556)	62
 24813	Ebla	tongue	li-sa-nu		(VE 180)	62
@@ -1277,7 +1273,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 9168	Arabic	both	kilā		(WKAS K 286)	69
 5872	Mehri	both	kəlō		(ML 207)	69
 7080	Soqotri	both	káˀḷa		(LS 213; CSOL I 574; CSOL II 496)	69
-	PS	- water	*mā̆y		(CDG 376, Fronzaroli 1965a: 140, 146; Kogan 2011: 191; Kogan 2015: 36)	71
+	PS	water	*mā̆y-		(CDG 376, Fronzaroli 1965a: 140, 146; Kogan 2011: 191; Kogan 2015: 36)	71
 7927	Akkadian	water	mû		(CAD M₂ 149, AHw. 664)	71
 23725	Ebla	water (oblique case)	mi /mē/		(VE 616)	71
 544	Ugaritic	water	my		(DUL 535)	71
@@ -1296,6 +1292,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 6405	Harari	water	mīy		(EDH 116)	71
 2065	Mehri	water	ḥə-mōh		(ML 274)	71
 2658	Jibbali	water	míh		(JL 176)	71
+29393	Harsusi	water	ḥe-myōh, -móh/myīh		(HL 92)	71
 	PS	we	*niḥnū̆/niḥnā̆		(Kogan 2009:67, CDG 395)	72
 7928	Akkadian	we	nīnu		(CAD N₂ 239, AHw. 791)	72
 674	Hebrew	we	ˀănaḥnū		(HALOT 71)	72
@@ -1342,7 +1339,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 6416	Chaha	who	mʷan		(EDG 407)	75
 2068	Mehri	who	mōn		(ML 267)	75
 2663	Jibbali	who	mun		(JL 172)	75
-7753	Soqotri	who?	m(h)ɔn		(LS 245, CSOL I 612, CSOL II 538)	75
+7753	Soqotri	who?	m(h)ɔn		(LS 245; CSOL I 612; CSOL II 538; Naumkin et al. 2015a:79)	75
 	PC	who?	*mīya/*miya		(HALOT 575, Kogan 2015: 268)	77
 546	Ugaritic	who	my		(DUL 607)	77
 908	Hebrew	who	mī		(HALOT 575)	77
@@ -1571,7 +1568,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 353	Geez	moon, first day of the month	ŝāhr		(CDG 528)	95
 354	Mehri	first crescent of moon	ŝēhər		(ML 376)	95
 355	Jibbali	first crescent of moon	ŝέhər		(JL 250)	95
-7472	Soqotri	1. new moon; 2. month	ŝɛ́hɛr		(LS 426; CSOL I 665; CSOL II 598)	95
+7472	Soqotri	1. new moon; 2. month	ŝέhɛr		(LS 426; CSOL I 665; CSOL II 598)	95
 	PS	nose	*ˀanp-		(SED I No. 8, Kogan 2015:41)	96
 375	Akkadian	nose; tip, crown, end, rind, edge; spur of land	appu		(CAD A₂ 184, AHw. 60)	96
 3425	Ebla	nose	a-bù /ˀappu(m)/		(Conti 1990, 91)	96
@@ -1683,12 +1680,12 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 12997	Zway	arm above elbow, front leg of cattle	aräḳ		(EDG 90)	102
 390	Mehri	root; artery, sinew, nerve	ˀarḳ		(ML 28)	102
 12998	Harsusi	vein, sinew, nerve, artery	ˁarḳ		(HL 10)	102
-12999	Soqotri	space behind the knees	ˁárnɛg		(Naumkin et al. 2015a:61)	102
+12999	Soqotri	space behind the knees	ˁárnɛg		(Naumkin et al. 2015a:61; CSOL III)	102
 	PWS	to entangle, to interweave	*ŝgr		(CDG 527, Kogan 2015:43)	103
 414	Arabic	to be intricate, complicated, intermixed	šǯr		(Lane 1506)	103
 415	Geez	to catch in a net, ensnare, entangle	ŝagara		(CDG 527)	103
 416	Jibbali	to divert; to set difficult conditions	ŝɔ́gɔ́r		(JL 248)	103
-417	Soqotri	to make a net, to enclose, set a trap	ŝégor		(LS 425; Naumkin et al. 2022:277)	103
+417	Soqotri	to set a net, a trap	ŝégor		(LS 425; Naumkin et al. 2022:277)	103
 	Proto-MSA	tree	*hVrā̆m-		(Kogan 2015: 44, 544)	104
 2062	Mehri	tree	hərmáyt		(ML 160)	104
 421	Jibbali	tree	hérúm		(JL 99)	104
@@ -1938,7 +1935,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 16350	Tigre	to be far, to be long	remä		(WTS 161)	128
 16351	Amharic	high, tall, long	räžžim		(AED 405)	128
 2615	Jibbali	tall, long	rihm		(JL 219)	128
-24558	Soqotri	to be long	ríyom		(LS 399; CSOL I 638; Naumkin et al. 2016a:52)	128
 	PWS	to be circular, round, to roll	*ˁgl/gˁl		(Kogan 2015:70–71, 207, 588)	129
 11961	Hebrew	round	ˁāgōl		(HALOT 784)	129
 12514	Hebrew	earring	ˁāgīl		(HALOT 784)	129
@@ -2019,7 +2015,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 2054	Mehri	sun	ḥə-yáwm		(ML 462)	134
 2647	Jibbali	sun	yum		(JL 314)	134
 7297	Soqotri	1. sun; 2. day	ʸhom or šɔm		(CSOL I 660; CSOL I 694; CSOL II 627; LS 210, 418; Naumkin et al. 2015a:92)	134
-7355	Soqotri	one day	yómen		(LS 210; CSOL I 691; CSOL II 624 – 625)	134
 	PWS	wild beast, lion	*ˀarway-		(SED II No. 17, Fron. V 292)	135
 2967	Geez	animal, wild animal, beast	ˀarwe		(CDG 40, LLA 743)	135
 2978	Tigre	female elephant	ˀǝrwät		(WTS 359)	135
@@ -2099,7 +2094,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 839	Ugaritic	darkness	ṯ̣lmt		(DUL 1004)	145
 852	Hebrew	gloom	ṣalmāwät		(HALOT 1029)	145
 840	Syriac	to oppress, wrong; to accuse falsely	ṭlm		(LSyr. 277, SL 533)	145
-836	Arabic	IV. to become dark	ḏ̣lm		(Lane 1921)	145
+836	Arabic	to act wrongfully, IV. to become dark	ḏ̣lm		(Lane 1920)	145
 837	Geez	black, dark	ṣallim		(CDG 556)	145
 6423	Tigre	black	ṣällim		(WTS 632)	145
 6424	Tigrinya	black	ṣällim		(TED 2541)	145
@@ -2144,7 +2139,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 21379	Minaean	se trouver à un endroit (to occur in a place)	mṯ̣ˀ		(LM 64)	148
 21378	Qatabanian	to enter, to go through	mṯ̣ˀ		(LIQ 96)	148
 21380	Jibbali	to reach to	míḏ̣í		(JL 169)	148
-7735	Soqotri	to touch, to reach	míṭa		(LS 241, CSOL I 616, CSOL II)	148
+7735	Soqotri	to touch, to reach	míṭa		(LS 241; CSOL I 616; CSOL II 544; Bulakh 2024:210)	148
 	PCS	bread, food	*laḥm-		(Fronzaroli 1971: 615–616, 632, 640; Kogan 2011: 238; Kogan 2015: 219)	149
 12272	Ugaritic	grain; bread; food	lḥm		(DUL 497)	149
 11280	Hebrew	bread	läḥäm		(HALOT 526)	149
@@ -2261,7 +2256,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 922	Mehri	belly; stomach	hōfəl		(ML 153)	160
 2224	Jibbali	belly	šɔ́fəl		(JL 260)	160
 25703	Harsusi	belly, stomach	hōfel		(HL 50)	160
-25704	Soqotri	what is in the belly (entrails with excrement)	di-be-šáfeḷ		(Simeone-Senelle - Lonnet 1991:1475; SED I No. 271)	160
+25704	Soqotri	what is in the belly (entrails with excrement)	di-be-šáfeḷ		(Simeone-Senelle–Lonnet 1991:1475; SED I No. 271)	160
 	PS	to be high, to grow	*ŝyḫ		(Kogan 2015:577, fn. 1500)	161
 7942	Akkadian	to grow (in size or age)	šâḫu		(CAD Š₁ 106, AHw. 1224)	161
 22102	Arabic	to grow old	šyḫ		(Lane 1628)	161
@@ -2285,7 +2280,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	Proto-MSA	blood	*ḏVr(y)		(Kogan 2015: 541)	163
 927	Mehri	blood	ḏōrə		(ML 81)	163
 2229	Jibbali	blood	ḏɔhr		(JL 47)	163
-3654	Soqotri	1. blood; 2. sap of plants	dor		(LS 134; CSOL I 529; CSOL II 448)	163
 	PS	to break	*ṯγr		(Kogan 2015:239)	164
 934	Akkadian	to be victorious, to vanquish	šaˀāru		(CAD Š₁ 2, AHw. 1118)	164
 26707	Arabic	to break, to demolish; to make a gap	ṯγr		(Lane 338)	164
@@ -2298,9 +2292,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 935	Arabic	gap, opening, breach; a frontierway of access to a country; the part of a country from which the invasion of the enemy is feared	ṯaγr-		(Lane 338)	165
 	Proto-MSA	bone	*ˁVṣ̂īṣ̂-		(Kogan 2015: 586)	166
 930	Mehri	bone	ˀāẑáyẑ		(ML 39)	166
-3368	Soqotri	to be strong	ˁeẓ̂		(LS 323; CSOL I 507; CSOL II 423; Naumkin et al. 2015a:63)	166
-26438	Soqotri	strong	ˁeẓ̂		(LS 323; CSOL I 507; CSOL II 423)	166
-3375	Soqotri	stone (in a fruit)	ˁéẓ̂eẓ̂		(LS 323; CSOL I 507; CSOL II 423)	166
 	PNWS	to be able	*ykl		(Kogan 2015:239)	167
 937	Hebrew	to be able to; to prevail	ykl		(HALOT 410)	167
 25134	Official Aramaic	to be able	ykl		(DNWSI 456)	167
@@ -2330,7 +2321,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	Proto-MSA	to burn	*nḥy		(Kogan 2015:541)	169
 952	Mehri	to burn	hə-nḥu		(ML 293)	169
 2232	Jibbali	to burn	e-nḥé		(JL 187)	169
-41	Soqotri	to burn (intransitive); to be hot, warm	néḥe		(Lexique Soqotri 264; CSOL I 624, CSOL II 551)	169
 	PNWS	sea	*yamm-		(Fronzaroli 1968: 273, 288, 299; Kogan 2011: 191; Kogan 2015: 240)	170
 955	Ugaritic	sea	ym		(DUL 965)	170
 956	Hebrew	lake, sea	yām		(HALOT 413)	170
@@ -2348,7 +2338,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	Proto-MSA	to be cold	*ḳṣm		(Kogan 2015:542)	173
 964	Mehri	coldness; cold	ḳāṣəm		(ML 240)	173
 2235	Jibbali	to go cold	ḳéṣəm		(JL 152)	173
-44	Soqotri	1. to become cold (after being warm); 2. to be extinguished	ḳéṣam		(LS 382; CSOL I 594; CSOL II 518)	173
 	Proto-MSA	to come	*nkˁ		(Kogan 2015:565)	174
 966	Mehri	to come	nūka		(ML 293)	174
 3086	Jibbali	to come	níkaˁ		(JL 187)	174
@@ -2401,7 +2390,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 988	Mehri	foot; leg	fɛ̄m/fawm		(ML 87)	179
 2458	Jibbali	foot	faˁm		(JL 51)	179
 24554	Harsusi	foot, leg	fām		(HL 31)	179
-3682	Soqotri	upper part of the hind leg of an animal	fáˁam		(CSOL I 532)	179
 	Proto-MSA	to give; to lend	*wzm		(Kogan 2015:576)	180
 990	Mehri	to give; to lend	wəzūm		(ML 434)	180
 2461	Jibbali	to give	ezúm		(JL 295)	180
@@ -2414,19 +2402,20 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	Proto-MSA	to kill	*ltγ		(Kogan 2015:539)	182
 1000	Mehri	to kill	lūtəγ		(ML 256)	182
 2609	Jibbali	to kill, murder	létəγ		(JL 165)	182
-7777	Soqotri	to kill	ḷátaˁ		(LS 236; CSOL I 604; CSOL II 529–530; Naumkin et al. 2015a:78)	182
+7777	Soqotri	to kill	ḷátaˁ		(LS 236; CSOL I 604; CSOL II 529–530; Naumkin et al. 2015a:78; Bulakh 2024:185)	182
 	Proto-MSA	to know	*γrb		(Kogan 2015:542)	183
 1002	Mehri	to know	γərōb		(ML 140)	183
 2611	Jibbali	to know	γárɔ́b		(JL 88)	183
 	Proto-MSA	leaf	*ṣaγlaf(-at)-		(Kogan 2015:543)	184
 1003	Mehri	leaf	ṣγāfēt		(ML 359)	184
 2612	Jibbali	leaf	ṣγiẑfɔ́t		(JL 237)	184
+730	Soqotri	leaf	ṣaˁľífoʰ		(LS 354; Naumkin et al. 2022:259)	184
 	Proto-MSA	man	*γayg-		(Kogan 2015:543)	185
 1008	Mehri	man	γayg		(ML 147)	185
 2617	Jibbali	man	γég		(JL 91)	185
 3355	Soqotri	1. man; 2. husband; 3. someone	ˁag		(LS 307; CSOL I 505; CSOL II 421)	185
+3357	Soqotri	1. boy; 2. son	ˁouyέghɛn		(LS 307; CSOL I 505; CSOL II 421; Naumkin et al. 2015a:62)	185
 3358	Soqotri	1. girl; 2. daughter	ˁougénoʰ		(LS 307; CSOL I 505; CSOL II 421; Naumkin et al. 2015a:62)	185
-3357	Soqotri	1. boy; 2. son	ˁouyɛ́ghɛn		(LS 307; CSOL I 505; CSOL II 421; Naumkin et al. 2015a:62)	185
 3356	Soqotri	1. woman; 2. wife	ˁážeʰ		(LS 307; CSOL I 505; CSOL II 421)	185
 	PWS	thousand	*ˀalp-		(Kogan 2015:70)	186
 11171	Ugaritic	thousand	ˀalp		(DUL 62)	186
@@ -2467,7 +2456,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 11278	Mehri	to believe	šāmūn		(ML 75)	187
 13651	Jibbali	truth	ˀeyɛ̃n		(JL 3)	187
 13650	Jibbali	to believe	s̃ĩn		(JL 3)	187
-3107	Soqotri	to tell the truth	ɛ́mon		(LS 64; CSOL I 473 ; CSOL II 390 )	187
+3107	Soqotri	to tell the truth	έmon		(LS 64; CSOL I 473 ; CSOL II 390 )	187
 	PCS	to serve (?), to work, to make	*ˁbd		(Huehnergard 1995: 276; Kogan 2015: 380)	188
 12137	Ugaritic	to work (a field), to cultivate, to produce	ˁbd		(DUL 139)	188
 12138	Hebrew	to work, to toil	ˁbd		(HALOT 773)	188
@@ -2619,7 +2608,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 11858	Masqan	body	gäg		(EDG 267)	199
 11859	Gogot	body	gäg		(EDG 267)	199
 2231	Jibbali	cheast, breast	gέhεˀ		(JL 73)	199
-3882	Soqotri	chest, breast	gɛ́hɛ		(LS 103; CSOL I 543; Naumkin et al. 2015a:68)	199
+3882	Soqotri	chest, breast	gέhɛ		(LS 103; CSOL I 543; Naumkin et al. 2015a:68)	199
 	PArm	inside; interior	*gaww-		(Kogan 2015:382)	200
 1087	Old Aramaic	interior	gw		(DNWSI 215)	200
 1089	Biblical Aramaic	interior; inner part	gw		(HALOT 1842)	200
@@ -2641,8 +2630,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 27224	Hebrew	correct, right, certain	kēn		(HALOT 482)	202
 	Proto-MSA	to be numerous	*kwn/*kyn		(Kogan 2015:560)	203
 1099	Mehri	much, many, a lot of	mēkən		(ML 264)	203
-17390	Jibbali	many	mɛ́kən		(JL 170)	203
-2682	Soqotri	many, numerous	kin		(LS 217; CSOL II 501)	203
+17390	Jibbali	many	mέkən		(JL 170)	203
 	PS	to fumigate	*ḳṭr		(Kogan 2015: 269)	204
 1124	Akkadian	smoke	ḳutru		(CAD Q 326, AHw. 931)	204
 575	Ugaritic	smoke	ḳṭr		(DUL 720)	204
@@ -3025,7 +3013,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 20945	Masqan	to go out	wäṭṭa		(EDG 671)	261
 20946	Gogot	to go out	wäṭṭa		(EDG 671)	261
 20947	Soddo	to go out	wäṭṭa		(EDG 671)	261
-3180	Soqotri	to grow (plants)	éẓ̂a		(CSOL I 482; CSOL II 399 ; Naumkin et al. 2016a:51; Bulakh 2021:279 )	261
 	PWS	to go out (?)	*npg		(Kogan 2015:376)	262
 1469	Mehri	to come to visit a sick person; to appear from behind	nəfūg		(ML 283)	262
 1470	Jibbali	to emerge	nfɔg		(JL 181)	262
@@ -3212,7 +3199,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 1619	Ugaritic	to be glad, rejoice	šmḫ		(DUL 825)	292
 1620	Ugaritic	joy	šmḫt		(DUL 825)	292
 1623	Amarna Canaanite	to rejoice	iš-mu-ḫu₅		(EA 109: 50, Rainey 1978: 92)	292
-1624	Hebrew	to rejoice	ŝmḥ		(HALOT 1333)	292
+1624	Hebrew	to rejoice	ŝmḥ		(HALOT 1333)	292
 1625	Hebrew	joy	ŝimḥā		(HALOT 1333)	292
 	PS	to be high, tall	*ŝmḫ		(Kogan 2015: 307)	293
 1629	Akkadian	to grow thickly, abundantly	šamāḫu		(CAD Š₁ 288, AHw. 1153)	293
@@ -3313,9 +3300,8 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 27410	Arabic	to lie down (animals)	rbḍ		(Lane 1011)	315
 27415	Sabaic	grazinground	mrbṣ̂		(SD 114)	315
 27413	Mehri	to lie down, to couch (animals)	rəbūẑ		(ML 314)	315
-27412	Jibbali	to couch, to lie down (animals)	rɔ̄ẓ̂		(JL 203)	315
+27412	Jibbali	to couch, to lie down (animals)	rɔ̄ẓ̂			315
 27414	Harsusi	to lie down (animals)	rebōẑ		(HL 102)	315
-7648	Soqotri	to lie down (animals)	rö́baẓ̂		(LS 393; CSOL I 633; CSOL II 562)	315
 	PArm	house	*bay-		(Kogan 2015: 403)	316
 2013	Old Aramaic	house	by		(DNWSI 156‒157)	316
 2014	Jewish Palestinian Aramaic	house	byy		(DJPA 92)	316
@@ -3349,7 +3335,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 2072	Arabic	to fall	sqṭ		(Lane 1379)	320
 2073	Mehri	to be lost	həḳáwṭ		(ML 155)	320
 2074	Jibbali	to be lost, to drop off	šɔ́ḳɔ́ṭ		(JL 261)	320
-2075	Soqotri	to be impotent	ʸhéḳaṭ		(LS 146; Naumkin et al. 2019a:78)	320
 	PS	to be silent (?)	*škt		(Kogan 2015:391)	321
 2076	Akkadian	to be silent	sakātu		(CAD S 74, AHw. 1011)	321
 2077	Hebrew	to be quiet	skt		(HALOT 756)	321
@@ -3540,9 +3525,9 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 23107	Soddo	owner	bal		(EDG 138)	335
 11182	Mehri	owner, lord	bāl		(ML 41)	335
 11183	Jibbali	owner, lord	báˁal		(JL 22)	335
-11184	Soqotri	master, owner	baˁ-		(LS 90–91; CSOL II 426–427)	335
 3475	Soqotri	to marry (a man or a woman)	báˁaḷ		(LS 91; CSOL I 509; CSOL II 426)	335
 3477	Soqotri	the owner, one who has	báḥľe in di-báḥľe		(LS 91; CSOL I 512; CSOL II 427)	335
+11184	Soqotri	master, owner	baˁ-		(LS 90–91; CSOL II 426–427)	335
 	PArm	to witness	*ŝhd		(Kogan 2015:396)	336
 2189	Hebrew	witness	ŝāhēd		(HALOT 1311)	336
 2184	Old Aramaic	to give testimony	šhd		(DNWSI 1112)	336
@@ -3715,13 +3700,15 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 14933	Mehri	earlier, before	fōnәh		(ML 96)	347
 14934	Mehri	earlier, firstly; in front of, before	fәnōhәn		(ML 96)	347
 8009	Jibbali	face, front part	fέnε		(JL 59)	347
-14936	Jibbali	earlier, firstly; in front of	fɛ́nɛ́		(JL 59)	347
+14936	Jibbali	earlier, firstly; in front of	fέnέ		(JL 59)	347
 14937	Jibbali	on the point of, about to; formerly, earlier	fónә		(JL 59)	347
 14948	Jibbali	to move (cows) from one area to another	efní		(JL 59)	347
 14949	Jibbali	to return	fútni		(JL 59)	347
 14953	Jibbali	to vanish	féní		(WTS 668)	347
-3707	Soqotri	to turn one’s face; to favor somebody	fíni		(LS 337, CSOL I 535, CSOL II)	347
-3708	Soqotri	face	fɛ́ne		(LS 337, CSOL I 535, CSOL II 456)	347
+3707	Soqotri	1. to turn one’s face, to head for; 2. to favor somebody	fíni		(LS 337; CSOL I 535; CSOL II 456; Naumkin et al. 2015a:67)	347
+3731	Soqotri	formerly	fɔ́ne		(LS 337; CSOL I 535; CSOL II 456; Naumkin et al. 2015a:67)	347
+3733	Soqotri	three days before yesterday	fin(i) fin(i) ŝéľeʰ		(LS 337; CSOL I 535)	347
+3732	Soqotri	two days before yesterday	fin(i) ŝéľeʰ		(LS 337; CSOL I 535)	347
 	PS	to come in, to enter	*ˁrb/*γrb		(Kogan 2015: 333;409)	348
 1894	Akkadian	setting of the sun	erebu		(CAD E 258)	348
 2300	Akkadian	to come in, to enter	erēbu		(CAD E 259, AHw. 234)	348
@@ -3962,7 +3949,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 2823	Arabic	génisse (heifer)	ˀirḫat-		(BK 1 24)	370
 2826	Tigrinya	bull, ram	ˀarḥa		(TED 1437)	370
 2825	Tigrinya	heifer, goat, cow, sheep or hen which has not yet produced offspring	ˀarḥi		(TED 1437)	370
-3128	Soqotri	grownup heifer	áˀarḥ		(LS 74; CSOL II 392; Naumkin et al. 2015a:58)	370
+3128	Soqotri	grownup heifer	áˀarḥ or arḥ		(LS 74; CSOL II 392; Naumkin et al. 2015a:58)	370
 	PS	wild goat	*ˀarm-, *ˀarn-		(SED II No. 13, DRS 33)	371
 2839	Akkadian	buck (of gazelle or mountain goat)	armu		(CAD A₂ 293, AHw. 69)	371
 2838	Official Aramaic	ram	ˀrn		(DNWSI 110)	371
@@ -4043,7 +4030,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 5279	Syriac	wood, timber	ḳaysā		(LSyr. 665, SL 1364)	378
 15704	Turoyo	Holz, Stock (wood, stick)	ḳayso		(RW 393)	378
 5276	Mehri	wood, forest	ḳəŝnīt		(ML 242)	378
-5277	Soqotri	thief	di-ḳáŝen		(LS 388-389; CSOL I 596)	378
+5277	Soqotri	thief	di-ḳáŝen		(LS 388; CSOL I 596)	378
 	PS	grass, herb	*šamm-		( Fronzaroli 1969a: 274, 289)	379
 2915	Akkadian	grass, herb	šammu		(CAD Š₁ 315, AHw. 1156)	379
 	PS	grass; herb; spring	*daṯˀ-		(Fronzaroli 1965a: 142, 148, 150, Fronzaroli 1968: 275; Fronzaroli 1969a: 275, 289, 299; Kogan 2011: 200; Kogan 2012: 231)	380
@@ -4153,7 +4140,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 3456	Hebrew	rump, buttocks	ˁăgābā		(Jastrow 1040)	393
 3457	Arabic	sacrum bone	ˁaǯb-		(BK 2 174, Lane 1956)	393
 6469	Arabic	having prominent buttocks	ˀaˁǯab-		(BK 2 174, Lane 1957)	393
-3227	Soqotri	rump, buttocks	maˁgéboʰ		(Simeone-Senelle - Lonnet 1988-1989:205; CSOL I 488)	393
+3227	Soqotri	rump, buttocks	maˁgéboʰ		(Simeone-Senelle–Lonnet 1988-1989:205; CSOL I 488)	393
 	PS	heel	*ˁaḳib-, *ˁiḳb-		(SED I No. 14)	394
 3459	Akkadian	heel	eḳbu		(CAD E 248, AHw. 231)	394
 3460	Ugaritic	hock, heel	ˁḳb		(DUL 173)	394
@@ -4204,7 +4191,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 24256	Muher	fruit	fәrәyä		(EDG 240)	397
 24257	Masqan	fruit	fәrәyä		(EDG 240)	397
 24254	Gogot	fruit	fre		(EDG 240)	397
-3587	Jibbali	unripe fruit	frɛ́t		(JL 59)	397
+3587	Jibbali	unripe fruit	frέt		(JL 59)	397
 	PS	ear of corn	*šu(n)bul-at-		(Fronzaroli 1969b: 12, 27, 34; Kogan 2011: 201; Kogan 2012: 233)	398
 3592	Akkadian	ear, spike	šubultu		(CAD Š₃ 187, AHw. 1258)	398
 3636	Ugaritic	ear, spike (of corn)	šblt		(DUL 805)	398
@@ -4275,10 +4262,11 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	Proto-MSA	one	*ṭad		(Kogan 2015:543)	411
 1110	Mehri	one (m.)	ṭāṭ		(ML 406)	411
 2626	Jibbali	one	ṭad		(JL 274)	411
+27917	Soqotri	one	ṭad		(LS 199; CSOL I 682; CSOL II 616; Naumkin et al. 2015a:89)	411
 	Proto-MSA	rain	*ma-lsay-		(Kogan 2015:543)	412
 1113	Mehri	rain	məwsē		(ML 256)	412
 2628	Jibbali	rain	mósέ		(JL 165)	412
-750	Soqotri	rain	mɛ́sɛ		(LS 234, CSOL I 604, II 529, Naumkin et al. 2015a:78, Bulakh 2021:280, Bulakh et al. 2021:285–286)	412
+750	Soqotri	rain	mέsɛ		(LS 234; CSOL I 604; CSOL II 529; Naumkin et al. 2015a:78; Bulakh 2021:280; Bulakh et al. 2021:285–286)	412
 	PS	willow	*ḫilāp-		(Fronzaroli 1969a, pp. 278, 291, 300)	413
 3823	Akkadian	willow	ḫilēpu		(CAD Ḫ 185, AHw. 345)	413
 3824	Syriac	willow	ḥellāpā		(LSyr. 235, SL 459)	413
@@ -4302,7 +4290,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	Proto-MSA	road	*ˀarVm-/*ˀarm-		(Kogan 2015:544)	418
 1115	Mehri	road	wōrəm		(ML 7)	418
 2630	Jibbali	road	ˀɔrm		(JL 4)	418
-3136	Soqotri	road	óˀorem, órem		(LS 75; CSOL I 477; CSOL II 393; Naumkin et al. 2015a:58)	418
 	Proto-MSA	to say	*ˁmr		(Kogan 2015: 544)	419
 2044	Mehri	to say	ˀāmōr		(ML 25)	419
 2635	Jibbali	to say	ˁõr		(JL 13)	419
@@ -4313,11 +4300,10 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	Proto-MSA	people	*ˀib-V		(Kogan 2015:547)	421
 3843	Mehri	people	ḥā-bū		(ML 2)	421
 3844	Jibbali	people	yɔ		(JL 1)	421
-3015	Soqotri	people	ɛ́ˀɛfo, ɛ́fo		(LS 69; CSOL I 462; CSOL II 380; Naumkin et al. 2015a:55)	421
+3015	Soqotri	people	έˀɛfo, έfo		(LS 69; CSOL I 462; CSOL II 380; Naumkin et al. 2015a:55)	421
 	Proto-MSA	flint	*ˁibal		(Kogan 2015:548)	422
 3845	Mehri	flint	ˀáybəl		(ML 10)	422
 3846	Jibbali	flint	ˁayέl		(JL 6)	422
-3847	Soqotri	flint	ˁíbhaḷ		(LS 293)	422
 	PS	juniper	*burāṯ-		(Fronzaroli 1969a, pp. 278, 291, 300)	423
 3887	Akkadian	juniper	burāšu		(CAD B 326, AHw. 139)	423
 3890	Ebla	juniper	ba-ra-su-um		(Krebernik 1983, p. 14)	423
@@ -4363,7 +4349,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	Proto-MSA	field	*ˁamal-		(Kogan 2015: 549)	430
 22128	Mehri	farm, field of growing plants	ˀāmēl		(ML 24)	430
 22129	Jibbali	field of grass	ˁãl		(JL 13)	430
-22130	Soqotri	cultivated plot of land	ˁamɛ́ľ		(LS 314)	430
+22130	Soqotri	cultivated plot of land	ˁamέľ		(LS 314)	430
 	Proto-MSA	skin	*ˁan-Vt-		(Kogan 2015:549)	431
 3920	Mehri	skin (for water, milk etc.)	ˀānēt		(ML 26)	431
 3919	Jibbali	skin (for water, milk etc.)	ˁánít		(JL 14)	431
@@ -4371,10 +4357,9 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	Proto-MSA	but	*ˁar		(Kogan 2015:549)	432
 3922	Mehri	but	ˁar		(ML 26)	432
 3921	Jibbali	but	ˁar		(JL 14, Rubin 2014:312–315)	432
-3280	Soqotri	1. but; 2. since, because	ˁar		(LS 325; CSOL I 496; CSOL II 413)	432
 	Proto-MSA	nape	*ˁardVb-		(Kogan 2015:550)	433
 3923	Jibbali	nape of the neck	ˁardéb		(Kogan 2015:549)	433
-3288	Soqotri	neck	ˁarédɛb		(LS 326; CSOL II 414; Simeone-Senelle - Lonnet 1991:1452)	433
+3288	Soqotri	neck	ˁarédɛb		(LS 326; CSOL II 414; Simeone-Senelle–Lonnet 1991:1452)	433
 	PS	a cultivated plant, shoot, seed, grain, cereal, vegetable	*bVḳl-		(Fronzaroli 1969b: 5, 24, 32; Kogan 2012: 245)	434
 3901	Akkadian	malt	buḳlu		(CAD B 323, AHw. 139)	434
 3926	Ebla	malt(?); (a sort of lettuce)	bù-ga-lu		(VE 1073; Sjöberg 1999: 542; Stol 1989: 323; Kogan 2012: 245)	434
@@ -4418,7 +4403,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 13275	Soddo	germinated grain	bəḳəl		(EDG 147)	434
 13284	Soddo	shoot of plant or tree	buḳḳayya		(EDG 147)	434
 3933	Mehri	plants that grow after the rains	bēḳəl		(ML 47)	434
-3934	Jibbali	plants that grow after the rain	bɛ́ḳəl		(JL 25)	434
+3934	Jibbali	plants that grow after the rain	bέḳəl		(JL 25)	434
 	PS	wheat	*ḥinṭ-at-		(Fronzaroli 1969b: 12, 27, 34)	435
 3936	Akkadian	edible grain (wheat or barley)	uṭṭetu		(CAD U–W 349, AHw. 1446)	435
 3937	Ugaritic	wheat	ḥṭt		(DUL 377)	435
@@ -4465,19 +4450,13 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	Proto-MSA	here	*bV		(Kogan 2015:550)	442
 3967	Mehri	here	bō		(ML 58)	442
 3968	Jibbali	here	bo		(JL 31)	442
-3469	Soqotri	to here, hither	bo		(LS 80, CSOL I 508, CSOL II 425)	442
+3469	Soqotri	to here, hither	bo		(LS 80; CSOL I 508; CSOL II 425)	442
 	Proto-MSA	already	*bVr		(Kogan 2015:551)	443
 3970	Mehri	already	bɛr		(ML 54)	443
 3969	Jibbali	already	ber		(JL 27)	443
 	Proto-MSA	to give birth	*bry		(Kogan 2015:551)	444
 3971	Mehri	to bear	bərō		(ML 54)	444
 3972	Jibbali	to bear	bíri		(JL 28)	444
-27222	Soqotri	1. grandson; 2. nephew; 3. soninlaw	ébreh-		(LS 95; CSOL I 517)	444
-3529	Soqotri	to give birth (people)	bíro		(LS 95; CSOL I 516-518; CSOL II 435)	444
-27217	Soqotri	birth	bérhoʰ		(CSOL II 435)	444
-3532	Soqotri	father	bɛ́rhe		(LS 95; CSOL I 516)	444
-3534	Soqotri	mother	bórhe		(LS 95; CSOL I 516)	444
-3535	Soqotri	child, boy	mébrehe		(LS 95; CSOL I 516; CSOL II 437)	444
 	Proto-MSA	stone, stony plain	*daˁn-		(Kogan 2015: 551)	445
 3974	Mehri	desert plain	dɛ̄n		(ML 62)	445
 3973	Jibbali	hard plain	daˁn		(JL 33)	445
@@ -4489,11 +4468,10 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	Proto-MSA	heel	*madram-		(Kogan 2015:552)	447
 3978	Mehri	heel	mədrēm		(ML 74)	447
 3979	Jibbali	heel	mədrúm		(JL 41)	447
-3980	Soqotri	heel	médrehem		(LS 135; Bulakh 2022:203)	447
+3980	Soqotri	heel	médrɛhɛm		(LS 135; Bulakh 2022:203)	447
 	Proto-MSA	stranger	*ḏVrīˀ-		(Kogan 2015:552)	448
 3981	Mehri	stranger	ḏəráyˀ		(ML 81)	448
 3982	Jibbali	stranger	ḏíríˀ		(JL 47)	448
-3664	Soqotri	strange, unfamiliar	dírhi		(135; CSOL I 530; CSOL II 450)	448
 	Proto-MSA	to fall	*gˁr		(Kogan 2015:552)	449
 3983	Mehri	to fall	gār		(ML 113)	449
 3984	Jibbali	to fall	gaˁár		(JL 69)	449
@@ -4504,8 +4482,8 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	Proto-MSA	to do things in the morning	*ghm		(Kogan 2015:553)	451
 3987	Mehri	to go (a long way); to go in the morning	gəhēm		(ML 117)	451
 3988	Mehri	tomorrow	gēhəməh		(ML 117)	451
-3989	Jibbali	to come in the morning	gɛhɛ́m		(JL 73)	451
-3883	Soqotri	1. to enter the pen in the morning; 2. to come home at noon	gɛ́hɛm		(LS 103; CSOL I 543; CSOL II 463; Naumkin et al. 2015a:68)	451
+3989	Jibbali	to come in the morning	gɛhέm		(JL 73)	451
+3883	Soqotri	1. to accumulate, to gather 2. to enter the pen in the morning; 3. to come home at noon	gέhɛm		(LS 103, 108; CSOL I 543; CSOL II 463; Naumkin et al. 2015a:68)	451
 	Proto-MSA	to come ashore	*gḥb		(Kogan 2015: 554)	452
 3990	Mehri	to come ashore	gəḥāb		(ML 117)	452
 3991	Jibbali	to come ashore	gaḥáb		(JL 73)	452
@@ -4529,7 +4507,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	Proto-MSA	to meet	*γbr		(Kogan 2015:555)	457
 4008	Mehri	to meet	γəbōr		(ML 131)	457
 22150	Jibbali	to meet	γɔ̄r		(JL 82)	457
-3198	Soqotri	to meet	ˁö́bor		(LS 295; CSOL I 483; CSOL II 400)	457
+3198	Soqotri	to meet	ˁö́bor		(LS 295; CSOL I 483; CSOL II 400; CSOL III)	457
 	Proto-MSA	depression between mountains, mountain pass	*γadVw-		(Kogan 2015:555)	458
 4009	Mehri	crack, depression on a mountain	γədə́ww		(ML 133)	458
 4010	Jibbali	depression on a mountain	γádɔ́ˀ		(JL 83)	458
@@ -4549,21 +4527,18 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	Proto-MSA	to speak	*γry		(Kogan 2015:555)	462
 4018	Mehri	to speak	γátri		(ML 142)	462
 4019	Jibbali	talk, speech, language	γárɔ́ˀ		(JL 89)	462
-3302	Soqotri	voice	ˁárho		(LS 327; CSOL I 498; CSOL II 415; Naumkin et al. 2015a:61)	462
-3301	Soqotri	to talk	ˁotére or ˁatérɛ		(LS 326-327; CSOL I 498; CSOL II 415)	462
+3301	Soqotri	to talk	ˁotére or ˁatérɛ		(LS 326-327; CSOL I 498; CSOL II 415; Bulakh 2024:206)	462
+3302	Soqotri	voice	ˁárho		(LS 327; CSOL I 498; CSOL II 415; Naumkin et al. 2015a:61; Bulakh 2024:206)	462
 	Proto-MSA	in the early evening	*γasr-Vn-		(Kogan 2015:555–556)	463
 4020	Mehri	in the early evening	γasráwwən		(ML 143)	463
 3192	Jibbali	at night	γasré		(JL 89)	463
-3314	Soqotri	late afternoon	ˁisírhin		(LS 318; CSOL II 416; CSOL II 416)	463
+3314	Soqotri	late afternoon	ˁisírhin		(LS 318; CSOL I 499; CSOL II 416)	463
 	Proto-MSA	to love	*γṣ̂n		(Kogan 2015:556)	464
 4022	Mehri	to feel love or compassion for smb	γáyẑən		(ML 149)	464
 4023	Jibbali	to feel compassion for smb	γéẓ̂ən		(JL 93)	464
-3374	Soqotri	to love	ˁö́ẓ̂an		(LS 322; CSOL I 506; CSOL II 422; Naumkin–Kogan 2021 :528)	464
 	Proto-MSA	shadow	*hVlVˁ-		(Kogan 2015:556)	465
 4024	Mehri	shadow	hōlaˀ		(ML 156)	465
 4025	Jibbali	shadow	hɔ́laˁ		(JL 96)	465
-4167	Soqotri	shadow	mihľóˁo		(LS 143; CSOL II 627)	465
-25231	Soqotri	to sit in the shadow; to shade	šḷaˁ		(Bulakh et al. 2021:268)	465
 	Proto-MSA	to be sleepy	*hnd		(Kogan 2015:557)	466
 4027	Mehri	to feel drowsy, sleepy	hōnəd		(ML 158)	466
 4028	Jibbali	to feel drowsy, sleepy	ohúnd		(JL 97)	466
@@ -4587,11 +4562,10 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	Proto-MSA	bead	*ḥanṣ̂ab-at-		(Kogan 2015:558)	470
 4037	Mehri	bead	ḥənẑəbūt		(ML 184)	470
 4038	Jibbali	bead	ḥanẓ̂ɔ̄t		(JL 113)	470
-4039	Soqotri	bead, sprangle	ḥanẓ̂éboʰ		(LS 183)	470
+4039	Soqotri	bead, sprangle	ḥanẓ̂éboʰ		(LS 183; CSOL III)	470
 	Proto-MSA	earth, soil	*ḥašy-		(Kogan 2015:558)	471
 57	Jibbali	soil	ḥáši		(JL 118)	471
 58	Harsusi	earth, land, soil, dust	ḥōhi		(HL 57)	471
-56	Soqotri	earth, soil	ḥóyhi		(LS 166; CSOL I 569; CSOL II 490)	471
 	PS	to tear out	*ḫlš		(Kogan 2015: 558–559)	472
 4040	Akkadian	to scrape off	ḫalāšu		(CAD Ḫ 40, AHw. 311)	472
 4043	Hebrew	to defeat	ḥlš		(HALOT 324)	472
@@ -4600,7 +4574,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 4044	Soqotri	strike, cause pain	ḥéḷoš		(LS 178; Naumkin et al. 2014a:37, 53; Kogan 2015:559)	472
 	Proto-MSA	a little	*ḫūr-, *ḫarr-Vn-		(Kogan 2015:559)	473
 4048	Mehri	a little	ḫawr		(ML 456)	473
-4049	Jibbali	a little	ḫɛ́rín		(JL 310)	473
+4049	Jibbali	a little	ḫέrín		(JL 310)	473
 4050	Soqotri	a little, few	ḥarér(h)εn		(LS 192)	473
 	PArm	spelt, emmer wheat	*kunāt-		(Hrozný 1913: 55, Kogan 2012: 247)	474
 4052	Jewish Palestinian Aramaic	spelt, emmer wheat	kwnt		(DJPA 254)	474
@@ -4624,7 +4598,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 4071	Geez	onion	baṣal		(CDG 111)	476
 4072	Mehri	onion	bәṣәlēt		(ML 55)	476
 4073	Jibbali	onion	béṣál		(JL 29)	476
-4074	Soqotri	onion	béṣľɛ		(LS 93; CSOL I 520; CSOL II 438; Naumkin et al. 2019b:79; Wehr 61; Behnstedt 89)	476
 	PS	leek	*karaṯ-		(Fronzaroli 1969b: 6, 24, 32)	477
 4084	Akkadian	(an alliaceous plant)	giršānu		(CAD G 96, AHw. 286)	477
 4080	Akkadian	leek	karašu		(CAD K 212, AHw. 448)	477
@@ -4684,8 +4657,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 8863	Selti	date palm (Phoenix abyssinica), date (fruit)	tämr		(SAED 296)	483
 8864	Gogot	palm, date tree	tämər		(EDG 599)	483
 4332	Mehri	date palm	tōmər		(ML 402)	483
-4333	Jibbali	date palm	təmrɛ́t		(JL 271)	483
-7411	Soqotri	datepalm	témre/tímre		(LS 443, CSOL I 677)	483
+4333	Jibbali	date palm	təmrέt		(JL 271)	483
 	PS	tree, trunk	*gapn-		(Fronzaroli 1969b: 8, 25, 33)	484
 4341	Akkadian	bush, (fruit)tree; vine	gapnu/gupnu		(CAD G 44, AHw. 281, 298)	484
 4343	Ebla	vine(?)	ga-pá-na-na-ù		(EV 0392; Arcari 1984: 324)	484
@@ -4745,9 +4717,8 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 4517	Geez	mother	ˀəmm		(CDG 22)	490
 4540	Argobba	mother	əm		(Leslau 1997: 190)	490
 4518	Mehri	mother	ḥām		(ML 5)	490
-4519	Jibbali	mother	ˀɛ́m		(JL 3)	490
-22122	Soqotri	big (f.)	am		(LS 63)	490
-3104	Soqotri	mother	ɛ́ˀɛmhɛ-, ɛ́mhɛ-		(LS 62; CSOL II 389; Naumkin et al. 2015a:57)	490
+4519	Jibbali	mother	ˀέm		(JL 3)	490
+3104	Soqotri	mother	έˀɛmhɛ-, έmhɛ-		(LS 62; CSOL II 389; Naumkin et al. 2015a:57)	490
 	PS	brother	*ˀaḫ-		(DRS 15; Kogan 2014: 88)	491
 4521	Akkadian	brother	aḫu		(CAD A₁ 195, AHw. 21)	491
 4565	Ebla	brother	a-ḫu-um		(VE 1043; Krebernik 1983: 37)	491
@@ -4792,14 +4763,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 4381	Ezha	kind of a bird	wizännä		(EDG 675)	493
 4383	Ennemor	kind of a bird	wīzäñä		(EDG 675)	493
 4384	Gyeto	kind of a bird	wizäñä		(EDG 675)	493
-	PS	bird of prey	*ˀay-		(SED II No. 23, DRS 18)	494
-4386	Akkadian	(a bird)	a-IA-ú MUŠEN = a-a-[ú]		(CAD A₁ 236)	494
-4397	Ebla	bird of prey	a-a-tum		(VE 1370’, 049)	494
-4398	Hebrew	black kite	ˀayyā		(HALOT 39)	494
-4402	Samaritan	a bird	hˀy		(DSA 198)	494
-4399	Arabic	swivel (bird of prey)	yuˀyuˀ-		(BK 2 1621, Lane 2973)	494
-4400	Tigre	falcon	ˀaya		(WTS 480)	494
-4401	Endegen	kind of bird of prey	ayä		(EDG 116)	494
 	PS	ram	*ˀayl-, *ˀVl-		(SED II No. 24, DRS 17)	495
 4387	Akkadian	a fine breed of sheep	alu		(CAD A₁ 374, AHw. 39)	495
 4394	Ugaritic	ram (of superior quality)	ˀal, ˀil		(DUL 47, 52)	495
@@ -4935,9 +4898,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 12319	Gogot	firstborn	bäxər		(EDG 136)	503
 12313	Soddo	firstborn	bäkər		(EDG 136)	503
 4630	Mehri	firstborn	bēkər		(ML 46)	503
-3507	Soqotri	a grown up female goat (three years or more)	bɛ́ker		(LS 86; CSOL I 513; CSOL II 431)	503
-3508	Soqotri	for the first time	bɛ́ker		(LS 86; CSOL II 431)	503
-3506	Soqotri	to give birth for the first time (a goat)	bekɛ́ro		(LS 86; CSOL I 513)	503
 	PS	mouse, jerboa	*ˁakbar-		(SED II No. 30, Fron. V 296)	504
 4654	Akkadian	jerboa	akbaru		(CAD A₁ 265, AHw. 28)	504
 4663	Akkadian	(kind of) bat	arkabu		(CAD I 177, AHw. 67, Civil 1984a)	504
@@ -5010,7 +4970,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 4723	Tigrinya	a kind of very poisonous wasp	ˁǝkkwät, ˁǝkkot		(TED 1901)	507
 4725	Amharic	young locust	anko		(AED 1223)	507
 4717	Mehri	spider	ˀānšɛ̄t		(ML 26)	507
-4719	Jibbali	spider	ˁǝns̃yɛ́t (pl. ˁonókub)		(JL 14)	507
+4719	Jibbali	spider	ˁǝns̃yέt (pl. ˁonókub)		(JL 14)	507
 4718	Harsusi	spider	ˀanšēt		(HL 9)	507
 	PS	goat	*ˁVnz-		(SED II No. 35, Fron. VI 29, HSED No. 240)	508
 4727	Akkadian	shegoat, goat (gen. term)	enzu		(CAD E 180, AHw. 221)	508
@@ -5291,7 +5251,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 5023	Geez	flavor, odor	rəḥe		(CDG 467; Bulakh 2005: 415–420)	538
 5019	Mehri	hot wind	rīḥ		(ML 333)	538
 5020	Jibbali	hot west summer wind	iráḥ		(JL 218)	538
-5021	Soqotri	wind	ráḥ		(LS 395, CSOL I 634, CSOL II 568)	538
+5021	Soqotri	wind	raḥ		(LS 395; CSOL I 634; CSOL II 568; Naumkin et al. 2015a:82; Naumkin et al. 2022:272)	538
 	PES	wind	*nVfās-		(Kogan 2015: 456; Kogan 2011: 193)	539
 5024	Geez	wind	nafās		(CDG 389)	539
 9307	Tigrinya	wind	nəfas		(TED 1400)	539
@@ -5341,7 +5301,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 5031	Sabaic	rain	ḏnm		(SD 39)	541
 	Proto-MSA	rain	*lsy		(Kogan 2011: 194)	542
 5039	Mehri	rain	əwsū(t), məwsē		(ML 256)	542
-7779	Soqotri	(3 sg. f.) to rain	ľíso		(LS 234, CSOL I 604)	542
+7779	Soqotri	(3 sg. f.) to rain	ľíso		(LS 234; CSOL I 604; CSOL II 529; Naumkin et al. 2015a:78)	542
 	PS	lightning	*baraḳ-/*barḳ-		(Fronzaroli 1965a: 140, 146, 150; Kogan 2011: 194)	543
 5044	Akkadian	lightning	birḳu		(CAD B 258, AHw. 122)	543
 5045	Ugaritic	lightning	brḳ		(DUL 238)	543
@@ -5369,7 +5329,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 23670	Soddo	lightning	bəraḳ		(EDG 155)	543
 5052	Mehri	lightning	bōrəḳ		(ML 53)	543
 5053	Jibbali	lightning	bεrḳ		(JL 28)	543
-3548	Soqotri	lightning	barḳ		(LS 97; CSOL II 435)	543
 	PS	thunder	*hadad-		(Fronzaroli 1965a: 140; DRS 373; Kogan 2011: 194)	544
 5054	Akkadian	name of the Stormgod	adad		(Schwemer 2001: 34–58)	544
 5055	Ugaritic	name of the Stormgod	hd, hdd		(DUL 334)	544
@@ -5378,7 +5337,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 5061	Tigrinya	to thunder	hadädä		(TED 50)	544
 5057	Mehri	thunder	həd		(ML 152)	544
 5058	Jibbali	thunder	hid		(JL 94)	544
-5059	Soqotri	thunder	šed		(LS 412, CSOL II 626)	544
 	PS	thunder	*raˁd-		(Fronzaroli 1964: 40, 52, 1965: 140; Kogan 2011: 194)	545
 5062	Akkadian	rainstorm	rādu		(CAD R 60, AHw. 941)	545
 5063	Christian Palestinian Aramaic	thunder	rˁd		(LSP 196)	545
@@ -5460,7 +5418,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 24182	Masqan	coal	fem		(EDG 232)	552
 24183	Gogot	coal	fem		(EDG 232)	552
 24184	Soddo	coal	fem		(EDG 232)	552
-3688	Soqotri	coal	fḥö́mo		(LS 335, CSOL I 533, CSOL II 454)	552
+3688	Soqotri	coal	fḥö́moʰ		(LS 335; CSOL I 533; CSOL II 454)	552
 	PS	to be hot	*ḥmm		(Fronzaroli 1965a: 142, 147, 150; Kogan 2011: 195)	553
 5106	Akkadian	hot	emmu		(CAD E 150, AHw. 214)	553
 5107	Ebla	hot days	a-pi-mu à-mu-tum		(VE 637; Krebernik 1983: 25)	553
@@ -5480,7 +5438,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 5123	Geez	sun, light	ˀer		(CDG 36, EDG 118)	554
 3771	Tigre	flame	ˀarwa		(WTS 359)	554
 3772	Tigre	to flame, to blaze	ˀarwä		(WTS 359)	554
-5122	Soqotri	to light, kindle, illuminate	ɛ́rir		(LS 75; Naumkin et al. 2019b:84)	554
+5122	Soqotri	to light, kindle, illuminate	έrir		(LS 75; Naumkin et al. 2019b:84)	554
 	PWS	to shine, to dawn	*ngh		(Fronzaroli 1965a: 138, 145; Kogan 2011: 196)	555
 5124	Hebrew	to gleam, to shine	ngh		(HALOT 667)	555
 16230	Syriac	to begin to shine, dawn	ngh		(LSyr. 414, SL 888)	555
@@ -5563,7 +5521,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 5174	Geez	current year	ḫarif		(LLA 590)	561
 5178	Mehri	autumn	ḫarf		(ML 446)	561
 5179	Jibbali	autumn	ḫɔrf		(JL 304)	561
-5180	Soqotri	autumn, one of the four seasons of the year (July, August, September)	ḥorf		(LS 191; CSOL I 562)	561
 	PWS	year	*ˁām-		(Kogan 2011: 197)	562
 5183	Arabic	year	ˁām-		(Lane 2202)	562
 5184	Sabaic	year	ˁwm		(SD 23)	562
@@ -5612,6 +5569,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 5195	Jibbali	left	ŝəmli, ŝəmlɛ̄t		(JL 253)	565
 5205	Jibbali	left	ŝĩyɛ̄l		(JL 253)	565
 17704	Harsusi	left, left hand	ŝémel		(HL 120)	565
+7486	Soqotri	1. left; 2. left side	ŝíˀimhiľ		(LS 430; CSOL I 667; CSOL II 596)	565
 	PArm	to be white	*ḥwr		(Kogan 2011: 198)	567
 17338	Jewish Babylonian Aramaic	white	ḥiwwār		(DJBA 450)	567
 26794	Jewish Babylonian Aramaic	to be white	ḥwr		(Jastrow 452)	567
@@ -5844,7 +5802,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	Proto-MSA	young bull	*paˁr-		(SED II No. 181; Kogan 2011: 205)	595
 22664	Mehri	young bull	fōr		(ML 87)	595
 22665	Jibbali	young bull, male calf	fɔ́ˁɔ́r		(JL 51)	595
-3681	Soqotri	bull	fáˀḥɛr		(LS 338, CSOL I 532, CSOL II 452)	595
+3681	Soqotri	bull	fáˀḥɛr		(LS 338; CSOL I 532; CSOL II 452; Naumkin et al. 2015a:67)	595
 	PS	small cattle	*ṣ̂aˀn-		(SED II No. 219; Kogan 2011: 205)	596
 5429	Akkadian	small cattle	ṣēnu		(CAD Ṣ 128, AHw. 1090)	596
 5430	Ugaritic	ewe, small cattle	ṣˀin		(DUL 775)	596
@@ -5882,7 +5840,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 5446	Mehri	sheep	ṯiwīt		(ML 419)	598
 5447	Jibbali	ewe	ṯēt		(JL 285)	598
 22547	Harsusi	sheep	ṯīt		(HL 133)	598
-7433	Soqotri	sheep, ewe	tɛ́ˀɛ		(LS 437, CSOL I 672, CSOL II 606)	598
 	PWS	ewe	*raḫil-		(SED II No. 188; Kogan 2011: 205)	599
 5449	Akkadian	ewe	laḫru		(CAD L 42, AHw. 528)	599
 5450	Hebrew	ewe	rāḥēl		(HALOT 1216)	599
@@ -5954,6 +5911,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 5481	Mehri	(fully grown) male goat	táyh		(ML 404)	604
 5482	Jibbali	billy goat	tuš		(JL 273)	604
 11706	Harsusi	(fully grown) m. goat	tāyeh		(HL 128)	604
+7400	Soqotri	hegoat used as a sire	tɛyš		(LS 441; CSOL II 614)	604
 	PS	male of small cattle	*ˁat(t)ūd-		(SED II No. 44; Kogan 2011: 206)	605
 5487	Akkadian	wild sheep	atūdu		(CAD A₂ 521, AHw. 88)	605
 5486	Hebrew	male goat or sheep	ˁattūd		(HALOT 902)	605
@@ -6191,7 +6149,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 21889	Tigre	bear	dəbb		(WTS 526)	623
 21890	Tigrinya	bear	dəbbi		(TED 2111)	623
 21891	Amharic	bear	dəbb		(AED 1774)	623
-21892	Jibbali	bear	díb		(Nakano 1986: 117)	623
+21892	Jibbali	bear	díb		(Nakano 1986: 117)	623
 	PS	gazelle	*ṯ̣aby(-at)-		(SED II No. 242; Kogan 2011: 208)	624
 5672	Akkadian	gazelle	ṣabītu		(CAD Ṣ 42, AHw. 1071)	624
 5673	Ebla	gazelle	ṣa-ba-a-tum		(VE 1191)	624
@@ -6326,7 +6284,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 5818	Mehri	crow, raven	yəγəráyb		(ML 140, 461)	642
 5819	Jibbali	crow, raven	ˀaγəréb		(JL 2)	642
 22693	Harsusi	raven	yeγereb		(HL 45)	642
-3284	Soqotri	raven	áˁreb		(LS 326; CSOL I 496; CSOL II 414; Naumkin et al. 2015a:61; Wranik 2003:111–112; Morris 2022:307)	642
+3284	Soqotri	raven	áˁreb		(LS 326; CSOL I 496; CSOL II 414; Naumkin et al. 2015a:61; Wranik 2003:111–112; Morris 2022:307 )	642
 	PWS	eagle	*našr-		(SED II No. 166; Kogan 2011: 210)	643
 5830	Akkadian	eagle	našru		(CAD N₂ 79, AHw. 761)	643
 5821	Ugaritic	bird of prey; eagle or falcon (conventionally)	nšr		(DUL 650)	643
@@ -6482,13 +6440,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 5918	Arabic	lizard	ḥirḏawn-, ḥirdawn-		(BK 1 406, Lane 545)	660
 5919	Amharic	monitor lizard, an aquatic reptile resembling the crocodile, but smaller (Verenus niloticus)	arǯano		(AED 1157)	660
 21746	Harari	kind of a crocodile	arǯūni		(EDH 31)	660
-	PS	(a lizard)	*waran/l-		(SED II No. 246; Kogan 2011: 211)	661
-5920	Akkadian	(a lizard or snake)	urnu		(CAD U–W 234, AHw. 1431)	661
-22610	Jewish Babylonian Aramaic	a lizard	yallā		(DJBA 533)	661
-5921	Syriac	lizard	yarlā, yallā		(LSyr. 309, SL 584)	661
-5922	Arabic	lacerta Nilotica	waral-		(BK 2 1525, Lane 3052)	661
-5923	Mehri	varan	rəwōl		(ML 333)	661
-22611	Harsusi	waral, Varanus sp.	rewōl		(HL 106)	661
 	PS	turtle	*raḳḳ-		(SED II No. 190; Kogan 2011: 211)	662
 5924	Akkadian	turtle	raḳḳu		(CAD R 172, AHw. 958)	662
 5925	Syriac	turtle	raḳḳā		(LSyr. 743, SL 1490)	662
@@ -6605,14 +6556,14 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 22080	Mehri	to delouse	fəlō		(ML 95)	673
 22081	Jibbali	to delouse	félé		(JL 58)	673
 22082	Harsusi	to delouse	felō		(HL 33)	673
-3706	Soqotri	to delouse	fɛ́ḷə		(CSOL I 535)	673
+3706	Soqotri	to delouse	fέḷe		(CSOL I 535; Naumkin et al. 2016b:67-68)	673
 	PS	nit	*nāb-, *nib(b)-		(SED II No. 157; Kogan 2011: 213)	674
 5987	Akkadian	a louse	nābu		(CAD N₁ 40, AHw. 699)	674
 21791	Jewish Babylonian Aramaic	louse's egg	nābā		(DJBA 725)	674
 5988	Syriac	louse, nit	nābā		(LSyr. 418, SL 882)	674
 21790	Turoyo	Lauseei, Nisse (lice egg, nit)	nawto		(RW 361)	674
 21789	Mehri	type of louse that spreads all over the body	ḥaunîb		(Jahn 1902: 194)	674
-5989	Soqotri	nit	nib(b)		(Naumkin et al. 2013a:78)	674
+5989	Soqotri	nit	nib		(Naumkin et al. 2013a:78)	674
 	PS	moth	*sā/ūs-		(SED II No. 198; Kogan 2011: 213)	675
 5990	Akkadian	moth	sāsu		(CAD S 196, AHw. 1032)	675
 11652	Ebla	moth	za-zu-um /sāsum/		(VE 0040)	675
@@ -6697,7 +6648,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 6033	Mehri	worm	təwālōt		(ML 404)	682
 6034	Jibbali	worm; caterpillar	təbˁɔ́lɔ́t		(JL 27)	682
 22518	Harsusi	worm	tewālōt		(HL 128)	682
-22519	Soqotri	worm	taˁálʼe		(LS 444, CSOL I 673)	682
 	PWS	(meaning is uncertain)	*rimm-at-		(SED II No. 191; Kogan 2011: 214)	684
 6035	Hebrew	maggots, worms	rimmā		(HALOT 1241)	684
 22210	Deir Alla	vermin	rmh		(DNWSI 1077)	684
@@ -6783,7 +6733,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 13174	Gyeto	tendon of leg	gaǯa		(EDG 269)	692
 13177	Masqan	tendon of leg	ganǯa		(EDG 269)	692
 6074	Jibbali	vein, artery	z̃éd		(JL 70)	692
-6075	Soqotri	tendon	žed		(CSOL I 701; LS 157; Simeone-Senelle - Lonnet 1991:1456)	692
+6075	Soqotri	tendon	žed		(CSOL I 701; LS 157; Simeone-Senelle–Lonnet 1991:1456)	692
 	PS	sinew, tendon; nerve	*matn- (1)		(Held 1965: 405; SED I No. 191; Kogan 2011: 215)	693
 6077	Akkadian	sinew, tendon	matnu		(CAD M₁ 412, AHw. 633)	693
 6078	Ebla	sinew, tendon	ma-tá-nu		(VE 312)	693
@@ -6978,6 +6928,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 6173	Mehri	armpit	ḫōt		(ML 396)	714
 6174	Jibbali	armpit	šḫɔt		(JL 264)	714
 17863	Harsusi	armpit	mešḫáwt		(HL 125)	714
+6175	Soqotri	armpit	šḥoʰ		(LS 427; Simeone-Senelle–Lonnet 1991:1476; ad-Daˁrhi et al. 2019:541, 550)	714
 	PS	rib	*ṣ̂ilaˁ-		(SED I No. 272; Kogan 2011: 217)	715
 6176	Akkadian	rib, side (part of the human and the animal body); side (of an object)	ṣēlu		(CAD Ṣ 124, AHw. 1090)	715
 6177	Ugaritic	rib	ṣlˁ		(WUS 267)	715
@@ -7017,7 +6968,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 6196	Mehri	breast, bosom	ṯódi		(ML 415)	718
 6197	Jibbali	female breast	ṯɔ́dεˀ		(JL 283)	718
 17581	Harsusi	breast	ṯōdi		(HL 132)	718
-7425	Soqotri	female breast	tódi		(LS 439, CSOL I 673, CSOL II 608)	718
 	PWS	breast (of an animal)	*nVˁ-		(SED I No. 193; Kogan 2011: 217)	719
 6199	Jewish Palestinian Aramaic	breast of an animal	nyˁ		(DJPA 350)	719
 24471	Jewish Babylonian Aramaic	fattail, rump, breast of an animal	nəyāˁā, nīˁā		(Jastrow 906)	719
@@ -7151,7 +7101,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 6315	Muher	abdomen below the navel	äribä		(EDG 84)	730
 6316	Mehri	groin; (knee)cap; pain in the groin, armpit	rəbbūt		(ML 312)	730
 6317	Jibbali	groin; kneecap; pain in the groin, armpit	rɔ̄t, pl. rub		(JL 202)	730
-7652	Soqotri	thigh	erbéboʰ		(LS 73; CSOL I 632; CSOL II 561; Naumkin et al. 2015a:82)	730
 	PS	crotch, groin	*kapl-		(Kogan/Militarev 2002: 316–317; Kogan 2011: 218)	731
 6322	Akkadian	area between the thighs, groin	kappaltu		(CAD K 184, AHw. 444)	731
 6323	Jewish Babylonian Aramaic	loin	kaplā		(Jastrow 660, DJBA 596a)	731
@@ -7184,6 +7133,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 6435	Mehri	buttocks	šīt		(ML 396)	734
 6436	Jibbali	buttocks	s̃ét, šɔ̄		(JL 264)	734
 17740	Harsusi	backside, posterior	šīt		(HL 125)	734
+6437	Soqotri	genital organs, pudenda	šɛʰ		(LS 413; CSOL I 656; Naumkin et al. 2013b:561)	734
 	PS	buttocks, anus	*ḳinn-		(Kogan/Militarev 2002: 316; Kogan 2011: 218)	735
 6461	Akkadian	anus, buttocks; rear	ḳinnatu		(CAD Q 254, AHw. 921)	735
 6463	Arabic	back, loins, space between the hips	qaynat-		(BK 2 848)	735
@@ -7222,7 +7172,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 23490	Mehri	kidney	kəlyīt		(ML 209)	737
 6478	Jibbali	kidney	kuẑέt		(JL 131)	737
 23491	Harsusi	kidney	kelīt		(HL 68)	737
-7097	Soqotri	kidney	kɛ́ḷe, kéḷoyt		(LS 219; CSOL II 499)	737
+7097	Soqotri	kidney	kέḷe, kéḷoyt		(LS 219; CSOL II 499)	737
 	PS	tuft of hair	*ŝVp-		(SED I 259, Kogan 2015: 539)	738
 6505	Akkadian	wool, fleece	šipātu		(CAD Š₃ 57, AHw. 1244)	738
 25665	Hebrew	moustache	ŝāpām		(HALOT 1348)	738
@@ -7304,7 +7254,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 6805	Gogot	breast	ṭəwuyyä		(EDG 607)	744
 6802	Soddo	breast	ṭəbuyya, ṭəwuyya		(EDG 607)	744
 10633	Mehri	teat, nipple	wōṭəb		(ML 433)	744
-25364	Jibbali	teat of a camel	ɛ́ṭəb		(JL 294)	744
+25364	Jibbali	teat of a camel	έṭəb		(JL 294)	744
 25711	Harsusi	teat	ḥāṭeb		(HL 138 )	744
 3166	Soqotri	teat, nipple	áˀaṭab or áṭab		(LS 57; CSOL I 480; CSOL II 397)	744
 	PES	molar tooth	*ṭirs­		(SED II No. 275)	745
@@ -7416,7 +7366,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 7269	Soddo	lung	sambo		(EDG 546)	755
 	Proto-MSA	umbilical cord	*ḥablat-		(SED I No. 110)	756
 17034	Mehri	umbilical cord	ḥəblēt, ḥəbēl		(ML 164)	756
-22829	Jibbali	umbilical cord	ḥablɛ́t		(JL 164)	756
+22829	Jibbali	umbilical cord	ḥablέt		(JL 164)	756
 22828	Harsusi	umbilical cord	ḥebelēt		(HL 55)	756
 	PES	navel	*ḥən/mbər-t-		(SED I No. 110)	757
 7270	Geez	navel	ḥənbərt		(LGz. 236, CDG 236)	757
@@ -7615,7 +7565,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 21754	Mehri	shark	əwḫáym		(ML 259)	785
 5934	Jibbali	shark	lḫum		(JL 167)	785
 21757	Harsusi	shark	léḫem		(HL 86)	785
-5935	Soqotri	shark	ľéḥim		(LS 232)	785
 	PS	to turn, to twist, to surround	*lwy		(Kogan 2015: 322 n. 949, CDG 322)	786
 1775	Akkadian	to move in a circle	lawû		(CAD L 69, AHw. 540)	786
 1776	Arabic	to twist	lwy		(Lane 3015)	786
@@ -7624,7 +7573,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 1779	Tigrinya	to flex	läwäyä		(TED 120)	786
 1780	Mehri	to bend	ləwū		(ML 258)	786
 1781	Jibbali	to turn	lē		(JL 167)	786
-7774	Soqotri	to hold, to seize, to catch	ḷe		(LS 230, CSOL I 605, CSOL II 530)	786
 	PS	to eat, to taste	*lḥm		(Kogan 2015: 193)	787
 863	Akkadian	to take food or drink	lêmu		(CAD L 126, AHw. 543)	787
 498	Ugaritic	to eat	lḥm		(DUL 495)	787
@@ -7809,11 +7757,10 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 7907	Mehri	brain	mēma		(ML 260)	805
 7908	Jibbali	brain	maˁ		(JL 168)	805
 24370	Harsusi	brain	māmā		(HL 87)	805
-7909	Soqotri	brain	mīmăˁ		(SSL LS 1466)	805
+7909	Soqotri	brain	mímaˁ		(CSOL II 536)	805
 	Proto-MSA	son	*bir-		(Kogan 2015: 578)	806
 4581	Mehri	son	bər		(ML 54)	806
 4583	Jibbali	son	bɛr		(JL 27–28)	806
-3536	Soqotri	son or daughter	bɛr		(LS 95; CSOL I 516-517; CSOL II 435)	806
 	PArm	daughter	*bir-t-		(Kogan 2015: 398)	807
 14738	Palmyrean	daughter	brt		(DNWSI 193)	807
 14737	Nabataean	daughter	brt		(DNWSI 193)	807
@@ -7852,7 +7799,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 12408	Tigre	barley	šəˁir		(WTS 226)	812
 12409	Mehri	barley	šəˁīr		(ML 391)	812
 12410	Jibbali	barley	šiˁír		(JL 259)	812
-12411	Soqotri	barley	šaˁír or šeˁír or šᵉˁer		(LS 420; CSOL I 656; CSOL II 589)	812
 	PC	early rain	*yāriy-		(Kogan 2015: 315)	814
 569	Ugaritic	early rain	yr		(DUL 977)	814
 1700	Hebrew	early rain	yōrǟ		(HALOT 404)	814
@@ -7876,6 +7822,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	Proto-MSA	to skim off	*ṭlf		(Kogan 2015:574)	818
 18189	Mehri	skim on boiled milk	ṭəlīfūt		(ML 409)	818
 18190	Jibbali	to skim off	ṭɔ́lɔ́f		(JL 277)	818
+27181	Soqotri	to carry away	ṭéḷof		(Naumkin–Kogan 2021 :526)	818
 	PS	nostril	*naḫīr-		(SED I No. 198; Kogan 2011: 221)	820
 8024	Akkadian	nostril	naḫīru		(CAD N₁ 136, AHw. 714)	820
 8025	Hebrew	nostrils	nəḥīrayim		(HALOT 686)	820
@@ -7938,7 +7885,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 8047	Mehri	jaw, molar tooth	məlḥāw		(ML 254)	824
 8048	Jibbali	jaw	məẑḥét		(JL 163)	824
 24353	Harsusi	beard, chin	leḥyīt		(HL 84)	824
-8049	Soqotri	jaw	mɛ́ḷḥe		(LS 244; CSOL I 602)	824
+8049	Soqotri	jaw	mέḷḥe		(LS 244; CSOL I 602)	824
 	PCS	piglet	*ḫVnnVṣ-		(SED II No. 110; Kogan 2011: 207)	825
 8050	Ugaritic	piglet	ḫe-en-ni-ṣu		(Huehnergard 1987: 129)	825
 8051	Deir Alla	young pig	ḥnyṣ		(DNSWI 388)	825
@@ -7974,7 +7921,8 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 22931	Syriac	to uncover (head); to untie (hair)	prˁ		(LSyr 603)	831
 23314	Hertevin	(coll.) hair	perča		(Jastrow 1988: 195)	831
 8619	Arabic	chevelure (hair)	farˁ-		(BK 2 579)	831
-3739	Soqotri	dry palm leaf	farˁ		(CSOL I 536, CSOL II 456)	831
+3738	Soqotri	to protect palm saplings with dry palm leaves	fóriˁ		(CSOL II 456)	831
+3739	Soqotri	dry palm leaf	farˁ		(CSOL I 536; CSOL II 456)	831
 	PS	(stiff) hair	*γapar-		(SED I No. 105, Kogan 2011: 223)	832
 22410	Akkadian	stiff, wiry (?) hair	apparrītu		(CAD A₂ 179, AHw. 59)	832
 8627	Akkadian	having wiry (?) hair	apparrû		(CAD a₂ 179, AHw. 59)	832
@@ -7993,6 +7941,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 13127	Maalula	Bart (beard)	ḏeḳna		(GNDM 22)	833
 8668	Arabic	beard	ḏaqan-		(BK 1 776, Lane 267)	833
 13130	Arabic	extremely aged man	ḏiqn-		(BK 1 775, Lane 967)	833
+8669	Soqotri	beard; chin	déḳhon		(LS 134)	833
 	PS	palm	*kapp-		(SED I No. 148, Kogan 2011: 223)	834
 8689	Akkadian	arm, hand	kappu		(CAD K 185, AHw. 444)	834
 8691	Ugaritic	palm	kp		(DLU 221)	834
@@ -8019,7 +7968,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 8723	Mehri	palm of hand	rəḥāt		(ML 333)	835
 8730	Jibbali	palm of hand	irɔ́ḥɔ́t		(JL 218)	835
 17934	Harsusi	palm of the hand	ərḥāt		(HL 107)	835
-8733	Soqotri	palm of hand	ríḥoh		(LS 399; CSOL I 634)	835
 	PS	hollow of the hand	*ḥupn-		(SED I No. 125; Kogan 2011: 224)	836
 8928	Akkadian	hollow of the hand	upnu		(CAD U–W 181, AHw. 1424)	836
 8929	Hebrew	the hollow of both hands	ḥopnayim		(HALOT 339)	836
@@ -8217,7 +8165,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 17287	Jewish Babylonian Aramaic	three	tlāṯā		(DJBA 1211)	853
 9035	Syriac	three	tlāṯ		(LSyr. 826, SL 1651)	853
 17288	Mandaic	three	tlata		(MD 487)	853
-17286	Turoyo	drei (tree)	tloṯo		(RW 527)	853
+17286	Turoyo	drei (three)	tloṯo		(RW 527)	853
 9033	Arabic	three	ṯalāṯ-		(Lane 347)	853
 9038	Sabaic	three	s₂lṯ		(SD 132)	853
 10521	Tigre	three	salas		(WTS 168)	853
@@ -8269,7 +8217,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 10552	Masqan	four	arbät		(EDG 85)	854
 10553	Gogot	four	arbät		(EDG 85)	854
 10557	Soddo	four	arätt		(EDG 85)	854
-22047	Soqotri	four	erbóˁoʰ		(CSOL I 632; CSOL II 391–392; LS LS 73)	854
 22048	Soqotri	forty	arbaˁín		(CSOL II 392)	854
 	PS	five	*ḫam(i)š-		(Kogan 2009: 73)	855
 9046	Akkadian	five	ḫamiš		(CAD Ḫ 66, AHw. 317)	855
@@ -8331,7 +8278,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 10592	Masqan	six	səddəst		(EDG 536)	856
 10593	Gogot	six	səddəst		(EDG 536)	856
 10594	Soddo	six	səddəst		(EDG 536)	856
-7353	Soqotri	six	ʸhéˀte		(LS 147, CSOL I 692, CSOL II 625)	856
 	PS	seven	*šabˁ-		(Kogan 2009: 73)	857
 9065	Akkadian	seven	sebe		(CAD S 203, AHw. 1033)	857
 9064	Phoenician	seven	šbˁ		(DNWSI 1102)	857
@@ -8360,7 +8306,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 10648	Masqan	seven	säbät		(EDG 534)	857
 10649	Gogot	seven	säbätt		(EDG 534)	857
 10646	Soddo	seven	säbat		(EDG 534)	857
-7351	Soqotri	seven	yhébˁe		(LS 140, CSOL I 692, CSOL II 625)	857
 	PS	eight	*ṯamāniy-		(Kogan 2009: 73)	858
 9073	Akkadian	eight	samāne		(CAD S 110, AHw. 1017)	858
 9070	Ugaritic	eight	ṯmn(y)		(DUL³ 901)	858
@@ -8399,7 +8344,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 10671	Amharic	noon, midday	täsiyat, täsəyat		(AED 974)	859
 26448	Mehri	nine	sɛ̄		(ML 338)	859
 26449	Jibbali	nine	sɔˁ		(JL 220)	859
-7601	Soqotri	nine	saˁ		(LS 289; CSOL I 639; CSOL II 571)	859
 	PS	ten	*ˁaŝr-		(CDG 74, HALOT 894)	860
 9091	Akkadian	ten	ešer		(CAD E 364, AHw. 253)	860
 9085	Ugaritic	ten	ˁšr		(DUL³ 185)	860
@@ -8894,7 +8838,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 9444	Tigrinya	to sweat, to perspire	räḥaṣä		(TED 539)	911
 9441	Selti	to wash	täraṭä		(EDG 528)	911
 9440	Gafat	to wash	raṣä		(Leslau 1956:228)	911
-7633	Soqotri	to wash	ráḥaẓ̂		(LS 398, CSOL I 634, CSOL II 564)	911
 	PES	to do again, to double	*kˁb		(CDG 271; Kogan 2015: 461)	912
 9445	Geez	make double	kaˁaba		(CDG 271)	912
 9446	Tigre	to double	käˁabä		(WTS 421)	912
@@ -8948,7 +8891,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 9487	Zway	sterile	mähan		(EDG 398)	920
 9486	Gogot	sterile	mäkan		(EDG 398)	920
 	PWS	to be sterile, without offspring (of man and woman)	*ˁḳr		(SED I No. 1ᵥ; HALOT 874)	921
-7491	Soqotri	uneatable date; sterile palm	ṣ̌áˁarher		(LS 157; CSOL I 662; CSOL II 595)	921
 	PCS	to be / become childless; to be bereft	*ṯkl		(SED I No. 76ᵥ; HALOT 1491; Kogan 2015: 201)	922
 9493	Ugaritic	to lose, be deprived of children	ṯkl		(DUL 903)	922
 11919	Ugaritic	Kinderlosigkeit (childlessness)	ṯkl		(WUS 334)	922
@@ -9060,7 +9002,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 9564	Hebrew	to wrap up	lwṭ		(HALOT 523)	935
 9565	Mehri	to turn (a corner)	alwīṭ		(ML 258)	935
 9566	Jibbali	to turn (a corner)	elbéṭ		(JL 167)	935
-3100	Soqotri	1. to turn aside; 2. to do again; 3. to follow someone in doing something	ḷeṭ		(LS 230, 605; CSOL I 605; CSOL II 388)	935
 	PES	to change	*wlṭ/*lwṭ		(CDG 614; Kogan 2015: 464)	936
 9558	Geez	to change, exchange, alter, barter; to transcribe, register	wallaṭa		(CDG 614)	936
 9559	Tigre	to change	läwäṭä		(WTS 45)	936
@@ -9465,7 +9406,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 9945	Tigrinya	fare qualche segno in fronte ecc. ad una bestia per riconoscerla (make some mark on the forehead etc. on a beast to recognize it)	ḳʷärḥe		(TED 925, Bassano 1918: 289)	969
 9948	Soddo	bald	ḳorara		(EDG 500)	969
 9947	Soddo	to become bald	ḳʷärrärä		(EDG 500)	969
-9949	Mehri	to shave	ḳáwrǝḥ		(ML 235)	969
+9949	Mehri	to shave	ḳáwrǝḥ		(ML 235)	969
 9951	Jibbali	to cut all the hair off	ḳérḥ		(JL 149)	969
 9950	Harsusi	to shave	ḳerōḥ		(HL 77)	969
 	PS	to vomit	*ḳy/wˀ		(SED I No. 39ᵥ; Kogan 2011: 231)	970
@@ -9475,7 +9416,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 9954	Geez	to vomit	ḳeˀa		(CDG 456)	970
 9955	Tigre	to vomit	ḳäˀa		(WTS 255)	970
 9960	Amharic	to break winds almost imperceptibly, to let a series of farts, to make a noise in vomiting	ḳʷǝḳḳ alä		(AED 761)	970
-9956	Mehri	to vomit	ḳáwya		(ML 246)	970
+9956	Mehri	to vomit	ḳáwya		(ML 246)	970
 9958	Jibbali	to vomit	ḳéˀ		(JL 156)	970
 9957	Harsusi	to vomit	ḳéwya		(HL 80)	970
 7810	Soqotri	to vomit	ḳe		(LS 370; CSOL I 597; CSOL II 521)	970
@@ -9525,10 +9466,10 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 10001	Masqan	to wish, have sexual intercourse, be covered (cattle), be coupled, conceive (cattle)	tämenna		(EDG 414)	972
 9996	Gogot	to wish, have sexual intercourse, be covered (cattle), be coupled, conceive (cattle)	tämeññä		(EDG 414)	972
 10002	Soddo	to wish, have sexual intercourse, be covered (cattle), be coupled, conceive (cattle)	täminna		(EDG 414)	972
-10003	Mehri	to wish	mátni		(ML 268)	972
+10003	Mehri	to wish	mátni		(ML 268)	972
 10004	Mehri	to wish	mǝtōni		(ML 268)	972
 10005	Jibbali	to want, to wish	mútni		(JL 172)	972
-10006	Soqotri	to desire	moténe		(LS 246, CSOL I 612)	972
+10006	Soqotri	to desire	moténe		(LS 246; CSOL I 612; Bulakh 2024:209)	972
 	PS	to bray (of donkey); cry, groan; roar	*nhḳ		(SED I No. 44v)	973
 10053	Akkadian	to bray, to neigh	nagāgu		(CAD N₁ 105, AHw. 709)	973
 10023	Akkadian	to cry, to groan	nâḳu		(CAD N₁ 341, AHw. 744)	973
@@ -9557,9 +9498,9 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 10039	Gogot	to roar (animal), bark (dog), howl	noḳḳä-m		(EDG 587)	973
 10040	Soddo	to roar (animal), bark (dog), howl	noḳḳä-m		(EDG 1087)	973
 10041	Mehri	to bray (donkey); roar (dragon)	nǝhēḳ		(ML 290)	973
-10042	Jibbali	(donkey) to bray; (monster; wild beast) to roar	nɛhɛ́ḳ		(JL 186)	973
+10042	Jibbali	(donkey) to bray; (monster; wild beast) to roar	nɛhέḳ		(JL 186)	973
 10043	Harsusi	to bray (donkey)	nehāḳ		(HL 95)	973
-10045	Soqotri	ronfler	náḥḳoḳ		(LS 264)	973
+10045	Soqotri	ronfler	náḥḳoḳ		(LS 264)	973
 	PWS	hoof	*pVrs-		(SED I No. 220; Kogan 2011: 226)	974
 10055	Hebrew	hoof	parsā		(HALOT 969)	974
 23315	Jewish Palestinian Aramaic	hoof, split hoof	prsh		(DJPA 449)	974
@@ -9708,7 +9649,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 10130	Mehri	undigested food in the stomach and intestines of a slaughtered animal	farṯ		(ML 101)	985
 10133	Jibbali	undigested food in the stomach and intestines of a slaughtered animal	fɔ́rṯ		(JL 62)	985
 10132	Harsusi	undigested food in the stomach and intestines of a slaughtered animal	fōreṯ		(HL 35)	985
-3754	Soqotri	nondigested food in the stomach of ruminants	fórt		(LS 343, CSOL II)	985
 	PS	(dry cow's) dung	*kVbVw-		(SED I No. 142; Kogan 2011: 227)	986
 10134	Akkadian	excrement, dung (of animals)	kabû		(CAD K 28, AHw. 418)	986
 10135	Jewish Babylonian Aramaic	heap, excrement	kbūyē		(Jastrow 60, DJBA 550a)	986
@@ -9811,6 +9751,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 18209	Mehri	to smell	ḏ̣áywa		(ML 85)	991
 10242	Jibbali	smell, odour	ḏ̣éˀ		(JL 50)	991
 18210	Jibbali	to smell	ḏ̣ē		(JL 50)	991
+27957	Soqotri	to smell, to inhale	šáṭi		(LS 197; CSOL I 688; CSOL II 622)	991
 	PCS	dung	*dVmn-		(SED I No. 53; Kogan 2011: 227)	992
 10247	Hebrew	dung	dōmän		(HALOT 227)	992
 10248	Arabic	dung, manure	dimn-, damān-		(BK 1 735, Lane 915)	992
@@ -9830,7 +9771,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 10624	Amharic	to suck	mäṭmäṭä		(AED 520)	997
 10625	Mehri	to suck	məṣ		(ML 272)	997
 10626	Jibbali	to suck	miṣṣ		(JL 175)	997
-10627	Soqotri	to suck	meṣ		(LS 249)	997
+10627	Soqotri	to suck	meṣ		(LS 249; Naumkin et al. 2016a:55)	997
 	PES	to suck	*ṭbw		(Kogan 2011: 228)	998
 10628	Geez	to suck milk, the breast	ṭabawa		(CDG 587)	998
 19371	Geez	to suckle	ˀaṭbawa		(CDG 587)	998
@@ -9932,7 +9873,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 10891	Arabic	scab; rust	ǯarab-		(BK 1 273, Lane 403)	1005
 10892	Tigre	scab, mange	gərbeb		(WTS 575)	1005
 10893	Mehri	mange	garb		(ML 123)	1005
-22257	Jibbali	mange	gɛ́rb		(JL 78)	1005
+22257	Jibbali	mange	gέrb		(JL 78)	1005
 10895	Harsusi	mange	garb		(HL 41)	1005
 10894	Soqotri	mange	gɛrb		(LS 114)	1005
 	PS	(kind of) skin disease	*ṣVrnVˁ-at-		(SED I No. 257; Kogan 2011: 230)	1006
@@ -9958,7 +9899,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 10906	Arabic	mark of beating; a healed wound	ḥibr-		(Lane 499)	1009
 10907	Geez	eruption on the skin	ḥəbərbəre		(CDG 224)	1009
 10908	Mehri	spot of a darker colour (on the skin)	ḥábə́r		(ML 165)	1009
-22833	Soqotri	beauty spot, mole; big congenital black spot	ḥǟbər		(SSL 4 88)	1009
+22833	Soqotri	beauty spot, mole; big congenital black spot	ḥǟber		(SSL 4 88)	1009
 	PS	scabies, itch, boil	*ḫVŝp-		(SED I No. 138; Kogan 2011: 230)	1010
 10909	Jewish Babylonian Aramaic	scaly skin; scab, eruption	ḥwspnytˀ		(Jastrow 489)	1010
 10910	Arabic	être rongé par la gâle (to be eaten up by the scab)	ḫšf		(BK 1 576)	1010
@@ -9997,6 +9938,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 10930	Mehri	white hair	ŝayb		(ML 391)	1012
 10931	Jibbali	white hair	ŝub		(JL 259)	1012
 10932	Harsusi	white hair	ŝayb		(HL 123)	1012
+7480	Soqotri	1. old; 2. big	ŝíbɛb		(LS 428; CSOL I 664; CSOL II 597)	1012
 	PWS	baldness	*ḳurḥ-at-		(SED I No. 38ᵥ; Kogan 2011: 230)	1013
 9932	Hebrew	bald patch	ḳorḥā		(HALOT 1141)	1013
 9937	Syriac	baldness	ḳurḥtā		(LSyr. 694, SL 1405)	1013
@@ -10088,6 +10030,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 11005	Mehri	to fart (audibly)	ẑərūṭ		(ML 478)	1023
 11006	Jibbali	to fart (audibly)	ẓ̂érɔ́ṭ		(JL 327)	1023
 11007	Harsusi	to fart (audibly)	ẑərōṭ		(HL 152)	1023
+11008	Soqotri	to fart (audibly)	ẓ̂éraṭ		(LS 365; Bulakh 2024:140)	1023
 	PS	to break wind silently	*pšw		(SED I No. 57ᵥ; Kogan 2011: 231)	1024
 11069	Arabic	pet	fissat-		(BK 2 591)	1024
 14439	Arabic	to emit a noiseless wind from one's anus	fsw		(Lane 2399)	1024
@@ -10160,7 +10103,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 7028	Arabic	male; penis	ḏakar-		(Lane 969)	1031
 11126	Sabaic	male (child)	ḏkr		(SD 38)	1031
 11127	Jibbali	small male kid	məḏkér		(JL 46)	1031
-3621	Soqotri	1. billy goat; 2. male palm	míˀšer		(LS 128, 252; CSOL I 527; CSOL II 446)	1031
 11128	Soqotri	male	mídkir		(LS 128)	1031
 	PWS	to be hungry	*rγb		(SED I No. 59ᵥ; Kogan 2011: 237)	1032
 11137	Ugaritic	hungrig sein (to be hungry)	rγb		(WUS 295)	1032
@@ -10212,7 +10154,8 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 11169	Soddo	orphan	tamʷyä		(EDG 599)	1036
 11165	Mehri	orphan	ḥə-ytīm		(ML 462)	1036
 11166	Jibbali	orphan	ótím		(JL 314)	1036
-11167	Soqotri	orphan	ɛ́ˀtim		(CSOL I 692; HL 147)	1036
+29667	Harsusi	male orphan	ḥe-ytēm/ḥe-ytōm		(HL 147)	1036
+11167	Soqotri	orphan boy	έytim		(CSOL I 692)	1036
 	PS	widow	*ˀalman-at-		(Kogan 2011: 236)	1037
 11170	Akkadian	widow	almattu		(CAD A₁ 362, AHw. 38)	1037
 11172	Ugaritic	widow	ˀalmnt		(DUL 58)	1037
@@ -10271,6 +10214,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 11237	Sabaic	to give in abundance	h-s₂bˁ		(SD 131)	1043
 11238	Mehri	to be satisfied	ŝība		(ML 370)	1043
 11239	Jibbali	to be satisfied	ŝēˁ		(JL 244)	1043
+7481	Soqotri	to be sated	ŝébaˁ		(LS 425; CSOL I 663; CSOL II 597)	1043
 	PS	to be thirsty	*ṯ̣mˀ		(SED I No. 79ᵥ; Kogan 2011: 237)	1044
 11241	Akkadian	to be thirsty	ṣamû		(CAD Ṣ 95, AHw. 1081)	1044
 25311	Ebla	to be thirsty	zi-ma-um /ṣimāˀum/		(EV 3, Kogan–Krebernik 2021b: 688)	1044
@@ -10300,6 +10244,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 11260	Soddo	to be thirsty	ṭämma		(EDG 619)	1044
 11248	Mehri	to be thirsty; (camel) to go without water	ḏ̣áyma		(ML 84)	1044
 11249	Jibbali	to be thirsty	ḏ̣ĩ		(JL 49)	1044
+7369	Soqotri	to be thirsty	ṭími or ṭéme		(LS 205; CSOL I 686; CSOL II 620; Naumkin et al. 2016a:50, 52)	1044
 	PArm	to be thirsty	*ṣhy		(Fronzaroli 1971: 606; LSyr. 622; DJPA 459)	1045
 	PS	to sip, to absorb	*ŝrb		(Fronzaroli 1971: 607, 630, 638–639; Kogan 2011: 238)	1046
 11283	Akkadian	to sip	sarāpu		(CAD S 172, AHw. 1028)	1046
@@ -10315,7 +10260,8 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 21709	Sabaic	give enjoyment (of crops)	ṭˁm		(SD 152)	1047
 11291	Geez	to taste	ṭˁm		(CDG 583)	1047
 11292	Jibbali	to taste	ṭˁm		(JL 273)	1047
-11293	Soqotri	to taste	ṭˁm		(LS 206)	1047
+27118	Soqotri	to taste	ṭáˁam		(LS 206; CSOL I 681)	1047
+27129	Soqotri	taste	ṭáˁam		(LS 206; CSOL II 614)	1047
 	PS	to be bitter	*mrr		(Bulakh 2005: 336–340; Kogan 2011: 238)	1048
 11295	Akkadian	to be bitter	marāru		(CAD M₁ 267, AHw. 609)	1048
 11296	Ebla	Sum. Ì.ŠEŠ ('bitter oil')	Ì.GIŠ [m]ar-ru₁₂-um		(VE 884)	1048
@@ -10350,7 +10296,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 11330	Amharic	to be sour	kʷämäṭṭäṭä, homäṭṭäṭä		(EDG 344)	1050
 11321	Mehri	to be sour	ḥāməẑ		(ML183)	1050
 11327	Jibbali	(milk) to begin turning into butter	hĩẓ̂		(JL 112)	1050
-6710	Soqotri	to be sour	ḥémaẓ̂		(LS 181; CSOL II 480)	1050
 	PWS	salt	*milḥ-		(Fronzaroli 1971: 621, 634, 641; Kogan 2011: 239)	1051
 11339	Akkadian	a plant	mallaḫtu		(CAD M₁ 169, AHw. 596)	1051
 11338	Akkadian	saltpetre	milˀu		(CAD M₂ 69, AHw. 653)	1051
@@ -10366,7 +10311,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 16223	Geez	to season with salt	malləḥa		(CDG 343)	1051
 11335	Mehri	salt	məlḥāt		(ML 266)	1051
 11336	Jibbali	salt	míẑḥɔ́t		(JL 171)	1051
-11337	Soqotri	salt	míl'ḥo		(LS 243; CSOL I 535; Naumkin et al. 2015a:78)	1051
 	PES	salt	*ṣ̂ew		(Kogan 2011: 239)	1052
 	PS	to draw water	*šˀb		(Fronzaroli 1971: 611, 631, 639; Kogan 2011: 239)	1053
 11357	Akkadian	to draw water	sâbu		(CAD S 9, AHw. 1000)	1053
@@ -10485,6 +10429,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 11472	Geez	flour	ṭəḥn		(CDG 590)	1064
 11469	Mehri	to grind	ṭḥn		(ML 408)	1064
 11470	Jibbali	to grind	ṭḥn		(JL 276)	1064
+7383	Soqotri	to grind	ṭáḥan		(LS 202; CSOL II 618)	1064
 	PS	to sieve	*npy		(Fronzaroli 1971: 618, 633, 640; Kogan 2011: 242)	1065
 11473	Akkadian	to sift	napû		(CAD N₁ 327, AHw. 742)	1065
 11476	Hebrew	sieve	nāpā		(HALOT 708)	1065
@@ -10561,7 +10506,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 13489	Soddo	to be fertile, ripe, cooked	bässälä		(CDG 159)	1071
 13497	Mehri	to be cooked, baked, ready	bəhēl		(ML 45)	1071
 11518	Jibbali	to be cooked, ready, ripe	béšəl		(JL 30)	1071
-3500	Soqotri	to be cooked, ready	bɛ́hɛḷ		(LS 83; CSOL I 512; CSOL II 430)	1071
+3500	Soqotri	to be cooked, ready	bέhɛḷ		(LS 83; CSOL I 512; CSOL II 430)	1071
 	PWS	broth	*maraḳ-		(Kogan 2011: 242)	1072
 11530	Ebla	Sum. A.AKA	mar-ḳùm, ma-la-ḳù-um		(VE 602; Conti 1990: 167)	1072
 11524	Hebrew	broth	māraḳ		(HALOT 638)	1072
@@ -10569,7 +10514,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 11526	Geez	broth	maraḳ		(CDG 359)	1072
 11527	Mehri	gravy, soup	mərēḳ		(ML 270)	1072
 11528	Jibbali	gravy, soup	mírέḳ		(JL 173)	1072
-11529	Soqotri	soup	maraḳ		(LS 251)	1072
+11529	Soqotri	soup, broth	maráḳ		(LS 251; CSOL I 612)	1072
 	PWS	king	*malik-/*malk-		(Kogan 2011: 245)	1073
 16203	Akkadian	king	malku		(CAD M₁ 166, AHw. 595)	1073
 25839	Ebla	king	ma-li-gú-um /malikum/		(VE 1088)	1073
@@ -10625,7 +10570,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 8076	Arabic	guepard	fahd-		(BK 2 640, Lane 2452)	1081
 11637	Hadramitic	lynx	hd-nyw		(Pirenne 1990: 93)	1081
 21909	Mehri	animal bogy about the size of a cow	fəhədēt		(ML, Jahn 1902 176)	1081
-11638	Jibbali	fat girl; a bogy about the seize of a cow	fhəddɛ́t		(JL 54)	1081
+11638	Jibbali	fat girl; a bogy about the seize of a cow	fhəddέt		(JL 54)	1081
 	PWS	kind of worm	*pVḥVr-		(SED II No. 172)	1082
 11639	Arabic	worm	faḥḥār-		(Baranov 583)	1082
 11640	Harari	worm	fōḥri		(EDH 62)	1082
@@ -10638,7 +10583,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 11643	Muher	kind of worm; eggs of the tick	fərfər		(EDG 241)	1082
 11648	Muher	kind of worm; eggs of the tick	fərəffər		(EDG 241)	1082
 11642	Gogot	kind of worm; eggs of the tick	fərfər		(EDG 241)	1082
-21910	Jibbali	snail with a very hard shell	fḥarɛ́t		(JL 54)	1082
+21910	Jibbali	snail with a very hard shell	fḥarέt		(JL 54)	1082
 	PS	to dig, to make a hole	*pḥr		(SED II No. 172 [n.])	1083
 	PS	kind of snake, worm	*šibb-		(SED II No. 200)	1084
 11657	Akkadian	a snake	šibbu		(CAD Š₂ 375, AHw. 1226)	1084
@@ -10814,7 +10759,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 11920	Akkadian	to be giddy, stagger	dâmu		(CAD D 80, AHw. 146)	1103
 11921	Arabic	vertigo, giddiness in the head	duwām-		(BK 1 753, Lane 937)	1103
 11922	Jibbali	not to sleep because of ophtalmia pains	edmím		(JL 39)	1103
-	PS	to by out, to ransom, to redeem	*pdy		(EDA P N12)	1104
+	PS	to buy out, to ransom, to redeem	*pdy		(EDA P N12)	1104
 14347	Akkadian	to spare, to release	padû		(CAD P 6, AHw. 808)	1104
 14351	Ugaritic	to ransom, to redeem	pdy		(DUL 653)	1104
 14352	Hebrew	to buy out, to ransom, to redeem	pdy		(HALOT 911)	1104
@@ -10839,7 +10784,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 11936	Soddo	to accomplish, to bring to an end	fäǯǯä		(EDG 229)	1104
 14362	Mehri	to recover, get back smth.; to ransom	fədō		(ML 87)	1104
 22032	Jibbali	to ransom, to recover smth.	fédé		(JL 51)	1104
-22031	Soqotri	to help, to provide abundantly	féde		(LS 333, Naumkin et al. 2016a:46)	1104
+22031	Soqotri	to help, to provide abundantly	féde		(Naumkin et al. 2016a:46)	1104
 	PCS	wagon	*ˁagal-at-		(Kogan 2015: 207)	1105
 12511	Hebrew	wagon, cart	ˁăgālā		(HALOT 785)	1105
 12512	Syriac	chariot, wagon	ˁāgaltā		(LSyr. 510, SL 1068)	1105
@@ -10868,7 +10813,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 17139	Mehri	at, about, by, in, with	bə-		(ML 40)	1106
 17141	Jibbali	at, about, by, with, in	b-		(JL)	1106
 17140	Harsusi	in, with, by	b-/be-		(HL 14)	1106
-3467	Soqotri	in	bə-		(LS 79, CSOL I 507, CSOL II 424 – 425)	1106
+3467	Soqotri	in	be-		(LS 79; CSOL I 507; CSOL II 424 – 425)	1106
 	PS	to speak emphatically, to pray	*bhl		(EDA B N3)	1107
 16610	Akkadian	to pray to, to beseech, to supplicate	baˀālu		(CAD B 2, AHw. 101, EDA I 85)	1107
 11994	Arabic	to curse; VIII. to address with earnest, energetic supplication	bhl		(Lane 267)	1107
@@ -10892,7 +10837,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 11999	Soddo	to say	balä		(EDG 138)	1107
 12012	Mehri	word	bəhlīt		(ML 45)	1107
 12013	Jibbali	word	bεhlét		(JL 24)	1107
-3514	Soqotri	thing; something	bíľeʰ		(LS 83; CSOL I 514; CSOL II 431)	1107
 	PS	to be of bad quality, to be putrid, to stink	*bˀš		(EDA B N5)	1108
 11307	Akkadian	to smell bad, be of bad quality	baˀāšu		(CAD B 4, AHw. 94, SAD I 2)	1108
 12018	Ugaritic	to stink	bˀš		(HALOT 107)	1108
@@ -10972,7 +10916,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 12069	Mehri	to blow, inflate	nefḫ		(ML 285)	1110
 12071	Jibbali	to blow, inflate, to blow up a cow’s vagina to make its milk come	nifḫ		(JL 183)	1110
 12070	Harsusi	to blow	nefōḫ		(HL 94)	1110
-12072	Soqotri	to blow	náfaḥ		(LS 270, CSOL I 619)	1110
 	Areal reconstruction	to blow the nose	*npṭ		(SED I No. 48v)	1111
 12073	Arabic	to sneeze	nfṭ		(BK 2 1313, Lane 2823)	1111
 12074	Geez	to blow the nose	nafaṭa		(CDG 390)	1111
@@ -11538,7 +11481,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 12624	Tigre	to ferment, to turn sour	ḥamrä		(WTS 60)	1182
 12625	Mehri	to be dirty and smell bad	ḫátmər		(ML 444)	1182
 12626	Jibbali	to go rotten, to ferment; to be dirty and smell bad	ḫɔ́tmər		(JL 302)	1182
-12627	Soqotri	something dirty; sediment	ḥámreʰ		(Naumkin–Kogan 2021 :531)	1182
+12627	Soqotri	something dirty, mud; sediment	ḥámreʰ		(Naumkin–Kogan 2021 :531; CSOL III)	1182
 	PCS	thread	*ḫawṭ-, *ḫayṭ-		(Kogan 2015: 212)	1183
 12630	Hebrew	thread	ḥūṭ		(HALOT 296)	1183
 16863	Jewish Babylonian Aramaic	to sew	ḥwṭ, ḥṭy		(DJBA 436)	1183
@@ -11547,7 +11490,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 12633	Mehri	string; thread, bowstring	ḫīṭáyt		(ML 458)	1183
 12635	Jibbali	thin, fine thread made of fibre	ḫíṭét		(JL 312)	1183
 12634	Jibbali	to sew, to stitch	aḫyéṭ		(JL 312)	1183
-7058	Soqotri	to sew	ḥéyaṭ		(LS 172; CSOL I 569; CSOL II 490)	1183
 	PCS	priest, wizard	*kāhin-		(Kogan 2015: 213)	1184
 12636	Ugaritic	priest	khn		(DUL 433)	1184
 12637	Hebrew	priest	kōhēn		(HALOT 461)	1184
@@ -11713,6 +11655,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 12782	Mehri	to fish	əṣtəyūd		(ML 369)	1201
 2456	Jibbali	fish	ṣod		(JL 243)	1201
 12783	Jibbali	to fish	əṣtɔ́d		(JL 243)	1201
+7560	Soqotri	fish	ṣóde		(LS 349; CSOL I 649; CSOL II 581; Naumkin et al. 2015a:84)	1201
 	PCS	to take captive	*šby		(Kogan 2015: 219)	1202
 12784	Ugaritic	to take captive	šby		(DUL 807)	1202
 12785	Hebrew	to take captive	šby		(HALOT 1382)	1202
@@ -11985,7 +11928,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 13118	Gogot	part of body between the shoulderblades	däfäna		(EDG 201)	1227
 13119	Mehri	body, side	dəf(f)ēt		(ML 63)	1227
 13120	Harsusi	body, side	deffét		(HL 23)	1227
-3600	Soqotri	1. rib cage, thorax; 2. side, flank	dɛ́fɛʰ		(LS 133; CSOL I 525; CSOL II 443)	1227
+3600	Soqotri	1. rib cage, thorax; 2. side, flank	dέfɛʰ		(LS 133; CSOL I 525; CSOL II 443)	1227
 	PS	eyebrow, eye-pit, front	*gabb(-at)-		(SED I No. 66)	1228
 13139	Akkadian	brain(?)	gabbu		(CAD G 5, AHw. 272)	1228
 13140	Hebrew	eyebrows	gabbōt ˁēnayim		(HALOT 170)	1228
@@ -12340,7 +12283,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 15555	Geez	to restrain	taḥakama		(CDG 228)	1265
 15556	Mehri	to be old	ḥəkūm		(ML 174)	1265
 15557	Jibbali	to be old	ḥkum		(JL 107)	1265
-4265	Soqotri	to grow old	ḥkom or ḥékem		(LS 174; CSOL I 555; CSOL II 475; Naumkin–Kogan 2021 :527)	1265
 	PWS	palate	*ḥVnVk-, *ḥink-		(SED I No. 124; Kogan 2015: 84)	1266
 16001	Hebrew	palate	ḥēk		(HALOT 313)	1266
 22959	Official Aramaic	palate	ḥnk		(DNWSI 388)	1266
@@ -12372,7 +12314,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 16020	Geez	to cut wood, to split wood; to gather wood	ḥaṭaba		(CDG 248)	1269
 16021	Mehri	to fetch, collect firewood	ḥəṭáwb		(ML 192)	1269
 16022	Jibbali	to fetch wood	ḥɔ́ṭɔ́b		(JL 119)	1269
-7038	Soqotri	to gather firewood	ḥéṭab		(LS 170; CSOL I 567)	1269
+7038	Soqotri	to gather firewood	ḥéṭab		(LS 170; CSOL I 567; CSOL III CSOL III)	1269
 	PWS	strength	*ḥayl-/*ḫayl-		(Kogan 2015: 118)	1270
 16027	Ugaritic	strength, vigour	ḥl		(DUL 354)	1270
 16028	Hebrew	power	ḥayil		(HALOT 311)	1270
@@ -12421,7 +12363,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 16079	Qatabanian	to be	kwn		(LIQ 84)	1275
 16080	Geez	to be, become, exist	kona		(CDG 299)	1275
 16081	Jibbali	to be	kun		(JL 138)	1275
-5116	Soqotri	to be	kɔn		(LS 215; CSOL I 583; CSOL II 506; Naumkin et al. 2015a:74)	1275
 	PWS	to face, to be in front of	*ḳbl		(Kogan 2015: 87)	1276
 16082	Hebrew	(pi.) to accept, to receive	ḳbl		(HALOT 1061)	1276
 16083	Syriac	to go towards, meet; to oppose, be in front	ḳbl		(LSyr. 640, SL 1311)	1276
@@ -12453,14 +12394,14 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 16112	Geez	sling	maḳləˁ		(CDG 426)	1279
 16113	Mehri	to let, to allow, to leave	ḳáwla		(ML 229)	1279
 16114	Jibbali	to let, to allow	ḳélaˁ		(JL 144)	1279
-16115	Soqotri	to throw	ḳáḷaˁ		(LS 375; CSOL I 588; CSOL II 512; Naumkin et al. 2015a:75)	1279
+16115	Soqotri	to throw	ḳáḷaˁ		(LS 375; CSOL I 588; CSOL II 512; Naumkin et al. 2015a:75; Bulakh et al. 2021:265; CSOL III)	1279
 	PWS	to be jealous	*ḳnˀ		(Kogan 2015: 88)	1280
 16120	Hebrew	to envy, be jealous	ḳnˀ		(HALOT 1109)	1280
 16121	Syriac	zeal, desire	ḳenetā/ḳeneˀtā		(LSyr. 675, SL 1379)	1280
 16122	Geez	be envious, be jealous, be eager	ḳanˀa		(CDG 433)	1280
 16123	Mehri	to be jealous	ḳáynəˀ		(ML 232)	1280
 16124	Jibbali	to be jealous	ḳéni		(JL 147)	1280
-16125	Soqotri	to be envious, to envy	ḳáne or ḳéne		(LS 377; CSOL I 590; Naumkin et al. 2016a:51, 52; Naumkin–Kogan 2021 :528)	1280
+16125	Soqotri	to be envious, to envy	ḳáne or ḳéne		(LS 377; CSOL I 590; Naumkin et al. 2016a:51, 52; Naumkin–Kogan 2021 :528; CSOL III)	1280
 	PWS	summer	*ḳayṯ̣-̣		(Kogan 2015: 125)	1281
 16128	Ugaritic	summer; summer fruit	ḳṯ̣		(DUL 722)	1281
 16130	Amarna Canaanite	summer crops	ŠE.MEŠ ḳè-e-ṣí		(EA 131:15, AHw. 918, CAD Q 243)	1281
@@ -12546,7 +12487,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 16227	Mehri	from, out of	mən		(ML 267)	1287
 16228	Jibbali	from	mən		(JL 172)	1287
 17415	Harsusi	from; negative of an order; lest; than, than that; when, from the time that	men		(HL 89)	1287
-7754	Soqotri	from, of	men		(LS 245, CSOL I 610, CSOL II 537)	1287
+7754	Soqotri	from, of	men		(LS 245; CSOL I 610; CSOL II 537; Naumkin et al. 2015a:78)	1287
 	PWS	to hurt, to wound	*nky		(Kogan 2015: 93)	1288
 16237	Hebrew	(hip.) to strike, to smite	nky		(HALOT 697)	1288
 16238	Syriac	to injure, harm	nky		(LSyr. 428, SL 918)	1288
@@ -12696,7 +12637,8 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 16295	Minaean	enfant, petit garçon (child, little boy)	fty		(LM 34)	1301
 16296	Geez	to desire, to love, to covet, to lust for	fatawa		(CDG 171)	1301
 28017	Geez (epigraphic)	to want, wish, desire	ftw		(RIÉ IIIB:615; DAE:92)	1301
-3767	Soqotri	to ejaculate; to be fulfilled (a dream)	fíti		(CSOL I 539)	1301
+3767	Soqotri	1. to ejaculate; 2. to be fulfilled (a dream)	fíti		(CSOL I 539; Naumkin et al. 2015b:47)	1301
+3848	Soqotri	to lose (in a game)	fte		(CSOL I 539)	1301
 	PWS	to be wide, broad	*rḥb		(Kogan 2015: 95)	1302
 16303	Ugaritic	wide	rḥb		(DUL 736)	1302
 16304	Hebrew	open oneself wide; hip: make wide, extensive	rḥb		(HALOT 1211)	1302
@@ -12709,7 +12651,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 24615	Tigrinya	wide	rəḥib		(TED 544)	1302
 27207	Mehri	town	rəḥbēt		(ML 320)	1302
 27208	Harsusi	town	reḥebét		(HL 103)	1302
-16308	Soqotri	to be broad	ráḥab		(LS 397)	1302
 	PWS	hunger	*raγab-		(SED I No. 59; Kogan 2015: 121)	1303
 11138	Ugaritic	hambre (hunger)	rγb		(Del Olmo, Religión 238)	1303
 11212	Hebrew	hunger	rāˁāb		(HALOT 1257)	1303
@@ -12753,7 +12694,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 16340	Minaean	plaire à qqn, satisfaire (to please someone, to satisfy)	rṣ̂w		(LM 76)	1308
 16341	Mehri	to be acceptable, agreeable	ráyẑi		(ML 336)	1308
 16342	Jibbali	to accept	ɛrẓ̂ẹ́		(JL 220)	1308
-7606	Soqotri	to be glad, to approve	réẓ̂i / ríẓ̂i		(LS 404, CSOL I 639, CSOL II 570)	1308
+7606	Soqotri	to be glad, to approve	réẓ̂i / ríẓ̂i		(LS 404; CSOL I 639; CSOL II 570)	1308
 	PWS	to run	*rwṯ̣		(Kogan 2015: 122)	1309
 16352	Ugaritic	to run, compete	rṯ̣		(DUL 750)	1309
 16353	Hebrew	to run	rwṣ		(HALOT 1207)	1309
@@ -12964,14 +12905,14 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 15129	Gogot	bridle	lugam		(EDG 376)	1320
 15127	Soddo	bridle	ləgʷam		(EDG 376)	1320
 15141	Mehri	bridle	ləgēm		(ML 252)	1320
-15145	Jibbali	bridle	légɛ́m		(JL 161)	1320
+15145	Jibbali	bridle	légέm		(JL 161)	1320
 	PS	to break, to crush	*prr		(EDA P 139)	1321
 22789	Akkadian	to disperse	parāru		(CAD P 161, AHw 829)	1321
 21390	Ugaritic	to break	prr		(DUL 681)	1321
 22790	Deir Alla	to break	prr		(DNWSI 944)	1321
 22791	Arabic	IV. to split, to cleave	frr		(Lane 2355)	1321
 22792	Mehri	to strip the fruit off a tree	frōr		(ML 97)	1321
-24006	Soqotri	to cut, to dismember a carcass	fɛ́rir		(CSOL I 537)	1321
+3743	Soqotri	1. to push; 2. to refuse; 3. to produce fresh shoots (a palm tree)	fέrfer		(CSOL I 536; CSOL II 457; Naumkin et al. 2016b:69)	1321
 	PS	to shine, to be bright	*brṣ		(CDG 108)	1322
 14032	Akkadian	to sparkle, to shine brightly	barāṣu		(CAD B 107, AHw. 106)	1322
 13324	Arabic	shining, glistering	barīṣ-		(Lane 188)	1322
@@ -13056,7 +12997,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 14342	Soddo	to untie, to undo	fätta		(EDG 247)	1326
 14329	Mehri	to open	fətḥ		(ML 106)	1326
 14330	Jibbali	to open	fétəḥ		(JL 65)	1326
-3768	Soqotri	IV. to mount (small cattle)	ftaḥ		(CSOL II 459)	1326
 	PNWS	to spread, to stretch; to strip off, to separate	*pšṭ		(EDA I)	1327
 14424	Hebrew	to strip off, to put off one's garment; to make a dash (from a sheltered place)	pšṭ		(HALOT 980)	1327
 14425	Jewish Palestinian Aramaic	to stretch; to strip flesh	pšṭ		(DJPA 453)	1327
@@ -13213,8 +13153,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 10321	Geez	to live, be alive, be well	ḥaywa		(CDG 252)	1344
 16025	Mehri	to be cured, get better	ḥáwya		(ML 196)	1344
 16026	Jibbali	to be cured	ḥē		(JL 121)	1344
-7046	Soqotri	abundance of green fodder (as opposed to drought)	ḥay		(LS 171; CSOL I 568)	1344
-749	Soqotri	man, person, somebody	ḥéyhe, hey		(LS 171; CSOL I 569; CSOL II 490)	1344
 10322	Soqotri	to live	ḥyy		(LS 171)	1344
 	PWS	to divide, to measure	*ḫlḳ		(Kogan 2015: 118)	1345
 16044	Hebrew	to divide, to apportion, to give a share	ḥlḳ		(HALOT 322)	1345
@@ -13286,6 +13224,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 16368	Geez	to hide, to conceal	satara		(CDG 518)	1352
 16369	Mehri	to cover	sətūr		(ML 352)	1352
 16370	Jibbali	to cover, to hide	stɔr		(JL 231)	1352
+16371	Soqotri	hut, booth	streʰ		(LS 291; CSOL III 203)	1352
 	PWS	to err, to be corrupt	*šḥt		(Kogan 2015: 122)	1353
 16372	Hebrew	(nip.) to be ruined, spoiled	šḥt		(HALOT 1470)	1353
 16373	Arabic	to destroy utterly	sḥt		(Lane 1314)	1353
@@ -13321,6 +13260,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 16387	Arabic	to smite with a thunder	ṣˁq		(Lane 1690)	1357
 16388	Minaean	proclamer (to proclaim)	ṣˁḳ		(LM 93)	1357
 16389	Jibbali	to shout, yell, cry	ṣaˁáḳ		(JL 234)	1357
+7564	Soqotri	to cry, to shout	ṣáˁaḳ		(LS 355; CSOL I 647; CSOL II 580)	1357
 	PWS	to be just	*ṣdḳ		(Kogan 2015: 122)	1358
 16390	Ugaritic	justice, legitimacy	ṣdḳ		(DUL 779)	1358
 16391	Hebrew	to be right	ṣdḳ		(HALOT 1003)	1358
@@ -13505,7 +13445,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 21488	Tigre	house	bet		(WTS 243)	1383
 21489	Tigrinya	house	bet		(TED 1154)	1383
 21490	Amharic	house	bet		(AED 912)	1383
-21487	Soqotri	house	beyt		(LS 85)	1383
 	PCS	to grant, offer a gift	ˀwš		(Kogan 2015: 318; Kogan 2006b: 243)	1384
 1718	Ugaritic	present, gift	ˀušn		(DUL 118)	1384
 16989	Hebrew	to grant, to reward	ˀwš		(HALOT 393, 398)	1384
@@ -13660,7 +13599,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 1735	Mehri	influenza	γəddēt		(ML 132)	1402
 1734	Mehri	to be seized by the throat	γáttəd		(ML 132)	1402
 1736	Jibbali	to throttle	γedd		(JL 83)	1402
-1737	Jibbali	choking feeling	γaddɛ́t		(JL 83)	1402
+1737	Jibbali	choking feeling	γaddέt		(JL 83)	1402
 	PCS	to feed	*γḏw		(Renfroe 1992:60‒61; Kogan 2015: 320)	1403
 1746	Ugaritic	food, provisions	mγd		(DUL 532)	1403
 1747	Arabic	to feed, to nourish	γḏw/γḏy		(Lane 2236)	1403
@@ -13750,7 +13689,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 17087	Jibbali	(corpse) to be buried	rɔ́tgəm		(JL 207)	1421
 17088	Jibbali	to be covered, buried alive (as, e.g., a witch)	s̃ergím		(JL 207)	1421
 17089	Jibbali	stoned, covered by stones; covered by stones and soil (in the grave)	rəgmún		(JL 207)	1421
-7642	Soqotri	to cover, to put a lid on	régom		(LS 394; CSOL I 633; CSOL II 563; Naumkin et al. 2015a:82)	1421
 	PCS	to suck, to suckle	*rγṯ		(Renfroe 1992:65‒66; Kogan 2015: 321)	1422
 1754	Ugaritic	suckling	mrγṯ		(DUL 574)	1422
 1755	Arabic	to suck	rγṯ		(Lane 1112)	1422
@@ -13843,7 +13781,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 17157	Hebrew	to awake	yḳṣ		(HALOT 431)	1438
 17159	Arabic	to wake up; to be alert, to be not sleeping	yqḏ̣		(LA 7 527)	1438
 17160	Sabaic	distress, affliction	myḳṯ̣		(SD 169)	1438
-7415	Soqotri	II to awake (transitive)	táḳiṭ		(LS 444, CSOL I 675, CSOL II 610)	1438
+7415	Soqotri	to awake (transitive)	táḳiṭ		(LS 444; CSOL I 675; CSOL II 610)	1438
 	PNWS	lion	*ˀarway-/*ˀaryay-		(SED II Nos. 17, 18; Kogan 2015: 236)	1439
 798	Ugaritic	lion	ˀarw		(DUL 111)	1439
 2907	Phoenician	lion	ˀrw		(Tomback 1978: 29, Krahmalkov 2000: 71)	1439
@@ -13900,7 +13838,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	PC	weapon	*nVṯḳ-		(Kogan 2015: 300, 343)	1449
 1519	Ugaritic	missiles (projectiles, darts)	nṯḳ		(DUL 654)	1449
 1520	Hebrew	equipment, weapons; order of battle, battle	näšäḳ (nēšäḳ)		(HALOT 731)	1449
-	PWS	nota accusativi	*ˀiyā/ˀiyāt/yāt		(Arakelova 2001:37)	1450
+	PWS	nota accusativi	*ˀiyā/ˀiyāt/yāt		(Kogan 2015:72–76)	1450
 11348	Phoenician	nota accusativi	ˀyt		(Friedrich– Röllig 1999:184‒185, 196‒197)	1450
 11347	Hebrew	nota accusativi	ˀēt		(HALOT 100)	1450
 17262	Moabite	used as nota objectivi, passim; followed by proleptic pron. suffix, used as demonstrative	ˀt		(DNWSI 47)	1450
@@ -13914,25 +13852,25 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 11353	Mehri	nota accusativi	t-		(ML 398)	1450
 11354	Jibbali	nota accusativi	t-		(JL xxvi, 269)	1450
 17267	Harsusi	accusative particle	t-/te-		(HL 126)	1450
+7435	Soqotri	nota accusativi (with pronominal suffixes only)	t-		(LS 436; CSOL I 672; CSOL II 605; Naumkin et al. 2015a:88)	1450
 	Proto-MSA	with	*kV-		(Kogan 2015:559)	1452
 16960	Mehri	with; at, in (of time)	k-/kə-		(ML 200)	1452
 16962	Jibbali	with	k-		(JL 124)	1452
 	Proto-MSA	(swollen) testicle	*kaˁl-at-		(Kogan 2015:559)	1453
 17385	Mehri	swollen testicle	kālēt		(ML 200)	1453
-17386	Jibbali	swollen testicle	kaˁlɛ́t		(JL 124)	1453
+17386	Jibbali	swollen testicle	kaˁlέt		(JL 124)	1453
 	Proto-MSA	to turn back	*klˀ		(Kogan 2015:560)	1454
 17388	Mehri	to come; to bring home	kəlū		(ML 209)	1454
 17389	Jibbali	to come home	kélé		(JL 131)	1454
-7108	Soqotri	to turn (transitive or intransitive); to reply, answer, to say something in one’s turn	kóḷe		(LS 218; CSOL I 577; CSOL II 499)	1454
 	Proto-MSA	beestings, colostrum	*kapaˀ		(Kogan 2015:560)	1455
 17391	Mehri	boiled beestings	kēfa		(ML 204)	1455
-17392	Jibbali	boiled beestings	kɛ́fɛˀ		(JL 127)	1455
+17392	Jibbali	boiled beestings	kέfɛˀ		(JL 127)	1455
 	Proto-MSA	to find	*ksˀ		(Kogan 2015:560–561)	1456
 17394	Mehri	to find	kūss		(ML 215)	1456
 17395	Jibbali	to find	ksé		(JL 135)	1456
 	Proto-MSA	to be in daytime	*ḳhb		(Kogan 2015:561)	1457
 2697	Mehri	to come in the middle of the day	kəḥēb		(ML 226)	1457
-17396	Jibbali	to be in daytime, to spend the day	ḳɛhɛ́b		(JL 142)	1457
+17396	Jibbali	to be in daytime, to spend the day	ḳɛhέb		(JL 142)	1457
 	Proto-MSA	to feed	*ḳnm		(Kogan 2015:561)	1458
 17397	Mehri	to collect fodder	ḳátnəm		(ML 232)	1458
 17398	Jibbali	to collect fodder	eḳɛmním		(JL 147)	1458
@@ -13940,7 +13878,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	Proto-MSA	to rear	*ḳny		(Kogan 2015:561)	1459
 10612	Mehri	to suckle	ḳənū		(ML 233)	1459
 10613	Jibbali	to suckle	ḳéní		(JL 147)	1459
-7832	Soqotri	to feed; to rear	ḳáne		(LS 377; CSOL I 590; CSOL II 514)	1459
+7832	Soqotri	to feed; to rear	ḳáne		(LS 377; CSOL I 590; CSOL II 514; Bulakh 2024:208)	1459
 	Proto-MSA	to hide	*ḳry		(Kogan 2015:562)	1460
 17406	Mehri	to hide	ḳərū		(ML 237)	1460
 17408	Jibbali	to hide	ḳéré		(ML 150)	1460
@@ -13952,7 +13890,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	Proto-MSA	against, on	*lV-		(Kogan 2015:562)	1462
 17224	Mehri	against, on	l-/lə-		(ML 249)	1462
 17226	Jibbali	for, against, on to	l-		(JL 158)	1462
-7806	Soqotri	on, over, against	ḷə-		(LS 227, CSOL I 598, CSOL II 522 – 523)	1462
+7806	Soqotri	on, over, against	ḷe-		(LS 227; CSOL I 598; CSOL II 522 – 523)	1462
 	Proto-MSA	to suck	*lˁb		(Kogan 2015:562–563)	1463
 17414	Mehri	to suck (mother’s milk)	lāb		(ML 249)	1463
 17416	Jibbali	(flocks) to give milk to their young	elˁéb		(JL 158)	1463
@@ -13965,21 +13903,19 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 17433	Harari	outside of, except, beside	zalta/zältā-m		(EDH 166)	1465
 	Proto-MSA	to touch	*lhm/lḥm		(Kogan 2015:563)	1466
 17471	Mehri	to touch	ləḥām		(ML 253)	1466
-17472	Jibbali	to touch	lɛhɛ́m		(JL 162)	1466
+17472	Jibbali	to touch	lɛhέm		(JL 162)	1466
 17473	Jibbali	to jump up and touch	laḥám		(JL 163)	1466
-7791	Soqotri	to touch	ḷɛ́hɛm		(LS 229, CSOL I 601, CSOL II 526)	1466
 	Proto-MSA	to patch leather	*lkd		(Kogan 2015:563)	1467
 17474	Mehri	to patch something made of leather	əwkūd		(ML 254)	1467
 17475	Jibbali	to patch leather	lkɔd		(JL 163)	1467
 17476	Soqotri	to make a saddle	ḷékod		(LS 233; Naumkin et al. 2014a:37, 53)	1467
 	Proto-MSA	jar, bottle	*lawḳ-at-		(Kogan 2015:563)	1468
 17477	Mehri	water jar, bottle	láwḳət		(ML 258)	1468
-17478	Jibbali	water jar, bottle	lɛ́bḳət		(JL 166)	1468
-17479	Soqotri	bottle	lʼóḳa		(LS 231)	1468
+17478	Jibbali	water jar, bottle	lέbḳət		(JL 166)	1468
+17479	Soqotri	bottle	ľóḳaʰ		(LS 231)	1468
 	Proto-MSA	South wind	*mid-at-		(Kogan 2015:563–564)	1469
 17480	Mehri	South wind	mədēt		(ML 261)	1469
 17481	Jibbali	South wind	mídét		(JL 169)	1469
-7769	Soqotri	south wind	méde		(LS 238, CSOL II 532)	1469
 	Proto-MSA	to be red-hot	*mrt		(Kogan 2015:564)	1470
 17482	Mehri	to be redhot	mīrət		(ML 270)	1470
 17483	Jibbali	to be redhot	mirt		(JL 174)	1470
@@ -13987,7 +13923,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	Proto-MSA	to give instructions	*mrṯ		(Kogan 2015:564)	1471
 17485	Mehri	to give instructions	mərūḏ̣		(ML 268)	1471
 17486	Jibbali	to give instructions	mérɔ́ḏ̣		(JL 173)	1471
-7744	Soqotri	to instruct, to admonish	méraṭ		(LS 250, CSOL I 613, CSOL II)	1471
+7744	Soqotri	to instruct, to admonish	méraṭ		(LS 250; CSOL I 613; CSOL II 541; Naumkin et al. 2015a:79)	1471
 	Proto-MSA	sand hill	*nag(V)r-		(Kogan 2015:564)	1472
 17487	Mehri	cliff of sand and stone; a sand or dust hill that cannot be rebuilt after collapsing	nōgər		(ML 287)	1472
 17488	Jibbali	cliff of sand and stone; a sand or dust hill that cannot be rebuilt after collapsing	núgur		(JL 184)	1472
@@ -13999,7 +13935,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	Proto-MSA	X. to complain	*nḥr		(Kogan 2015:565)	1474
 17492	Mehri	to complain	šənḥáwr		(ML 292)	1474
 17493	Jibbali	to complain	šənḥér		(JL 186)	1474
-7704	Soqotri	X. to complain	šénḥer		(LS 265, CSOL I 623, CSOL II 550)	1474
+7704	Soqotri	to complain	šénḥer		(LS 265, CSOL I 623, CSOL II 550)	1474
 	Proto-MSA	to choose	*nḳl		(Kogan 2015:565)	1475
 17495	Mehri	to choose	nəḳáwl		(ML 297)	1475
 17497	Jibbali	to choose	nḳɔl		(JL 190)	1475
@@ -14011,6 +13947,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	Proto-MSA	to pull out hair	*nsγ		(Kogan 2015:565)	1477
 17505	Mehri	to pull out hair	nūsəγ		(ML 299)	1477
 17506	Jibbali	to pull out hair	nísəγ		(JL 192)	1477
+17507	Soqotri	to pull out hair	násaˁ		(Naumkin et al. 2013a:78)	1477
 	PCS	joint, articulation (of the humerus)	*waṣil-		(SED I No. 289)	1478
 17539	Phoenician	joint	yṣlt		(Tomback 1978: 128)	1478
 17540	Hebrew	joint, armpit	ˀaṣṣīl		(HALOT 81)	1478
@@ -14047,65 +13984,46 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	PS	foot, sole of foot	*ŝayp		(SED I No. 269)	1482
 8981	Akkadian	foot	šēpu		(CAD Š₂ 294, AHw. 1214)	1482
 17616	Syriac	upper part; point of the nose	šepā		(LSyr. 794, SL 1585)	1482
-17617	Arabic	two sides of a sandal	šabāt-		(BK 1 1188, Lane 1501)	1482
+17617	Arabic	the point of the extremity of anything; the portion with which one cuts (in a sword); the two sides of the tapering head of a sandal	šabāt-		(BK 1 1188, Lane 1501)	1482
 17615	Endegen	sole of foot serving as measure	čämbä		(EDG 173)	1482
 17613	Ennemor	sole of foot serving as measure	čämba		(EDG 173)	1482
 17614	Gyeto	sole of foot serving as measure	čämba		(EDG 173)	1482
-	PS	(Achilles) tendon; sinew, muscle (of leg)	*ŝVry/w/ˁ-, *ŝVry/ ˁ-ān-		(SED I No. 268)	1483
-17618	Akkadian	limbs	mešrêtu (pl. t.)		(CAD M₂ 40, AHw. 649)	1483
-17619	Akkadian	sinew, tendon, muscle	šerˀānu (širˀānu)		(CAD Š₂ 308, AHw. 1216)	1483
-17620	Jewish Babylonian Aramaic	(pl.) muscles (of the eye)	šuryānē, suryānē		(Jastrow 1542, DJBA 1124b)	1483
-17621	Syriac	sinew, tendon	šāriṯā		(LSyr. 808, SL 1607)	1483
-17622	Syriac	sinew, tendon	šeryānā		(LSyr. 808, SL 1607)	1483
-17623	Mandaic	vein, artery, membrane, fibre	širiana		(MD 463)	1483
-17627	Arabic	tendon de la jambe de la gazelle (gazelle leg tendon)	ˀusrūˁ-		(BK 1 1082)	1483
-17626	Arabic	corde de l’arc (bowstring)	šarāˁat-		(BK 1 1217)	1483
-17625	Arabic	string, chord	šarˁat-, širˁat-		(BK 1 1217, Lane 1535)	1483
-17628	Arabic	artery	šariyyān-, širyān-		(BK 1 1224, Lane 1546)	1483
-17630	Geez	sinew, tendon, nerve, muscle	ŝərw, ŝur, ŝər		(CDG 535)	1483
-17631	Amharic	blood vessels	sərasər		(AED 487)	1483
-2702	Mehri	leg, foot	ŝrayn		(ML 382; Nakano 1986:9)	1483
-17678	Jibbali	muscles of the back	ŝərín		(JL 257)	1483
-17679	Soqotri	Achilles tendon	méŝəräˁ		(SSL LS 1473)	1483
 	Proto-MSA	to be far away, to migrate	*nŝy/*nŝˀ		(Kogan 2015:565–566)	1484
 17633	Mehri	to transhume, to migrate following pasture	nəŝū		(ML 303)	1484
 17634	Jibbali	to move to a place where rain has fallen, to transhume according to plan	nŝe		(JL 195)	1484
 	Proto-MSA	to make a sign	*nwp		(Kogan 2015:566)	1485
 17637	Mehri	to beckon, to make a sign	hə-nwūf		(ML 306)	1485
 17638	Jibbali	to beckon, to make a sign	eníf		(JL 198)	1485
-3114	Soqotri	to wave	nef		(LS 250; CSOL II 391)	1485
-7723	Soqotri	to wave intensely	nɛ́fnef		(LS 270; CSOL II 548)	1485
 	Proto-MSA	to fight (reflexive stem)	*nwḥ		(Kogan 2015:566)	1486
 17639	Mehri	to fight	əntáwḥ		(ML 306)	1486
 17640	Jibbali	to fight	əntɔ̄ ḥ		(JL 198)	1486
-7671	Soqotri	to quarrel	əntóuḥo		(LS 261, CSOL I 630, CSOL II 557)	1486
+7671	Soqotri	to quarrel	entóuḥo		(LS 261; CSOL I 630; CSOL II 557; Bulakh 2024:204)	1486
 	Proto-MSA	half	*paḳḥ-		(Kogan 2015:566–567)	1487
 17641	Mehri	half	faḳḥ		(ML 91)	1487
 17642	Jibbali	half	fɔḳḥ		(JL 56)	1487
-3700	Soqotri	part	faḳḥ		(LS 339, CSOL I 534, CSOL II 455)	1487
+3699	Soqotri	to reach the middle	fóḳiḥ		(LS 339; CSOL I 534)	1487
+3700	Soqotri	part	faḳḥ		(LS 339; CSOL I 534; CSOL II 455)	1487
 	Proto-MSA	to cover, to wear clothes	*pḳy		(Kogan 2015:567)	1488
 17643	Mehri	to cover	fḳō		(ML 92)	1488
 17644	Jibbali	to wear (clothes)	féḳé		(JL 56)	1488
-17645	Soqotri	mettre un vêtement	féḳe		(LS 340)	1488
+3698	Soqotri	cloth, garment	fíḳha		(LS 340; CSOL I 534; CSOL II 455)	1488
 	Proto-MSA	to flee in panic	*prd		(Kogan 2015:567–568)	1489
 14654	Mehri	to stampede, to panic; to make off, to run away	fәrōd		(ML 97)	1489
 17646	Jibbali	to stampede, panic; to make off, to run away	férɔ́d		(JL 59)	1489
-3742	Soqotri	to flee	férod		(LS 341, CSOL I 536, CSOL II 457)	1489
 	Proto-MSA	to yawn (reflexive-intensive stem)	*prr		(Kogan 2015:568)	1490
 17647	Mehri	to yawn	əftəráwr		(ML 97)	1490
 17648	Jibbali	to yawn	əftérér		(JL 59)	1490
 	Proto-MSA	to have lunch	*fŝy		(Kogan 2015:568)	1491
 17650	Mehri	to lunch	fəŝō		(ML 105)	1491
 17651	Jibbali	to lunch	fŝé		(JL 64)	1491
-17652	Soqotri	to have a lunch	fŝə		(LS 343, CSOL I 538, CSOL II 459)	1491
+17652	Soqotri	to have a lunch	fŝeʰ		(LS 343; CSOL I 538; CSOL II 459; Bulakh 2021:268, 277)	1491
 	Proto-MSA	to be naked	*pṭˁ		(Kogan 2015:568)	1492
 17653	Mehri	to be bare, naked	fəṭā		(ML 108)	1492
 17654	Jibbali	to be bare, naked	féṭaˁ		(JL 66)	1492
-3850	Soqotri	naked	fö́ṭaˁ		(LS 335, CSOL I 539)	1492
+3850	Soqotri	naked	fö́ṭaˁ		(LS 335; CSOL I 539)	1492
 	Proto-MSA	foam on milk	*rVbṯ-at-		(Kogan 2015:568)	1493
 17797	Mehri	foam on milk	rəbṯūt		(ML 314)	1493
 17798	Jibbali	foam on milk	rəbṯɔ́t		(JL 203)	1493
-17799	Soqotri	foam on milk	erbétoʰ		(LS 393; CSOL I 633)	1493
 	PS	eyelash; (tuft of) hair	*ŝVp(V)r-		(SED I No. 266)	1494
 17682	Akkadian	Kopffell (?); Fell an Hornwurzel	sappartu		(AHw. 1027)	1494
 17684	Hebrew	cilia, fin	sənappīr		(HALOT 761)	1494
@@ -14169,8 +14087,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	Proto-MSA	to step, to tread	*rkt		(Kogan 2015:569)	1500
 17800	Mehri	to step, to stand on, to tread	rəkūt		(ML 323)	1500
 17801	Jibbali	to step, to stand on, to tread	ɛrkɔ́t		(JL 211)	1500
-7626	Soqotri	to trample	rékot		(LS 400, CSOL I 635, CSOL II 565)	1500
-18088	Soqotri	camel’s hoof	rokt		(Simeone–Senelle–Lonnet 1988‒1989:231)	1500
 	PS	to leave	*ˁḏb		(DUL 148; HALOT 806; Kogan 2015: 309)	1501
 21460	Akkadian	to abandon, to desert, to leave	ezēbu		(CAD E 416; AHw 267)	1501
 17805	Ugaritic	to put, place, arrange	ˁdb		(DUL 148)	1501
@@ -14256,7 +14172,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 21507	Gafat	you (fem. sg.)	anči		(Bulakh–Kogan 2013b:95)	1510
 18035	Mehri	thou	hēt		(ML 161)	1510
 18032	Jibbali	you (fem. sg.)	hit		(JL 99)	1510
-3008	Soqotri	you (f.)	i, íhin		(LS 48, CSOL I 460, CSOL II 374)	1510
+3008	Soqotri	you (f.)	i, íhin		(LS 48; CSOL I 460; CSOL II 374)	1510
 	PS	he	*šū̆/šū̆ˀ/šū̆wa		(Kogan 2009:66)	1511
 18042	Akkadian	he	šū		(CAD Š₃ 155, AHw. 1254)	1511
 18046	Ugaritic	he, it	hw		(DUL 348)	1511
@@ -14271,7 +14187,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 18043	Mehri	he	hē		(ML 150)	1511
 18044	Jibbali	he	šɛ		(JL 259)	1511
 18050	Harsusi	he	hah		(HL 50)	1511
-18045	Soqotri	he	yhe		(LS 138, CSOL I 692, CSOL II 625)	1511
 	PS	she	*šī̆/šī̆ˀ/šī̆ya		(Kogan 2009:66)	1512
 18063	Akkadian	she	šī		(CAD Š₂ 365, AHw. 1224)	1512
 18068	Ugaritic	she, it	hy		(DUL 350)	1512
@@ -14302,7 +14217,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	Proto-MSA	sea	*rVmrVm-		(Kogan 2015:569)	1514
 4971	Mehri	sea	ráwrəm		(ML 333)	1514
 4972	Jibbali	sea	rέmnεm, rέmrεm		(JL 214)	1514
-7618	Soqotri	sea	rénhem		(LS 402, CSOL I 637, CSOL II 568)	1514
+7618	Soqotri	sea	rénhem		(LS 402; CSOL I 637; CSOL II 568; Naumkin et al. 2015a:83)	1514
 	Proto-MSA	to wait	*slb		(Kogan 2015:569)	1515
 18089	Mehri	to wait	sīləb		(ML 348)	1515
 18091	Jibbali	to wait	selb		(JL 228)	1515
@@ -14340,11 +14255,9 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 7527	Soqotri	to look	ṣet		(LS 156; CSOL I 654; CSOL II 587; Naumkin et al. 2015a:85)	1523
 	Proto-MSA	basket	*ṣaṭ(a)r-		(Kogan 2015:571)	1524
 18120	Mehri	basket	ṣóṭər		(ML 367)	1524
-7523	Soqotri	basket	ṣáṭar		(LS 349, CSOL II 588)	1524
 	Proto-MSA	old man	*šaḫar-		(Kogan 2015:571)	1525
 18121	Mehri	old man	hēḫər		(ML 162)	1525
 18122	Jibbali	old man	šáḫər		(JL 264)	1525
-7310	Soqotri	man	yhɛ́ḥar		(LS 210, CSOL I 693, CSOL II 626)	1525
 	Proto-MSA	sword	*šVkay-		(Kogan 2015:571)	1526
 18123	Mehri	sword	əškáy		(ML 394)	1526
 18124	Jibbali	sword	is̃tɔ́ˀ		(JL 314)	1526
@@ -14353,18 +14266,18 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 3578	Mehri	farm, cultivated field	məhnōy		(ML 159)	1527
 3579	Jibbali	to cultivate an orchard, a field	ešné		(JL 263)	1527
 18125	Jibbali	garden on the mountain	məšnúˀ		(JL 263)	1527
-7253	Soqotri	to sow, to plant	ʸhéne		(LS 145; CSOL II 628; Naumkin et al. 2016a:47)	1527
+7253	Soqotri	to sow, to plant	ʸhéne		(LS 145; CSOL II 628; Naumkin et al. 2016a:47; Bulakh 2024:197, 213)	1527
 	Proto-MSA	tray for fodder	*šVṭp-at-		(Kogan 2015:572)	1528
 18126	Mehri	shallow tray or basket used for fodder	šəṭfēt		(ML 396)	1528
 18127	Jibbali	shallow tray or basket used for fodder	s̃əṭfét		(JL 267)	1528
-18128	Soqotri	shallow tray or basket used for fodder	šəṭfəh		(Kogan 2015:571)	1528
+18128	Soqotri	shallow tray or basket used for fodder	šeṭfeh		(Kogan 2015:571)	1528
 	Proto-MSA	female calf	*šaṭar-		(Kogan 2015:572)	1529
 18129	Mehri	female calf	ḥōṭər		(ML 192)	1529
 18130	Jibbali	female calf	šɔ́ṭər		(JL 264)	1529
-7496	Soqotri	calf	šáṭar		(LS 415, CSOL I 661, CSOL II 594)	1529
 	Proto-MSA	ravine	*ŝVgVr-at-		(Kogan 2015:572)	1530
 18131	Mehri	ravine, valley	ŝəgərīt		(ML 374)	1530
-18132	Jibbali	ravine, valley	ŝəgərɛ́t		(JL 248)	1530
+18132	Jibbali	ravine, valley	ŝəgərέt		(JL 248)	1530
+7474	Soqotri	mountain pass	ŝégreʰ		(LS 426; CSOL I 665; CSOL II 598)	1530
 	Proto-MSA	frankincense	*ŝaḥz-		(Kogan 2015:572)	1531
 18133	Mehri	frankincense	ŝēḥəz		(ML 377)	1531
 18134	Jibbali	frankincense	ŝaḥz		(JL 250)	1531
@@ -14390,7 +14303,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 18150	Mehri	they (masc.)	hēm		(ML 157)	1534
 18153	Jibbali	they (masc.)	šum		(JL 262)	1534
 18152	Harsusi	they (masc.)	hōm		(HL 51)	1534
-	PS	they (fem.)	*šina		(Kogan 2009:68)	1535
+	PS	they (fem.)	*šina		(HALOT 252, Kogan 2009:68, Huehnergard 2019:51–52)	1535
 18160	Akkadian	they (fem.)	šina		(CAD Š₃ 35, AHw. 1240)	1535
 18161	Hebrew	they (fem.)	hēn/hēnnā		(HALOT 252)	1535
 18159	Biblical Aramaic	they (fem.)	ˀinnīn		(HALOT 1817)	1535
@@ -14399,17 +14312,18 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 18162	Mehri	they (fem.)	sēn		(ML 351)	1535
 18165	Jibbali	they (fem.)	sɛn		(JL 230)	1535
 18164	Harsusi	they (fem.)	sēn		(HL 111)	1535
+7577	Soqotri	they (f.)	sen, sénhen		(LS 288; CSOL I 644; CSOL II 576)	1535
 	Proto-MSA	to skin	*ŝry		(Kogan 2015:573)	1536
 18169	Mehri	to skin	ŝərū		(ML 386)	1536
 18170	Jibbali	to skin with a knife	ŝéré		(JL 256)	1536
 	Proto-MSA	cheek	*ṣ̂agm-		(Kogan 2015:573)	1537
 18171	Mehri	cheek	ẑāgəm		(ML 474)	1537
 18172	Jibbali	cheek	ẓ̂agm		(JL 324)	1537
-18173	Soqotri	cheek	ẓ̂ágəm		(Simeone–Senelle–Lonnet 1985‒1986:295, 1991:1479)	1537
+18173	Soqotri	cheek	ẓ̂ágem		(Simeone–Senelle–Lonnet 1985‒1986:295; Simeone-Senelle–Lonnet 1991:1479)	1537
 	Proto-MSA	to hold	*ṣ̂γṯ		(Kogan 2015:573)	1538
 18174	Mehri	to crumple, to squeeze, to take a grip on	ẑəγāṯ		(ML 475)	1538
 18175	Jibbali	to grip, to hold, to take a handful; to squeeze, to crumple	ẓ̂aγáṯ		(JL 324)	1538
-18176	Soqotri	to seize	ẓ̂óˁot		(LS 363; Naumkin et al. 2014b:50, 66)	1538
+18176	Soqotri	to seize	ẓ̂óˁot		(LS 363; Naumkin et al. 2014b:50, 66)	1538
 	Proto-MSA	thicket	*ṣ̂arḥ-		(Kogan 2015:573)	1539
 18177	Mehri	thicket, road up a mountain	ẑārḥ		(ML 477)	1539
 18178	Jibbali	an area full of bushes and trees, scrub	ẓ̂arḥ		(JL 327)	1539
@@ -14417,58 +14331,61 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	Proto-MSA	to lead	*tlk		(Kogan 2015:573)	1540
 18179	Mehri	to lead an animal by a rope	tlūk		(ML 401)	1540
 18180	Jibbali	to lead an animal by a rope	etlék		(JL 271)	1540
-18181	Soqotri	to lead	teḷék		(LS 441; CSOL I 676)	1540
 	Proto-MSA	clay	*ṭVˁr-		(Kogan 2015:573)	1541
-18182	Mehri	potter's clay	ṭōr		(ML 405)	1541
+18182	Mehri	potter’s clay	ṭōr		(ML 405)	1541
 18183	Jibbali	potter’s clay	ṭˁɔr		(JL 273)	1541
+7397	Soqotri	clay	ṭóˀḥor		(LS 202; CSOL I 681; CSOL II 615)	1541
 	Proto-MSA	side	*ṭapḥ-		(Kogan 2015:574)	1542
 18184	Mehri	mountain side	ṭafḥ		(ML 407)	1542
 18185	Jibbali	steep mountainside without (many) bushes	ṭafḥ		(JL 275)	1542
+7391	Soqotri	mountain slope	ṭáfḥaʰ		(LS 207; CSOL II 616)	1542
 	Proto-MSA	to vanish	*ṭhm		(Kogan 2015:574)	1543
 18186	Mehri	to disappear, to get lost	ṭɔhēm		(ML 407)	1543
-18187	Jibbali	to disappear, to vanish	ṭɛhɛ́m		(JL 275)	1543
+18187	Jibbali	to disappear, to vanish	ṭɛhέm		(JL 275)	1543
 18188	Soqotri	to grow old (of things)	ṭáham		(LS 200, CSOL II 616)	1543
+7388	Soqotri	to become old (of things)	ṭáhɛm		(LS 200; CSOL II 616)	1543
 	Proto-MSA	to go to sleep	*ṭnn		(Kogan 2015:574)	1544
 18191	Mehri	to go to sleep	ṭən		(ML 411)	1544
 18192	Jibbali	to go to sleep	ṭenn		(JL 279)	1544
+18193	Soqotri	to sleep, to relax	ṭen		(Naumkin et al. 2015a:90)	1544
 	Proto-MSA	to be smooth	*ṭšḳ		(Kogan 2015:574)	1545
 18194	Mehri	to be smooth	ṭɔhēḳ		(ML 407)	1545
 18195	Jibbali	to be smooth	ṭéšəḳ		(JL 280)	1545
+18196	Soqotri	1. to be slippery; 2. to slip	ṭáhaḳ		(LS 200; Naumkin et al. 2014b:51, 67)	1545
 	Proto-MSA	to moo	*ṯby		(Kogan 2015:574)	1546
 18197	Mehri	to moo, to low	ṯəbū		(ML 415)	1546
 18198	Jibbali	to moo, to low	ṯē		(JL 283)	1546
-7426	Soqotri	to moo (a cow)	tébe		(LS 438, CSOL II 608)	1546
 	Proto-MSA	to wound	*ṯḥr		(Kogan 2015:575)	1547
 18199	Mehri	to wound	həṯḥáwr		(ML 416)	1547
 18200	Jibbali	to wound	eṯḥér		(JL 284)	1547
-7420	Soqotri	to suffer from pain	tḥar		(LS 440, CSOL I 674, CSOL II 609)	1547
 	Proto-MSA	dung pellet	*ṯVfVr-at-		(Kogan 2015:575)	1548
 18201	Mehri	dung pellet	ṯəfərīt		(ML 416)	1548
 18202	Jibbali	dung pellet	ṯfírét		(JL 283)	1548
-7424	Soqotri	partially formed globular excrements of ruminants	tfɛ́re		(CSOL II 608)	1548
 	Proto-MSA	to nag, to offend	*ṯ̣br		(Kogan 2015:575)	1549
 18203	Mehri	to nag, to grumble	ḏ̣əbōr		(ML 82)	1549
 18204	Jibbali	to nag, to grumble	ḏ̣ɔ̄r		(JL 48)	1549
 	Proto-MSA	on, over	*ṯ̣a(h)r		(Kogan 2015:575)	1550
 6269	Mehri	on, over	ḏ̣ār		(ML 86)	1550
 6270	Jibbali	on, over	ḏ̣ér		(JL 50)	1550
+7386	Soqotri	1. on, above; 2. in addition, besides	ṭᵃhar		(LS 200; CSOL I 684; CSOL II 617; Naumkin et al. 2015a:90)	1550
 	Proto-MSA	piece of wood	*ṯ̣arb-		(Kogan 2015:575)	1551
 18207	Mehri	piece of wood	ḏ̣arb		(ML 85)	1551
 18208	Jibbali	piece of wood	ḏ̣arb		(JL 50)	1551
+7367	Soqotri	piece of (fire)wood	ṭarb		(LS 208; CSOL I 687; CSOL II 620)	1551
 	Proto-MSA	to smell	*ṯ̣wy		(Kogan 2015:575–576)	1552
 	Proto-MSA	to be silent	*wḳf		(Kogan 2015:576)	1553
 18211	Mehri	to fall silent, to keep quiet	wəḳáwf		(ML 427)	1553
 3068	Soqotri	to keep silence	ö́ḳaf		(LS 496; CSOL I 469; CSOL II 385 )	1553
 	Proto-MSA	thus	*ṭ		(Kogan 2015:576)	1554
 18213	Mehri	thus	wəṭō		(ML 433)	1554
-18214	Jibbali	thus	ṭɛ́nu		(JL 273)	1554
+18214	Jibbali	thus	ṭέnu		(JL 273)	1554
 	Proto-MSA	to go down	*zhr		(Kogan 2015:576)	1555
 18216	Mehri	to go down from the mountains to the plain	zəhēr		(ML 466)	1555
-18217	Jibbali	to go down from the mountains to the plain	zɛhɛ́r		(JL 317)	1555
+18217	Jibbali	to go down from the mountains to the plain	zɛhέr		(JL 317)	1555
 18218	Soqotri	to bring animals down from mountains, to go down from the mountains to the plain, to transhume downwards	zóhor		(LS 151; CSOL I 697)	1555
 	Proto-MSA	to draw (liquid)	*zlḳ		(Kogan 2015:576)	1556
 18219	Mehri	coconut shell used as a receptacle for clarified butter	məzəwḳāt		(ML 467)	1556
-18220	Jibbali	coconut shell used as a receptacle for clarified butter	mizɛ́lṣ̃ɔ́t		(JL 319)	1556
+18220	Jibbali	coconut shell used as a receptacle for clarified butter	mizέlṣ̃ɔ́t		(JL 319)	1556
 18221	Soqotri	to draw water from a well	zéḷaḳ		(LS 153; CSOL I 698)	1556
 	PS	which?	*ˀayy-		(Kogan 2009:72)	1557
 18859	Akkadian	which	ayyû		(CAD A₁ 234, AHw. 25)	1557
@@ -14627,7 +14544,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	PS	to love	*rˀm		(Kogan 2015: 366)	1577
 21401	Akkadian	to love	râmu		(CAD R 137)	1577
 21402	Arabic	to love, to be affected, inclined to	rˀm		(Lane 997)	1577
-7661	Soqotri	to be attached to someone, to be fond of him/her	róˀom		(LS 391; CSOL II 559)	1577
+7661	Soqotri	1. to be attached to someone, to be fond of him/her; 2. to fawn over	róˀom		(LS 391; CSOL II 559; Belozerova et al. 2023:569)	1577
 	PS	to be small	*ṣγr		(DRS 772; Kogan  2015: 353, 430)	1578
 21411	Akkadian	to become small, few, to be young	ṣeḫēru		(CAD ṣ 120)	1578
 2596	Ugaritic	servant	sγr, s̀γr		(DUL 755)	1578
@@ -14845,7 +14762,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 21650	Geez	hundred, century	məˀət		(CDG 324)	1607
 21653	Tigre	hundred	məˀət		(WTS 131)	1607
 21654	Amharic	hundred	məˀət		(AED 290)	1607
-21652	Soqotri	hundred	miˀe		(LS 237; CSOL I 606; CSOL II 531)	1607
+21652	Soqotri	hundred	míˀe or míˀa		(LS 237; CSOL I 606; CSOL II 531; Wehr 889; Behnstedt 1142)	1607
 	PS	to ask	*šˀl		(HALOT 1371)	1608
 21661	Akkadian	to ask, to inquire, to interrogate; to ask for something	šâlu/šaˀālu		(CAD Š₁ 274; AHw 1151)	1608
 23775	Ebla	asking one another	sa-da-um /šatā(ˀ)lum/		(VE 114, Kogan–Krebernik 2021b: 683)	1608
@@ -14887,6 +14804,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 21711	Akkadian	to send; to drive out, drive away, send away; to expel	ṭarādu		(CAD Ṭ 50; AHw)	1614
 21710	Arabic	to drive away, expel, banish	ṭrd		(Lane 1838)	1614
 21712	Sabaic	to chase a fugitive	ṭrd		(SD 153)	1614
+7363	Soqotri	to pursue; to drive, to chase away	ṭérod		(LS 208; CSOL I 688; CSOL II 621; Naumkin et al. 2016b:69)	1614
 	PWS	to be long	*ṭwl		(HALOT 373)	1615
 21717	Hebrew	(hip.) to throw far	ṭwl		(HALOT 373)	1615
 21714	Arabic	to be elongated, extended, long	ṭwl		(Lane 1895)	1615
@@ -15039,7 +14957,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	PS	yearling foal, small of domestic animals	*pVlw/y-		(SED II No. 174)	1642
 21913	Arabic	foal	filw-		(BK 2 634, Lane 2445)	1642
 21919	Tigre	term for a cow calf from the end of its first year to the first calf	fəlit		(WTS 653)	1642
-21917	Soqotri	yearling calf; small of cattle	fólhi		(Naumkin–Porhomovskiy 1981 15, LS 336)	1642
+3703	Soqotri	1. calf; 2. small of cattle	fóľhi		(LS 336; CSOL I 534; CSOL II 455; Naumkin–Porkhomovskiy 1981:15)	1642
 	PS	viscera	*di/arṣ-			1643
 21914	Arabic	foetus (de chat, de lièvre, de hérisson, de gerboise) (fetus (cat, hare, hedgehog, jerkin)	darṣ-, dirṣ-		(BK 1 689)	1643
 21915	Tigre	body, interior	dərəṣ		(LH 523)	1643
@@ -15130,8 +15048,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 22078	Soddo	to weep	bäššä		(EDG 136)	1654
 22063	Mehri	to weep	bəkō		(ML 46)	1654
 22062	Jibbali	to weep	béké		(JL 25)	1654
-3551	Soqotri	to weep	béše		(LS 99; CSOL II 520; CSOL II 438; Naumkin et al. 2015a:65)	1654
-3552	Soqotri	weeping	bóši		(LS 99; CSOL II 438)	1654
 	PS	skin; peel; scales; test	*gVl(a)p­at-		(SED I No. 80)	1655
 22012	Syriac	crab shell	glāptā		(LSyr. 119, SL 239)	1655
 22013	Arabic	peau d'une bête ôtée et vidée (skin of an animal removed and emptied)	ǯilf-		(BK 1 317)	1655
@@ -15148,12 +15064,12 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 22022	Arabic	grande nuée de sauterelles (large swarm of locusts)	dayaǯān-		(BK 1 756, LA II 277)	1657
 22023	Tigrinya	a kind of reddish fly which afflicts cows	duga		(TED 2156)	1657
 22024	Mehri	insect like a grasshopper	dəgdīg		(ML 65)	1657
-22026	Jibbali	insect like a grasshopper	dəgdég		(JL 35)	1657
+22026	Jibbali	insect like a grasshopper	dəgdég		(JL 35)	1657
 22025	Harsusi	insect like a grasshopper	degdīg		(HL 23)	1657
 	PS	kind of small creature	*dVlVl-		(SED II No. 68)	1658
 22027	Akkadian	a small animal, probably a frog	dālilu		(CAD D 51, AHw. 1549)	1658
 22028	Akkadian	a small animal, probably a frog	dallālu		(CAD D 52)	1658
-22029	Jibbali	kind of slowmoving snake	dololɛ́t		(JL 38)	1658
+22029	Jibbali	kind of slowmoving snake	dololέt		(JL 38)	1658
 	PS	kind of insect	*dim-		(SED II No. 69)	1659
 22033	Akkadian	a locust or bird; eine Art Heuschrecke (kind of grasshopper)	dimītu		(CAD D 143, AHw. 170)	1659
 22034	Arabic	pou; fourmi (louse; ant)	dimm-at-		(BK 1 728, Lane 910)	1659
@@ -15186,7 +15102,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	Proto-MSA	pus	*dVm-		(Kogan 2015: 551)	1667
 3786	Mehri	pus	dəm		(ML 71)	1667
 3787	Jibbali	pus	dihm		(JL 39)	1667
-3627	Soqotri	pus	dem		(CSOL I 528; CSOL II 447; Simeone-Senelle - Lonnet 1991:1454)	1667
+3627	Soqotri	pus	dem		(CSOL I 528; CSOL II 447; Simeone-Senelle–Lonnet 1991:1454)	1667
 	Areal reconstruction	stuffed skin given in place of her young one to a bereaved mother-animal	*gʷafl-/*gVfn-		(EDG 266, DRS 170, Kogan 2015: 554)	1668
 22141	Amharic	skin of a dead calf which is stuffed with straw and placed beside the cow during milking so that she will continue to let down milk	gʷäfla		(AED 2073)	1668
 22149	Selti	stuffed skin of a dead calf used during milking to make the cow believe that the calf is alive	gōflälä		(EDG 266)	1668
@@ -15231,7 +15147,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 22194	Jibbali	flea	ḏɛrḏér		(JL 47)	1674
 22191	Harsusi	ants	ḏarr		(HL 28)	1674
 22192	Harsusi	flea	ḏerḏīr		(HL 29)	1674
-22195	Soqotri	flea	dɛ́rher		(Morris 2003:321)	1674
 	PS	kind of bird	*raˀ/w/hy-		(SED II No. 187)	1675
 22201	Hebrew	red kite	rāˀā		(HALOT 1161)	1675
 22202	Arabic	crane	rahw-		(BK 1 943, Lane 1174, LA XV 342)	1675
@@ -15279,7 +15194,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	Proto-MSA	to abort	*ḫlš		(Kogan 2015: 558)	1682
 4045	Mehri	to give birth prematurely, abort	əḫtōləh		(ML 440)	1682
 4046	Jibbali	to abort	ḫɔ́tləš		(JL 300)	1682
-4047	Soqotri	to bear a child before due time, to miscarry, abort (about a human being)	(3 sg. f.) ḥtéḷʸhoʰ		(LS 178; Bulakh et al. 2021:241; Naumkin et al. 2022:276)	1682
+4047	Soqotri	to bear a child before due time, to miscarry, abort (about a human being)	(3 sg. f.) ḥtéḷʸhoʰ		(LS 178; Bulakh et al. 2021:241; Naumkin et al. 2022:276; Bulakh 2024:145)	1682
 	PS	(dead) body, back (of body)	*gVn(ā)z(-at)-		(SED I No. 87)	1683
 22251	Arabic	corpse, dead man	ǯanāzat-, ǯināzat-		(BK 1 339)	1683
 22252	Sabaic	corpses; the dead	gnzt-n		(Biella 73)	1683
@@ -15508,7 +15423,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	PS	to catch, to fish, to hunt	*bˀr		(EDA I 94)	1729
 16616	Akkadian	to catch, to fish, to hunt	baˀāru		(CAD B 2, AHw. 108)	1729
 12014	Mehri	fischen	bîter		(Jahn 1902:250)	1729
-12015	Jibbali	to hunt	ebtér		(JL 32)	1729
+12015	Jibbali	to hunt	ebtér			1729
 12016	Soqotri	pêcher (to fish)	bˁr		(LS 92)	1729
 	PS	to be clear	*brḥ		(EDA I 233)	1730
 22659	Akkadian	to shine	barāḫu		(CAD B 101, AHw 105, EDA 233)	1730
@@ -15698,7 +15613,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 22859	Arabic	middle of chest, chest, breastbone, etc.	ḥammāmat-		(BK 1 487)	1753
 22863	Tigre	a dish of entrails cut to pieces	ḥəmməto		(WTS 62)	1753
 22864	Tigrinya	a dish made of entrails of goat, sheep etc.	ḥəmməto		(Bass. 40)	1753
-7051	Soqotri	pudenda (male and female)	ḥaym		(CSOL I 569; Naumkin et al. 2013a:75; Simeone-Senelle - Lonnet 1991:1460)	1753
 	PS	to insult	*pry		(EDA I 228)	1754
 22876	Akkadian	to insult	parû		(CAD P 209, AHw 837)	1754
 22877	Arabic	IV. to blame, to censure	fry		(Lane 2391)	1754
@@ -15916,7 +15830,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 23183	Qatabanian	plain	br		(LIQ 33)	1784
 24779	Tigre	continent, country	bär		(WTS 274)	1784
 23185	Jibbali	far away desert	ɛbrɔ́r		(JL 27)	1784
-3527	Soqotri	an open place	bɛr		(LS 98; CSOL I 516; CSOL II 433)	1784
 	PS	kind of bird	*kVw-		(SED II No. 123)	1785
 23203	Akkadian	a kind of owl	akkû		(CAD A₁ 275, AHw. 29)	1785
 23204	Tigre	corbeau (the black vulture)	kuwa		(WTS 419)	1785
@@ -15999,7 +15912,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	PCS	(animal's) mouth, muzzle	*pVḳVm-		(SED I No. 214)	1798
 23289	Hebrew	to prick an animal's mouth with the bit	pāḳam		(Jastrow 1209)	1798
 23290	Arabic	mouth	fuqum-		(BK 2 622)	1798
-3701	Soqotri	lower jaw	fáḳam		(LS 340, CSOL I 534)	1798
+3701	Soqotri	lower jaw	fáḳam		(LS 340; CSOL I 534)	1798
 	PS	to raise, to lift	*nŝˀ		(AHw. 762, HALOT 724, DUL 2015: 639)	1799
 24021	Akkadian	carry, lift up	našû		(CAD N₂ 79, AHw. 762)	1799
 24027	Ebla	the one whose eyes are raised	na-si-ì a-na-a /našiˀ ˁaynay/		(VE 723, Kogan–Krebernik 2021b: 685)	1799
@@ -16188,7 +16101,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 14063	Harari	to penetrate	fullāsa āša		(EDH 62)	1820
 14019	Mehri	to hold the legs (of an animal) apart	fəlōs		(ML 94)	1820
 23467	Jibbali	to split; to hold apart, to separate	fɔ́lɔ́s		(JL 57)	1820
-3705	Soqotri	to hew	fö́ḷos		(CSOL I 535)	1820
+3705	Soqotri	1. to hew; 2. to wean, to stop suckling	fö́ḷos		(CSOL I 535; Naumkin et al. 2016b:67)	1820
 	PNWS	to examine, test	*bḥn		(EDA I 134)	1821
 23500	Hebrew	to put to test	bḥn		(HALOT 119)	1821
 23501	Official Aramaic	to examine	bḥn		(DNWSI 150)	1821
@@ -16226,7 +16139,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 23532	Soddo	to permit, to allow	fäḳḳädä		(EDG 239)	1823
 23522	Mehri	to miss	fәḳáwd		(ML 91)	1823
 23523	Mehri	to miss	fɔ́ḳɔ́d		(JL 56)	1823
-3697	Soqotri	to miss	fö́ḳad		(LS 339, CSOL I 534)	1823
 	PWS	kind of insect	*ḳut-		(SED II No. 140)	1824
 23551	Syriac	spider, spider web	ḳūtī		(LSyr. 656)	1824
 23699	Tigre	a kind of little grasshopper	ḳuttu		(WTS 250)	1824
@@ -16345,7 +16257,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 23696	Masqan	to scintillate	biriḳ bāyä		(EDG 155)	1837
 23697	Mehri	to lighten, to flash	bərḳáwt		(ML 53)	1837
 23698	Jibbali	to lighten, to flash	bɔrɔ́ḳɔ́t		(JL 28)	1837
-23711	Soqotri	to be visible, to appear	béraḳ		(Naumkin et al. 2014b:40, 56; LS 97)	1837
 	PWS	kind of bird	*ḳVr(Vl)l-		(SED II No. 136)	1838
 23700	Syriac	crane	ḳurlā		(LSyr. 696)	1838
 23701	Syriac	a kind of bird; a little fisheating waterfowl	ḳurillā		(LSyr. 696)	1838
@@ -16408,7 +16319,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 4604	Wolane	forehead	ḳäfät		(EDG 473)	1851
 23764	Zway	forehead	ḳäfät		(EDG 473)	1851
 23765	Mehri	back	ḳəfē		(ML 226)	1851
-23767	Jibbali	back	ḳɛ́fɛ́		(JL 142)	1851
+23767	Jibbali	back	ḳέfέ		(JL 142)	1851
 23766	Harsusi	back	ḳefē		(HL 74)	1851
 	PS	inner part, middle of the body	*ḳVrb-		(SED I No. 165)	1852
 23768	Akkadian	intestines, insides (in the pl.), mind, heart	ḳerbu		(CAD ḳ 216, AHw 914)	1852
@@ -16434,7 +16345,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 23788	Arabic	yesterday	ˀamsin		(Lane 99)	1855
 23789	Mehri	yesterday	yəmšē		(ML 6)	1855
 23790	Jibbali	yesterday	ˀəms̃ín		(JL 3)	1855
-3108	Soqotri	yesterday	ímšin		(LS 65 ; CSOL I 474 ; CSOL II 390 ; Naumkin et al. 2015a:57 )	1855
+3108	Soqotri	yesterday	ímši(n) or imšíne		(LS 65 ; CSOL I 474 ; CSOL II 390 ; Naumkin et al. 2015a:57 )	1855
 	PWS	bean	*bāḳil(l)ā-		(EDA I 159)	1856
 23792	Jewish Babylonian Aramaic	bean	bḳylˀ		(DJBA 230)	1856
 23793	Arabic	bean	bāqillā-		(Lane 236)	1856
@@ -16565,7 +16476,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 23963	Tigre	twenty	ˁəsra		(WTS 464)	1866
 23962	Tigrinya	twenty	ˁəsra		(TED 1859)	1866
 23959	Mehri	twenty	ˀāšráyn		(ML 33)	1866
-23960	Jibbali	twenty	ˁɛ́ŝərī		(JL 17)	1866
+23960	Jibbali	twenty	ˁέŝərī		(JL 17)	1866
 3330	Soqotri	twenty	ˁáŝeri		(LS 331; CSOL I 501; CSOL II 417)	1866
 	PS	to saw	*wŝr		(v. Kogan–Krebernik 2021b: 684)	1867
 23965	Akkadian	a saw	šaššāru		(CAD Š₂ 174; AHw. 1198)	1867
@@ -16707,6 +16618,9 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 20747	Masqan	to break	säbbärä		(EDG 532)	1881
 20748	Gogot	to break	säbbärä		(EDG 532)	1881
 20749	Soddo	to break	säbbärä		(EDG 532)	1881
+29394	Mehri	to break, break (the leg of); (storm, etc.) to subside	ṯəbūr		(ML 414–415)	1881
+29395	Jibbali	to break; (storm) to subside	ṯɔ̄r		(JL 282; MLZ 171)	1881
+29396	Harsusi	to break	ṯebōr		(HL 132)	1881
 	PS	genitals, testicles	*ḳ(ʷ)Vlḥ-		(SED I No. 171)	1882
 24130	Akkadian	vulva (hapax)	ḳallû (gallû)		(CAD ḳ 66, AHw 894)	1882
 7025	Geez	testicle	ḳʷəlḥ		(CDG 428)	1882
@@ -16758,7 +16672,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 24160	Arabic	unripe dates	busr-		(Lane 202)	1886
 24161	Muher	date	bəsərīt		(ML 55)	1886
 24162	Jibbali	date	bəsírə́t		(JL 29)	1886
-3553	Soqotri	a ripe date	béšrɛ		(LS 99; CSOL I 520; CSOL II 438)	1886
 	PWS	to disgrace, to oppress	*bzw		(EDA I 413)	1887
 15144	Hebrew	to despise	bzw		(HALOT 117)	1887
 15147	Jewish Palestinian Aramaic	to expose, to scorn, to disgrace	bzy		(DJPA 89)	1887
@@ -16905,7 +16818,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	PS	throat	*luγ(γ)-		(SED I No. 176 )	1913
 24326	Akkadian	throat	luˀu, luḫḫu		(CAD l 258, AHw 565)	1913
 24327	Arabic	word, phrase, language, idiom	luγat-		(BK 2 1007, WKAS II 911)	1913
-24328	Soqotri	gills	leˁánhen		(LS 235 )	1913
 	PS	jaw	*lVγ-		(SED I No. 177)	1914
 24354	Hebrew	jawbones (pl.)	mətalləˁōt		(HALOT 654)	1914
 24355	Jewish Babylonian Aramaic	jaw	lōˁā		(Jastrow 700)	1914
@@ -16926,7 +16838,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 6576	Arabic	elbow	marfiq-, mirfaq-		(Lane 1127)	1917
 	Proto-MSA	to be cold	*šḳḳ		(Kogan 2015:493)	1918
 3084	Jibbali	cold; numbness	šɛḳ		(JL 261)	1918
-2673	Soqotri	cold	ʸheḳ		(LS 421)	1918
+2673	Soqotri	to be cold	ʸheḳ		(LS 421)	1918
 	PWS	to cut	*ṣrb		(Kogan 2015:575)	1919
 24401	Geez	to hew	ṣaraba		(CDG 563)	1919
 24402	Soqotri	couper (to cut)	ṣérob		(LS 357)	1919
@@ -16948,7 +16860,8 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 24416	Soddo	to rope an animal to milk or to kill it; to make an opponent fall by intertwining one’s legs with his; to kidnap a girl to marry her; to snatch away	ṭälläfä		(EDG 617)	1921
 	Proto-MSA	to look	*ṭḳˁ		(Kogan 2015:595)	1922
 24418	Jibbali	to look	eṭḳáˁ		(JL 276)	1922
-	Proto-MSA	urine	*ṯ̣aḥam		(Kogan 2015:67)	1923
+24419	Soqotri	to look upwards	eṭḳáˁ		(LS 208; CSOL I 686; Naumkin et al. 2015a:90)	1922
+	Proto-MSA	urine	*ṯ̣aḥam		(Kogan 2015:67, 575)	1923
 24420	Mehri	urine	ḏ̣āḥəm		(ML 83)	1923
 18206	Jibbali	(animal) to make water	ḏ̣aḥám		(JL 48)	1923
 24421	Jibbali	urine	ḏ̣āḥəm		(JL 49)	1923
@@ -16963,6 +16876,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 24427	Gafat	traverser (cross, go across)	addä		(Leslau 1956:171)	1924
 	Proto-MSA	back	*ṭadaˁ		(Kogan 2015:596)	1925
 24437	Mehri	back	ṭádaˁ		(Sima 2009:518, 520)	1925
+7390	Soqotri	back	ṭádaˁ		(LS 199; CSOL I 683; CSOL II 616; Naumkin et al. 2015a:89)	1925
 	Proto-MSA	to mark	*ṭbḥ			1926
 24438	Mehri	to have a mark	ṭáwbəḫ		(ML 406)	1926
 24439	Soqotri	marque au fer rouge (red iron mark)	ṭábeḥ		(LS 198)	1926
@@ -16978,7 +16892,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 24448	Amharic	to be left over, remain	tärräfä		(CDG 579)	1928
 24449	Argobba	to be left over, remain	tärräfa		(CDG 579)	1928
 24450	Harari	to be left over, remain	täräfa		(CDG 579)	1928
-7405	Soqotri	to be cured	térof		(LS 446, CSOL I 678, CSOL II 613)	1928
 	PCS	to avenge blood	*ṯˀr		(Kogan 2015:328)	1929
 1859	Ugaritic	to avenge blood	ṯˀr		(DUL 891‒892)	1929
 1860	Arabic	to revenge one’s blood	ṯˀr		(Lane 327)	1929
@@ -17062,11 +16975,12 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 24513	Masqan	silver	bər		(EDG 150)	1940
 24514	Gogot	silver	bər		(EDG 150)	1940
 24520	Soddo	silver	bərr		(EDG 150)	1940
-	PS	to be confident, at rest	*bṭḥ		(Kogan 2015:486)	1941
+	PS	to be confident, at rest	*bṭḥ		(Kogan 2015:510)	1941
 13412	Hebrew	to be confident	bṭḥ		(HALOT 120)	1941
 14371	Jewish Babylonian Aramaic	to be confident	bṭḥ		(DJBA 196)	1941
 14372	Arabic	to spread, to expand, to extend; to throw somebody down upon his face; VII. to lie, to stretch oneself	bṭḥ		(Lane 216)	1941
 14373	Jibbali	to throw down on the belly	béṭaḥ		(JL 30)	1941
+24440	Soqotri	to lie on one’s belly	ṭábaḥ		(Naumkin et al. 2013a:83; Kogan 2015:510)	1941
 	PNWS	to explain	*bˀr		(Kogan 2015:96)	1943
 16619	Hebrew	(pi.) to explain, to elucidate	bˀr		(HALOT 106)	1943
 16620	Jewish Palestinian Aramaic	(pa.) to explain, to interpret	bˀr		(DJPA 83)	1943
@@ -17084,6 +16998,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 23541	Harari	to sell	asēma		(EDH 140)	1946
 23542	Mehri	to sell	ŝōm		(ML 369)	1946
 23544	Jibbali	to sell	ŝɛ̄m		(JL 244)	1946
+7487	Soqotri	to sell	ŝóˀom		(LS 429; CSOL I 663; CSOL II 596; Naumkin et al. 2015a:87)	1946
 	PES	to migrate	*gˁz		(CDG 175)	1947
 24629	Amharic	to travel, go on a trip, a journey	tägʷazä		(AED 2028)	1947
 24630	Harari	change residence	gāza		(EDH 77)	1947
@@ -17165,6 +17080,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 14836	Soddo	to comb, to winnow	(a)biṭṭärä		(EDG 166)	1961
 14833	Mehri	to tear	bəẑáwr		(ML 62)	1961
 24736	Jibbali	to tear	bɔ́ẓ̂ɔ́r		(JL 33)	1961
+3564	Soqotri	to cut	bö́ẓ̂ar		(LS 93; CSOL I 522; CSOL II 439)	1961
 	PES	to mix, to stir	*bṣbṣ		(EDA I 399)	1962
 15329	Geez	to mix up by stirring vigorously	baṣbaṣa		(CDG 111)	1962
 24738	Tigre	to stir about, to mix up	bäč̣bäč̣ä		(WTS 300)	1962
@@ -17425,7 +17341,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 25100	Soddo	judge	daññä		(EDG 216)	1991
 	PS	to be lost, to perish	*ˀbd			1992
 27625	Arabic	to flee, to run away at random	ˀbd		(Lane 4)	1992
-3019	Soqotri	to be spread, to lie flat	šɛˀɛ́bid		(CSOL I 464)	1992
+3019	Soqotri	to be spread, to lie flat	šɛˀέbid		(CSOL I 464)	1992
 	PS	to love	*wdd		(CDG 604)	1993
 25013	Sabaic	to entrust	h-wdd		(Stein 2010:234, 733)	1993
 12488	Geez	to put into, to join together	wadda		(CDG 604)	1993
@@ -17447,7 +17363,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 25024	Arabic	to be very sad	wǯm		(LA 12 750)	1996
 25025	Tigre	to be grieved	ˀagmä		(WTS 386)	1996
 25027	Tigrinya	to be hard, difficult for someone	ˀaggämä		(TED 1537)	1996
-3050	Soqotri	to block the way	ɛ́gim		(CSOL II 382)	1996
+3050	Soqotri	to block the way	έgim		(CSOL II 382)	1996
 	PWS	to beat, to fight	*wgy/ˀ		(CDG 607)	1997
 25053	Hebrew	(hip.) to torment, to grieve	ygy		(HALOT 385)	1997
 25054	Syriac	(aph.) depulit; prohibuit, defendit (to repel; to prohibit)	wgy		(LSyr. 295)	1997
@@ -17567,7 +17483,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	Proto-MSA	to chew cud	*ˀlḳ		(SEDonline)	2011
 25068	Mehri	to chew cud	awōləḳ		(ML 428)	2011
 25069	Jibbali	to chew cud	ōləḳ		(JL 291)	2011
-3099	Soqotri	to chew cud	ɛ́ľiḳ		(CSOL II 388)	2011
+3099	Soqotri	to chew cud	έľiḳ		(CSOL II 388)	2011
 	PCS	to shout	*ṣyḥ		(HALOT 1011, Kogan–Krebernik 2021b: 687)	2012
 25209	Ebla	to shout, to cry	za-a-ḫu-um /ṣayāḫum/		(VE 589, Kogan–Krebernik 2021b: 688)	2012
 25208	Ugaritic	to exclaim, shout; to invinte; to claim	ṣyḥ		(DUL 770)	2012
@@ -17591,7 +17507,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	Areal reconstruction	to open one's mouth	*ŝḥw/*ˀŝḥ		(LS 427)	2015
 25173	Arabic	to open one’s mouth	šḥw		(Lane 1514)	2015
 25174	Tigre	to yawn	säḥa		(WTS 172)	2015
-22052	Soqotri	to open one’s mouth repeatedly	ɛ́ŝiḥ		(Naumkin et al. 2019b:75; Naumkin et al. 2022:277, with fn. 91)	2015
+22052	Soqotri	to open one’s mouth repeatedly	έŝiḥ		(Naumkin et al. 2019b:75; Naumkin et al. 2022:277, with fn. 91)	2015
 	Areal reconstruction	to fashion (pottery)	*yṣr		(HALOT 428, DUL 972, Kogan–Krebernik 2021b: 688)	2016
 25244	Ugaritic	potter, ceramist	yṣr		(HALOT 428)	2016
 25246	Phoenician	potter	yṣr		(DNWSI 644)	2016
@@ -17658,6 +17574,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 25582	Masqan	to saddle, load	č̣anä		(EDG 182)	2019
 25583	Gogot	to saddle, load	č̣anä		(EDG 182)	2019
 25584	Soddo	to saddle, load	č̣anä		(EDG 182)	2019
+7398	Soqotri	to transhume	ṭáˁan		(LS 206; CSOL I 681; CSOL II 614; Naumkin–Kogan 2021 :529)	2019
 	PS	to go around, to turn	*dwr		(EDA II)	2020
 25345	Akkadian	to surround, to encircle	duāru		(AHw. 1551)	2020
 25319	Hebrew	to stack in circles; to stay permanently in one place, to dwell	dwr		(HALOT 217)	2020
@@ -17706,7 +17623,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 25328	Jibbali	time	dέhər		(JL 36)	2022
 3611	Soqotri	to stay	édher		(CSOL II 445)	2022
 25329	Soqotri	fate, misfortune	médheréten		(LS 123)	2022
-3609	Soqotri	always	dɛ́hɛr		(LS 123; CSOL I 526; CSOL II 445; Naumkin et al. 2015a:66)	2022
+3609	Soqotri	always	dέhɛr		(LS 123; CSOL I 526; CSOL II 445; Naumkin et al. 2015a:66)	2022
 	PS	a kind of enclosure	*dVwr-		(EDA II)	2023
 25346	Akkadian	animal pen (?)	dāru		(CAD D 115)	2023
 25347	Akkadian	(city) wall	dūru		(AHw. 178, CAD D 192)	2023
@@ -17772,7 +17689,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 25474	Jewish Babylonian Aramaic	to frequent, to visit	ṣwb		(DJBA 953)	2028
 25475	Syriac	congregatus est; advenit, visitavit (to come, to arrive, to visit)	ṣwb		(LSyr. 623)	2028
 25473	Arabic	to appear in a place where he/it should remain, (II) to declare to be right, to approve, (IV) to go right, to reach its goal’, (X) to consider to be right	ṣwb		(Lane 1739)	2028
-7522	Soqotri	to be straight	éṣṭəb		(Morris 2012:485, CSOL I 655, CSOL II 588)	2028
+7522	Soqotri	to be straight	éṣṭeb		(Morris 2012:485; CSOL I 655; CSOL II 588; Bulakh 2024:204)	2028
 	PWS	to add	*wsp		(HALOT 418)	2029
 25516	Phoenician	to add	ysp		(DNWSI 462)	2029
 25515	Hebrew	to add, to continue to do	ysp		(HALOT 418)	2029
@@ -17941,7 +17858,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 25898	Harari	to hit on the head with a stick or stone and draw blood	däx āšä		(EDH 55)	2044
 25899	Mehri	to knock	dək		(ML 68)	2044
 25900	Jibbali	to bump (against); to bang a hole in	dekk		(JL 37)	2044
-3616	Soqotri	to trample, to diminish	dɛ́kdek		(LS 127; CSOL I 446)	2044
 	PS	to be thin	*rḳḳ			2045
 25911	Akkadian	to become thin	raḳāḳu		(CAD R 167, AHw. 957)	2045
 25912	Ebla	thin	ra-gu /raḳḳu/		(VE 76, Kogan–Krebernik 2021b: 696)	2045
@@ -18108,7 +18024,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 26471	Arabic	to have an impediment in one’s speech; (IV) to lock a door	ˁǯm		(Lane 1966)	2081
 26472	Mehri	to be dumb; (Gt) to be blocked	ˀáygəm		(ML 160)	2081
 26473	Jibbali	to be dumb; (D) to block	ˁégəm		(JL 9)	2081
-25160	Soqotri	to shut	ˁégom		(LS 297; Bulakh et al. 2021:241)	2081
+25160	Soqotri	to shut	ˁégom		(LS 297; Bulakh et al. 2021:241; Bulakh 2024:103)	2081
 	PS	to cover	*γlp		(Kogan 2001:270, 2005c:189)	2083
 26497	Akkadian	to cover, to close	ḫalāpu		(CAD Ḫ 35)	2083
 26641	Akkadian	bandage	(h)ulāpu		(CAD Ḫ 228, AHw. 1408)	2083
@@ -18209,7 +18125,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 26710	Ebla	force	ḫu-zi-tum, ḫu-zi-ba-tum /γuṣittum/, /γuṣibtum/		(VE 562; Conti 1990: 158)	2102
 26711	Arabic	to take wrongfully, unjustly, injuriously or by force	γṣb		(Lane 2263)	2102
 26712	Mehri	to disarm, to take by force	γəṣáwb		(ML 143)	2102
-26714	Jibbali	to disarm, take by force	γɔ́ṣɔ́b		(JL 89)	2102
+26714	Jibbali	to disarm, take by force	γɔ́ṣɔ́b			2102
 26713	Harsusi	to defeat; to take by force, to disarm	γeṣōb		(HL 47)	2102
 	PArm	(to be) bad	*lḥy		(Kogan 2015:427)	2103
 26944	Old Aramaic	bad	lḥy		(DNWSI 571)	2103
@@ -18258,7 +18174,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	PWS	yesterday	*timāl-		(CDG 576)	2114
 27241	Akkadian	yesterday	timāli		(CAD T 416; AHw. 1359)	2114
 	Proto-MSA	to blame	*rγm		(CSOL I 141)	2115
-27273	Jibbali	to criticize	raγám		(JL 208)	2115
+27273	Jibbali	to criticize	raγám			2115
 	PNWS	to sell	*mkr		(HALOT 581)	2116
 27267	Akkadian	to do business, to use silver in business transactions	makāru		(CAD M1 126; Kogan 2006a:188)	2116
 27294	Akkadian	valuables, treasures, property, assets, estate	makkūru		(CAD M1 133)	2116
@@ -18294,7 +18210,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 27427	Hatran	counsel	mlk		(DNWSI 644)	2127
 27430	Jewish Palestinian Aramaic	(itpe.) to consult, to reconsider	mlk		(DJPA 310)	2127
 27431	Jewish Babylonian Aramaic	(itpe.) to consult; to reconsider	mlk		(DJBA 680)	2127
-27432	Syriac	to advise, to persuade; to promise	mlk		(LSyr:391; SL 771)	2127
+27432	Syriac	to advise, to persuade; to promise	mlk		(LSyr.:391; SL 771)	2127
 27433	Mandaic	to advise, counsel, to give advice	mlk		(MD 273)	2127
 	PS	to collect, to gather, to search	ḥpŝ		(HALOT 341)	2128
 27629	Ugaritic	woman gathering straw	ḥpšt		(DUL 367)	2128
@@ -18344,7 +18260,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 27684	Sabaic	financial obligation	rdyt		(SD 115)	2135
 27685	Qatabanian	profit	rdn		(LIQ 153)	2135
 27686	Geez	to pay interest	radaya		(CDG 463)	2135
-27687	Soqotri	to increase	rdy		(LS 394)	2135
 	PS	to be bound, attached; to hang	*ŝnḳ		(Kogan–Krebernik 2021a 381)	2136
 27693	Akkadian	to approach	sanāḳu		(CAD S 133, AHw. 1021)	2136
 27700	Syriac	phthisis	šnāḳā		(LSyr. 791)	2136
@@ -18353,7 +18268,6 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 27696	Sabaic	binding, constraining document	s2nḳt		(SD 133)	2136
 27697	Mehri	to hang	ŝənūḳ		(ML 381)	2136
 27698	Jibbali	to hang	ŝónúḳ		(JL 253)	2136
-27699	Soqotri	to hang	ŝénoḳ		(LS 431)	2136
 	PS	to protect, guard	*ḏmr		(HALOT 274, DUL 287 )	2137
 27708	Ugaritic	to protect, guard	ḏmr		(DUL 287 )	2137
 27709	Hebrew	strength	zimrā		(HALOT 274)	2137
@@ -18363,12 +18277,12 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 27713	Jewish Palestinian Aramaic	to swear	ymy		(DJPA 242)	2138
 27719	Samaritan	to swear	ymy		(DSA 348)	2138
 27714	Jewish Babylonian Aramaic	to swear	ymy		(DJBA 536)	2138
-27715	Syriac	to swear	ymy		(LSyr:303; SL 575)	2138
+27715	Syriac	to swear	ymy		(LSyr.:303; SL 575)	2138
 27716	Mandaic	to swear	yma (ˁma)		(MD 192)	2138
 27718	Maalula	to swear	ymy		(GNDM 55)	2138
 	Proto-MSA	to be soft	*rγṣ̂		(ML 320; Naumkin et al. 2022:269)	2139
 27729	Mehri	to interrupt in an unwelcome manner; to become soft	rəγāẑ		(ML 320)	2139
-27731	Jibbali	to become soft	raγáẓ̂		(JL 208)	2139
+27731	Jibbali	to become soft	raγáẓ̂			2139
 	PS	order, decision (divine)	*parṣ̂-		(Landsberger 1924–1925:68; Kogan 2008:96; EDA I 308; Kogan–Krebernik 2021a:392)	2140
 27782	Akkadian	rite, ritual; divine authority; authoritative decision, command, decree	parṣu		(CAD P 195; AHw. 835)	2140
 27783	Arabic	a thing made obligatory or binding by God	farḍ-		(Lane 2374)	2140
@@ -18378,7 +18292,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 27790	Official Aramaic	document	šṭr		(DNWSI 1124)	2141
 27791	Jewish Palestinian Aramaic	promissory note, note, deed	šṭr		(DJPA 546)	2141
 27793	Jewish Babylonian Aramaic	document, writ, deed	šəṭārā		(DJBA 1130)	2141
-27798	Syriac	deed, document	šṭārā, ˀešṭārā		(LSyr:773; SL 1549)	2141
+27798	Syriac	deed, document	šṭārā, ˀešṭārā		(LSyr.:773; SL 1549)	2141
 27784	Arabic	to write	sṭr		(Lane 1357)	2141
 27786	Sabaic	to write	s₁ṭr		(SD 129)	2141
 27787	Minaean	to write	s₁ṭr		(LM 83)	2141
@@ -18423,7 +18337,7 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 28058	Arabic	to be unable to see the sun	ǯhr		(Lane 474)	2148
 24591	Mehri	to be dazzled	gəhēr		(ML 117)	2148
 28056	Jibbali	to be dazzled; to have weak eyes, to be shortsighted	gɛhέr		(JL 73)	2148
-4108	Soqotri	shortsighted	gɛ́hɛr		(LS 104; CSOL II 463)	2148
+4108	Soqotri	shortsighted	gέhɛr		(LS 104; CSOL II 463)	2148
 	PWS	to cleave, to slit	ˁḳḳ		(SEDonline)	2149
 1721	Ugaritic	a destructive one	ˁḳḳ		(DUL 177)	2149
 1722	Arabic	to split, to rip, to cut	ˁqq		(Lane 2095)	2149
@@ -18436,3 +18350,76 @@ ID	DOCULECT	CONCEPT	VALUE	TOKENS	NOTE	COGID
 	Proto-MSA	to drown	*γrḳ		(LS 329)	2152
 28322	Mehri	to drown	γáyrəḳ		(ML 141)	2152
 28323	Jibbali	to drown	γérḳ		(JL 88)	2152
+	PS	to cover, to wrap, to make obscure, invisible	*γmd		(LS 313, Kogan 2001:283)	2153
+28330	Akkadian	to be evasive	ḫamādu		(CAD Ḫ 58, AHw. 315)	2153
+28326	Arabic	to put a sword in a sheath or scabbard	γmd		(Lane 2291)	2153
+28327	Mehri	to sheathe a sword	aγōməd		(ML 137)	2153
+28328	Mehri	sunset	γəmēd		(ML 138)	2153
+28329	Jibbali	to be hidden, obscured; to set (sun)	γõd		(JL 86)	2153
+3263	Soqotri	to set (the sun)	(3 sg. f.) ˁemédoʰ		(LS 313; CSOL I 492; CSOL II 410)	2153
+	Proto-MSA	to thunder; to threaten	*hdd		(Naumkin et al. 2016b:77-78)	2154
+28383	Mehri	to stop up, block up; to thunder	həd		(ML 152)	2154
+28382	Mehri	to threaten	hdīd		(ML 152)	2154
+28385	Jibbali	to threaten	ɛhdéd			2154
+28384	Jibbali	to thunder	hɔddɔ́t			2154
+	PWS	to push, to thrust	dfˁ		(DRS 299)	2155
+16891	Arabic	to impel, push; thrust; drive	dfˁ		(Lane 890)	2155
+28428	Geez	to thrust, to push	dafˁa		(CDG 124)	2155
+28429	Tigrinya	to shatter, to smash, to crush one’s head with a stick	däffəˁe		(TED 2176)	2155
+	PS	to mix, to stir	*rbk		(HALOT  1179; BDB 916)	2156
+28521	Akkadian	to decoct	rabāku		(AHw. 933; CAD R 8)	2156
+28522	Hebrew	(hop. part.) mixed	murbäkät		(BDB 916; HALOT  1179)	2156
+28523	Arabic	to mix, to mingle	rbk		(Lane 1021)	2156
+28524	Mehri	to disturb, interrupt	rəbūš		(ML 313)	2156
+28526	Jibbali	to interrupt, to disturb	rɔ̄s̃			2156
+28525	Harsusi	to disturb	rebáš		(HL 101)	2156
+	PS	hand-mill, millstone	*riḥay-		(LS 397; Fronzaroli 1972:633; HALOT  1216)	2157
+28530	Akkadian	grinding slab, handmill	erû, irû		(AHw. 247; CAD E 323)	2157
+28531	Ugaritic	(du.) millstone	rḥm		(DUL 724)	2157
+28532	Hebrew	(du.) millstone	rēḥayim		(BDB 932; HALOT  1216)	2157
+28533	Syriac	mill, millhouse, millstone	raḥyā		(LSyr.:723; SL 1455)	2157
+28534	Arabic	mill, millstone	raḥan		(Lane 1057)	2157
+28535	Mehri	handmill	ərḥā		(ML 322)	2157
+28537	Jibbali	handmill	ráḥaˀ			2157
+28536	Harsusi	handmill	reḥáˀ		(HL 104)	2157
+7637	Soqotri	rotating handmill (two slabs on an axis)	rᵉḥa		(LS 397; CSOL II 564)	2157
+	Proto-MSA	to lick	*rḥy		(Naumkin et al. 2013a:79)	2158
+28581	Jibbali	to lick	raḥé			2158
+	Proto-MSA	to come loose, to be released	*rḫy		(ML 335)	2159
+28675	Mehri	(H) to release, slacken	hərḫū		(ML 335)	2159
+28674	Jibbali	to pay out (a rope); to slacken, loosen	erḫé		(JL 218)	2159
+28673	Harsusi	to come loose	reḫō		(HL 107)	2159
+	PWS	to be sufficient, to be abundant	*ŝpḳ		(Naumkin et al. 2022:276)	2160
+28919	Hebrew	abundance	säpäḳ		(HALOT 765)	2160
+28920	Hebrew	to reach, to be sufficient	ŝpḳ		(HALOT 1349)	2160
+28921	Jewish Palestinian Aramaic	to suffice	spḳ		(DJPA 386)	2160
+28922	Jewish Babylonian Aramaic	to be sufficient, capable	spḳ		(DJBA 827)	2160
+28923	Syriac	to be sufficient, capable	spḳ		(LSyr. 491)	2160
+28924	Sabaic	to satiate	s₂pḳ		(SD 131)	2160
+28926	Geez	to grow thickly, densely	safaḳa		(CDG 488)	2160
+28927	Tigre	to be dense (forest, bushes)	šafḳa		(WTS 231)	2160
+26695	Soqotri	to be wellformed, welldeveloped (about a newborn child or animal); to be clever, intelligent	ŝéfaḳ		(Naumkin et al. 2016b:63; Naumkin et al. 2022:276)	2160
+	PCS	to think	*fkr			2161
+17284	Turoyo	VIII. denken (to think)	ftkr		(JL 172)	2161
+11988	Arabic	to think	fkr		(Lane 2431)	2161
+3696	Soqotri	to think	fótker		(LS 336; Bulakh 2024:187; CSOL I 533; CSOL II 454)	2161
+	PS	to tread, to trample; to kick	*rkṣ̂		(LS 400)	2162
+29105	Arabic	to kick, to strike with a leg; to run	rkḍ		(Lane 1146)	2162
+29102	Mehri	(horse, camel) to kick backwards, to trample	rəkūẓ̂		(ML 324)	2162
+29103	Jibbali	to kick backwards	ɛrkɔ́ẓ̂			2162
+29104	Harsusi	to kick (backwards)	rekōẓ̂		(HL 104)	2162
+	Proto-MSA	to be broad, spacious; to stretch, spread	*rḳff		(Kogan 2015:595)	2163
+29145	Jibbali	to give st. a broad, spacious surface; to make flat, flatten	erḳəféf		(JL 213)	2163
+29146	Jibbali	broad (person)	erḳəfɔ́f		(JL 213; MLZ 391)	2163
+	PWS	to look	*ŝky		(Naumkin et al. 2022:279)	2164
+29155	Hebrew	image; imagination	maŝkīt		(HALOT 641)	2164
+29156	Jewish Palestinian Aramaic	to look, to expect; to wait, to hope	sky		(DJPA 377)	2164
+29157	Jewish Babylonian Aramaic	to wait	sky		(DJBA 809)	2164
+29158	Syriac	expectavit (to wait)	sky		(LSyr. 473)	2164
+29159	Geez	to look, to observe	sakawa		(CDG 498)	2164
+29160	Jibbali	to look all day long to see if any animals are missing	eŝŝóki		(JL 251)	2164
+	Proto-MSA	to chop (meat); to arrange properly	*rṭḥ		(ML 331)	2165
+29382	Mehri	to arrange (meat) for cooking, to dress, butcher (meat) properly	arōṭəḥ		(ML 331)	2165
+29383	Jibbali	to chop (meat)	réṭaḥ		(JL 217; MLZ 382)	2165
+29384	Harsusi	to arrange properly	arēṭeḥ		(HL 106)	2165
+7612	Soqotri	to cut, to dismember	róṭiḥ		(CSOL II 568)	2165

@@ -6,6 +6,12 @@ from pylexibank import progressbar as pb
 from pylexibank import Language
 from pylexibank import FormSpec
 
+from raw.misc.replacements import replacements
+
+blacklist = set(["Ì.GIŠ [m]ar-ru₁₂-um", "sú-ú-[sí-ma]", "íb-dum;  ì-ba-dum", "š[ˁl]", "*ḥVṣ-; *ḥVṣVṣ-",
+                 "ù-gi-l[um]", "ti-[n]a?-[t]u₄", "ma-ar-˹ba˺-d[u]", "ga-ag-gi-m[i]"
+                 "ri-i[g]-lu", "ma-[s]a-a-um /mašāyum/", "ŠE.MEŠ ḳè-e-ṣí", "ˀà-u₉"])
+id_blacklist = set(["12082", "1286"])
 @attr.s
 class CustomLanguage(Language):
     NameInSource = attr.ib(default=None)
@@ -13,70 +19,9 @@ class CustomLanguage(Language):
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "kogansemitic"
+    # TODO: Export replacements to a separate file
     form_spec = FormSpec(separators=",/ ", missing_data=["∅"], first_form_only=True,
-                         replacements=[("*", ""),
-                                       ("­", ""),
-                                       ("1", ""),
-                                       ("V̄", "-"),
-                                       ("V", "-"),  # TODO: Implement Uncertainty (List 2023 4.2)
-                                       ("̱V", "-"),
-                                       ("S", "-"),
-                                       # ("S", "s/š/ŝ"), # TODO: Implement Uncertainty (List 2023 4.2)
-                                       ("ˇ", "-"),
-                                       ("I", "-"),
-                                       ("A", "-"),
-                                       # ("̄", "ː"), # TODO: Understand how to apply this to all long vowels
-                                       ("y", "j"),
-                                       ("ǯ", "g"),
-                                       ("ǯ", "g"), # ǯ doesn't work, and dʒ is treated as two characters
-                                       ("γ", "ɣ"),
-                                       ("ḫ", "x"),
-                                       ("ṯ̣", "θˤ"), # http://sed-online.ru/words/25279
-                                       ("ṯ", "θ"),
-                                       ("ṯ", "θ"),
-                                       ("ˁ", "ʕ"),
-                                       ("ˀ", "ʔ"),
-                                       ("ˀ̣", "̣ʔ"),
-                                       ("ā̆", "a"),  # long short vowel doesn't make sense
-                                       ("āⁿ", "aː"), # We ignore tanween since unrelated to proto-semitic
-                                       ("ā", "aː"),
-                                       ("ă", "ă"),  # TODO: understand why this transcription is not automatically applied even though it is in the orthographic profile.
-                                       ("ǟ", "æː"),
-                                       ("ǟ", "æː"),
-                                       ("ä", "æ"),  # 2 chars to 1
-                                       ("ä", "æ"),
-                                       ("aⁿ", "a"), # We ignore tanween since unrelated to proto-semitic
-                                       ("ī̆", "i"),  # long short vowel doesn't make sense
-                                       ("ī", "iː"),
-                                       ("iⁿ", "iː"), # We ignore tanween since unrelated to proto-semitic
-                                       ("ū̆", "u"),  # long short vowel doesn't make sense
-                                       ("ū", "uː"),
-                                       ("ō̆", "o"),  # long short vowel doesn't make sense
-                                       ("ō", "oː"),
-                                       ("ŏ", "ŏ"),
-                                       ("ē̆", "e"),  # long short vowel doesn't make sense
-                                       ("ē", "eː"),
-                                       ("ә", "ə"),
-                                       ("ṗ", "p"),
-                                       ("ǧ", "g"),
-                                       ("š", "ʃ"),
-                                       ("ṣ̂", "ɬˤ"),
-                                       ("ŝ", "ɬ"), # voiceless alveolar lateral fricative consonant
-                                       ("ṣ̂", "ɬˤ"),
-                                       # ("ŝₓ", "ɬ|s"), # TODO: implement uncertainty
-                                       # ("ḏ̣̣", "ðˤ"), # shouldn't be needed but the pipeline is not working properly
-                                       ("ḏ", "ð"), # ذ
-                                       ("ð̣", "ðˤ"), # ظ
-                                       ("ḥ" ,"ħ"),  #ح
-                                       ("ḳ", "qˤ"),  #ق
-                                       ("ṣ", "sˤ"),  #ص
-                                       ("ṭ", "tˤ"),  #ط
-                                       # ("ẓ", "zˤ"),  #ظ
-                                       ("ḍ", "dˤ") #ض
-                                       # ("ḍ", "d̪ˡ"),  # ض
-
-                                       # from emphatic interdental fricative to velarized voiced dental fricative
-                                       ])
+                         replacements=replacements)
     language_class = CustomLanguage
 
     # def cldf_specs(self):  # A dataset must declare all CLDF sets it creates.
@@ -130,8 +75,12 @@ class Dataset(BaseDataset):
             if not cid:
                 args.log.info(f"Concept for {row['ID']} not found")
                 continue
-            lid = slug(row["DOCULECT"])
+            lid = slug(row["DOCULECT"]) #TODO: remove slug
             entry = row["VALUE"]
+            # skip blacklisted entries
+            if entry in blacklist or row["ID"] in id_blacklist:
+                continue
+
             for lex in args.writer.add_forms_from_value(
                     Language_ID=lid,
                     Parameter_ID=cid,

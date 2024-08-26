@@ -32,9 +32,20 @@ def filter_by_proto(sed, proto_lang="PS", num_langs=7):
     data = data[data['DOCULECT'].isin(top_languages)]
     return data
 
+def filter_by_protos(sed, proto_langs=["PWS", "PCS", "PES"], num_langs=None):
+    """
+    Filter the SED data to only include cognates deriving from a certain proto language doculect.
+    """
+    data = sed.groupby('COGID').filter(lambda x: any(proto_lang in x['DOCULECT'].values for proto_lang in proto_langs))
+    # take the first 7 most common doculects
+    languages = data.groupby("DOCULECT").size().sort_values(ascending=False)
+    top_languages = languages.head(num_langs).index
+    data = data[data['DOCULECT'].isin(top_languages)]
+    return data
+
 if __name__ == "__main__":
     sed = pd.read_csv('Scrapers/sed.tsv', sep='\t', dtype={'ID': str})
     # sed = split_values(sed)
     # sed = split_concepts(sed)
-    sed = filter_by_proto(sed)
+    # sed = filter_by_proto(sed)
     sed.to_csv('cldf-datasets/kogansemitic/raw/sed.tsv', sep='\t', index=False)

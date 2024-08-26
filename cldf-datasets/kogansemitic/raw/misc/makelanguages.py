@@ -62,8 +62,20 @@ def main():
 
     langs_df = pd.DataFrame(langs)
 
+
+
+    # counts = df.groupby('DOCULECT').size().sort_values(ascending=False)
+    #
+    # # create COUNT column in langs_df
+    # langs_df['COUNT'] = langs_df['NameInSource'].apply(lambda x: counts.get(x, 0))
+    # langs_df = langs_df.sort_values("COUNT", ascending=False)
+
     # Save the DataFrame to a TSV file
     langs_df.to_csv(out_path, sep="\t", index=False)
+
+
+
+    print(f"Saved {len(langs_df)} languages to {out_path}")
 
 if __name__ == "__main__":
     main()
