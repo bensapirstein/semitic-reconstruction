@@ -1,0 +1,5 @@
+SVM & CorPaR:
+https://colab.research.google.com/drive/1BAGT0wHFFw6ISIGQugMHZFoTmr78km-C?usp=sharing
+
+CognateTransformer:
+https://colab.research.google.com/drive/1BdPlbwtvlolZvADbePVpN7XKhQAk_-O1?usp=sharing
